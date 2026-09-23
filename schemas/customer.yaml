@@ -1,0 +1,74 @@
+# Schema for the customer dataset.
+# Types are logical (email, categorical), not pandas dtypes.
+name: customer
+description: Customer master data exported from the CRM.
+strict: false
+primary_key:
+  - customer_id
+
+schema:
+  customer_id:
+    type: integer
+    required: true
+    nullable: false
+    unique: true
+    description: Surrogate key from the CRM.
+
+  first_name:
+    type: string
+    required: true
+    max_length: 60
+    pii: true
+
+  last_name:
+    type: string
+    required: true
+    max_length: 60
+    pii: true
+
+  email:
+    type: email
+    required: true
+    pii: true
+
+  phone:
+    type: phone
+    required: false
+    pii: true
+
+  age:
+    type: integer
+    min: 18
+    max: 100
+
+  country_code:
+    type: categorical
+    min_length: 2
+    max_length: 2
+
+  country:
+    type: string
+    required: false
+
+  city:
+    type: string
+    required: false
+
+  signup_date:
+    type: datetime
+    required: true
+
+  lifetime_value:
+    type: float
+    min: 0
+
+  is_active:
+    type: boolean
+
+  segment:
+    type: categorical
+    allowed:
+      - bronze
+      - silver
+      - gold
+      - platinum

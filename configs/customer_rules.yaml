@@ -1,0 +1,32 @@
+# Business rules for customer data.
+#
+# Conditions are evaluated by the safe expression engine: a restricted subset of
+# Python plus a few SQL-style keywords (IS NULL / IS NOT NULL / AND / OR).
+# Attribute access, imports, lambdas and comprehensions are rejected at parse
+# time, so a rule file is data, never code.
+rules:
+  - name: email_present
+    condition: "email IS NOT NULL"
+    description: Every customer record must carry an email address.
+
+  - name: valid_email
+    condition: "is_email(email)"
+    description: The email address must be syntactically valid.
+
+  - name: adult_customer
+    condition: "age >= 18"
+    description: The service is not offered to minors.
+
+  - name: plausible_age
+    condition: "age <= 100"
+    severity: warning
+    description: Ages above 100 are usually data-entry errors.
+
+  - name: non_negative_value
+    condition: "lifetime_value >= 0"
+    description: Lifetime value can never be negative.
+
+  - name: known_segment
+    condition: "segment in ['bronze', 'silver', 'gold', 'platinum']"
+    severity: warning
+    description: Segments outside the catalogue break downstream reporting.

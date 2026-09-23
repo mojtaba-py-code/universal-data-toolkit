@@ -1,0 +1,43 @@
+# Load a cleaned CSV into PostgreSQL.
+#
+# The password is read from the environment - never write it here:
+#   PG_PASSWORD=... data-tool run configs/postgres_pipeline.yaml
+#
+# Bring the database up first with `docker compose up -d postgres`.
+pipeline:
+  name: customers_to_postgres
+
+input:
+  type: csv
+  path: ../sample_data/customers_raw.csv
+
+steps:
+  - clean:
+      normalize_columns: true
+      trim_whitespace: true
+      convert_types:
+        age: int
+        lifetime_value: float
+      date_columns:
+        - signup_date
+      missing_values: median
+      remove_duplicates: true
+
+  - validate:
+      schema: ../schemas/customer.yaml
+      mode: filter
+
+  - mask_pii:
+      strategy: hash
+
+output:
+  type: postgresql
+  table: customers
+  if_exists: replace
+  connection:
+    driver: postgresql
+    host: ${PGHOST:-localhost}
+    port: ${PGPORT:-5432}
+    database: ${PGDATABASE:-datatoolkit}
+    username: ${PGUSER:-datatoolkit}
+    password_env: PG_PASSWORD

@@ -1,0 +1,48 @@
+# Local environment: the toolkit plus a PostgreSQL instance to load into.
+#
+#   cp .env.example .env      # then set PG_PASSWORD
+#   docker compose up -d postgres
+#   docker compose run --rm data-tool inspect /data/sample_data/customers_raw.csv
+#   docker compose run --rm data-tool run /data/configs/postgres_pipeline.yaml
+
+services:
+  postgres:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_DB: ${PGDATABASE:-datatoolkit}
+      POSTGRES_USER: ${PGUSER:-datatoolkit}
+      POSTGRES_PASSWORD: ${PG_PASSWORD:?PG_PASSWORD must be set in .env}
+    ports:
+      - "${PGPORT:-5432}:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${PGUSER:-datatoolkit} -d ${PGDATABASE:-datatoolkit}"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+    restart: unless-stopped
+
+  data-tool:
+    build:
+      context: .
+      target: runtime
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      PGHOST: postgres
+      PGPORT: 5432
+      PGDATABASE: ${PGDATABASE:-datatoolkit}
+      PGUSER: ${PGUSER:-datatoolkit}
+      PG_PASSWORD: ${PG_PASSWORD}
+      UD_MASKING_SALT: ${UD_MASKING_SALT:-}
+    volumes:
+      # The project is mounted read-write so pipelines can write into output/.
+      - ./:/data
+    working_dir: /data
+    # Overridden on the command line; `--help` keeps the container from idling.
+    command: ["--help"]
+
+volumes:
+  postgres_data:

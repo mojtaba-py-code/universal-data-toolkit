@@ -1,0 +1,1502 @@
+[
+  {
+    "product_id":1,
+    "sku":"BOO-00001",
+    "name":"Books item 1",
+    "category":"books",
+    "unit_cost":109.46,
+    "unit_price":239.44,
+    "stock":449,
+    "created_at":"2025-07-22 03:47:42"
+  },
+  {
+    "product_id":2,
+    "sku":"HOM-00002",
+    "name":"Home item 2",
+    "category":"home",
+    "unit_cost":75.7,
+    "unit_price":105.02,
+    "stock":273,
+    "created_at":"2024-09-20 04:00:42"
+  },
+  {
+    "product_id":3,
+    "sku":"TOY-00003",
+    "name":"Toys item 3",
+    "category":"toys",
+    "unit_cost":88.3,
+    "unit_price":183.92,
+    "stock":403,
+    "created_at":"2025-10-16 02:18:42"
+  },
+  {
+    "product_id":4,
+    "sku":"HOM-00004",
+    "name":"Home item 4",
+    "category":"home",
+    "unit_cost":131.88,
+    "unit_price":295.59,
+    "stock":44,
+    "created_at":"2024-09-14 10:56:42"
+  },
+  {
+    "product_id":5,
+    "sku":"ELE-00005",
+    "name":"Electronics item 5",
+    "category":"electronics",
+    "unit_cost":67.94,
+    "unit_price":121.58,
+    "stock":290,
+    "created_at":"2023-04-18 21:08:42"
+  },
+  {
+    "product_id":6,
+    "sku":"ELE-00006",
+    "name":"Electronics item 6",
+    "category":"electronics",
+    "unit_cost":252.51,
+    "unit_price":435.77,
+    "stock":422,
+    "created_at":"2025-03-26 12:08:42"
+  },
+  {
+    "product_id":7,
+    "sku":"TOY-00007",
+    "name":"Toys item 7",
+    "category":"toys",
+    "unit_cost":383.99,
+    "unit_price":505.29,
+    "stock":523,
+    "created_at":"2024-08-23 13:56:42"
+  },
+  {
+    "product_id":8,
+    "sku":"HOM-00008",
+    "name":"Home item 8",
+    "category":"home",
+    "unit_cost":37.94,
+    "unit_price":71.74,
+    "stock":348,
+    "created_at":"2024-04-20 00:37:42"
+  },
+  {
+    "product_id":9,
+    "sku":"HOM-00009",
+    "name":"Home item 9",
+    "category":"home",
+    "unit_cost":301.91,
+    "unit_price":573.07,
+    "stock":517,
+    "created_at":"2024-01-16 10:45:42"
+  },
+  {
+    "product_id":10,
+    "sku":"SPO-00010",
+    "name":"Sports item 10",
+    "category":"sports",
+    "unit_cost":145.76,
+    "unit_price":185.57,
+    "stock":337,
+    "created_at":"2023-08-17 00:56:42"
+  },
+  {
+    "product_id":11,
+    "sku":"TOY-00011",
+    "name":"Toys item 11",
+    "category":"toys",
+    "unit_cost":218.27,
+    "unit_price":445.76,
+    "stock":8,
+    "created_at":"2023-06-21 01:47:42"
+  },
+  {
+    "product_id":12,
+    "sku":"BOO-00012",
+    "name":"Books item 12",
+    "category":"books",
+    "unit_cost":154.32,
+    "unit_price":188.59,
+    "stock":265,
+    "created_at":"2025-11-19 12:40:42"
+  },
+  {
+    "product_id":13,
+    "sku":"SPO-00013",
+    "name":"Sports item 13",
+    "category":"sports",
+    "unit_cost":170.88,
+    "unit_price":284.61,
+    "stock":396,
+    "created_at":"2026-04-08 18:07:42"
+  },
+  {
+    "product_id":14,
+    "sku":"ELE-00014",
+    "name":"Electronics item 14",
+    "category":"electronics",
+    "unit_cost":292.84,
+    "unit_price":361.15,
+    "stock":12,
+    "created_at":"2023-02-07 06:20:42"
+  },
+  {
+    "product_id":15,
+    "sku":"BOO-00015",
+    "name":"Books item 15",
+    "category":"books",
+    "unit_cost":290.56,
+    "unit_price":599.78,
+    "stock":109,
+    "created_at":"2025-03-19 06:14:42"
+  },
+  {
+    "product_id":16,
+    "sku":"HOM-00016",
+    "name":"Home item 16",
+    "category":"home",
+    "unit_cost":25.89,
+    "unit_price":44.02,
+    "stock":460,
+    "created_at":"2025-05-20 02:21:42"
+  },
+  {
+    "product_id":17,
+    "sku":"CLO-00017",
+    "name":"Clothing item 17",
+    "category":"clothing",
+    "unit_cost":180.93,
+    "unit_price":223.16,
+    "stock":347,
+    "created_at":"2024-05-04 18:52:42"
+  },
+  {
+    "product_id":18,
+    "sku":"TOY-00018",
+    "name":"Toys item 18",
+    "category":"toys",
+    "unit_cost":94.51,
+    "unit_price":213.45,
+    "stock":58,
+    "created_at":"2025-05-20 07:35:42"
+  },
+  {
+    "product_id":19,
+    "sku":"ELE-00019",
+    "name":"Electronics item 19",
+    "category":"electronics",
+    "unit_cost":309.55,
+    "unit_price":575.65,
+    "stock":428,
+    "created_at":"2024-06-10 14:54:42"
+  },
+  {
+    "product_id":20,
+    "sku":"CLO-00020",
+    "name":"Clothing item 20",
+    "category":"clothing",
+    "unit_cost":19.63,
+    "unit_price":36.6,
+    "stock":406,
+    "created_at":"2022-11-17 04:17:42"
+  },
+  {
+    "product_id":21,
+    "sku":"CLO-00021",
+    "name":"Clothing item 21",
+    "category":"clothing",
+    "unit_cost":69.47,
+    "unit_price":133.3,
+    "stock":868,
+    "created_at":"2026-03-12 22:32:42"
+  },
+  {
+    "product_id":22,
+    "sku":"ELE-00022",
+    "name":"Electronics item 22",
+    "category":"electronics",
+    "unit_cost":52.02,
+    "unit_price":70.94,
+    "stock":351,
+    "created_at":"2024-09-05 15:00:42"
+  },
+  {
+    "product_id":23,
+    "sku":"TOY-00023",
+    "name":"Toys item 23",
+    "category":"toys",
+    "unit_cost":153.24,
+    "unit_price":263.09,
+    "stock":140,
+    "created_at":"2024-02-01 07:03:42"
+  },
+  {
+    "product_id":24,
+    "sku":"CLO-00024",
+    "name":"Clothing item 24",
+    "category":"clothing",
+    "unit_cost":188.64,
+    "unit_price":397.29,
+    "stock":2,
+    "created_at":"2023-05-10 19:14:42"
+  },
+  {
+    "product_id":25,
+    "sku":"TOY-00025",
+    "name":"Toys item 25",
+    "category":"toys",
+    "unit_cost":320.15,
+    "unit_price":605.66,
+    "stock":0,
+    "created_at":"2023-04-06 22:29:42"
+  },
+  {
+    "product_id":26,
+    "sku":"SPO-00026",
+    "name":"Sports item 26",
+    "category":"sports",
+    "unit_cost":146.47,
+    "unit_price":306.9,
+    "stock":251,
+    "created_at":"2023-02-10 14:41:42"
+  },
+  {
+    "product_id":27,
+    "sku":"HOM-00027",
+    "name":"Home item 27",
+    "category":"home",
+    "unit_cost":15.17,
+    "unit_price":18.18,
+    "stock":394,
+    "created_at":"2023-09-06 18:33:42"
+  },
+  {
+    "product_id":28,
+    "sku":"BOO-00028",
+    "name":"Books item 28",
+    "category":"books",
+    "unit_cost":340.73,
+    "unit_price":785.23,
+    "stock":584,
+    "created_at":"2024-03-11 06:16:42"
+  },
+  {
+    "product_id":29,
+    "sku":"BOO-00029",
+    "name":"Books item 29",
+    "category":"books",
+    "unit_cost":220.46,
+    "unit_price":491.96,
+    "stock":443,
+    "created_at":"2022-10-30 19:22:42"
+  },
+  {
+    "product_id":30,
+    "sku":"CLO-00030",
+    "name":"Clothing item 30",
+    "category":"clothing",
+    "unit_cost":109.78,
+    "unit_price":230.77,
+    "stock":329,
+    "created_at":"2024-10-20 14:27:42"
+  },
+  {
+    "product_id":31,
+    "sku":"TOY-00031",
+    "name":"Toys item 31",
+    "category":"toys",
+    "unit_cost":47.32,
+    "unit_price":81.35,
+    "stock":177,
+    "created_at":"2025-12-27 15:09:42"
+  },
+  {
+    "product_id":32,
+    "sku":"SPO-00032",
+    "name":"Sports item 32",
+    "category":"sports",
+    "unit_cost":203.55,
+    "unit_price":424.83,
+    "stock":610,
+    "created_at":"2025-02-26 13:52:42"
+  },
+  {
+    "product_id":33,
+    "sku":"ELE-00033",
+    "name":"Electronics item 33",
+    "category":"electronics",
+    "unit_cost":19.22,
+    "unit_price":45.11,
+    "stock":385,
+    "created_at":"2023-06-08 19:06:42"
+  },
+  {
+    "product_id":34,
+    "sku":"HOM-00034",
+    "name":"Home item 34",
+    "category":"home",
+    "unit_cost":97.27,
+    "unit_price":154.67,
+    "stock":618,
+    "created_at":"2025-11-13 10:48:42"
+  },
+  {
+    "product_id":35,
+    "sku":"SPO-00035",
+    "name":"Sports item 35",
+    "category":"sports",
+    "unit_cost":95.46,
+    "unit_price":127.32,
+    "stock":327,
+    "created_at":"2024-08-22 00:56:42"
+  },
+  {
+    "product_id":36,
+    "sku":"CLO-00036",
+    "name":"Clothing item 36",
+    "category":"clothing",
+    "unit_cost":184.33,
+    "unit_price":272.84,
+    "stock":379,
+    "created_at":"2026-06-07 12:39:42"
+  },
+  {
+    "product_id":37,
+    "sku":"BOO-00037",
+    "name":"Books item 37",
+    "category":"books",
+    "unit_cost":242.56,
+    "unit_price":349.01,
+    "stock":707,
+    "created_at":"2024-03-31 17:21:42"
+  },
+  {
+    "product_id":38,
+    "sku":"CLO-00038",
+    "name":"Clothing item 38",
+    "category":"clothing",
+    "unit_cost":225.56,
+    "unit_price":265.17,
+    "stock":359,
+    "created_at":"2023-01-08 01:55:42"
+  },
+  {
+    "product_id":39,
+    "sku":"HOM-00039",
+    "name":"Home item 39",
+    "category":"home",
+    "unit_cost":267.25,
+    "unit_price":458.41,
+    "stock":679,
+    "created_at":"2024-10-04 03:43:42"
+  },
+  {
+    "product_id":40,
+    "sku":"CLO-00040",
+    "name":"Clothing item 40",
+    "category":"clothing",
+    "unit_cost":260.08,
+    "unit_price":462.01,
+    "stock":132,
+    "created_at":"2024-02-18 03:58:42"
+  },
+  {
+    "product_id":41,
+    "sku":"TOY-00041",
+    "name":"Toys item 41",
+    "category":"toys",
+    "unit_cost":67.65,
+    "unit_price":101.76,
+    "stock":159,
+    "created_at":"2025-03-18 18:07:42"
+  },
+  {
+    "product_id":42,
+    "sku":"SPO-00042",
+    "name":"Sports item 42",
+    "category":"sports",
+    "unit_cost":133.32,
+    "unit_price":229.71,
+    "stock":298,
+    "created_at":"2026-04-24 22:06:42"
+  },
+  {
+    "product_id":43,
+    "sku":"TOY-00043",
+    "name":"Toys item 43",
+    "category":"toys",
+    "unit_cost":28.69,
+    "unit_price":34.18,
+    "stock":160,
+    "created_at":"2026-01-09 17:47:42"
+  },
+  {
+    "product_id":44,
+    "sku":"ELE-00044",
+    "name":"Electronics item 44",
+    "category":"electronics",
+    "unit_cost":345.22,
+    "unit_price":790.12,
+    "stock":737,
+    "created_at":"2026-01-15 15:30:42"
+  },
+  {
+    "product_id":45,
+    "sku":"CLO-00045",
+    "name":"Clothing item 45",
+    "category":"clothing",
+    "unit_cost":377.76,
+    "unit_price":885.54,
+    "stock":494,
+    "created_at":"2025-05-19 10:54:42"
+  },
+  {
+    "product_id":46,
+    "sku":"TOY-00046",
+    "name":"Toys item 46",
+    "category":"toys",
+    "unit_cost":109.63,
+    "unit_price":138.91,
+    "stock":420,
+    "created_at":"2024-07-13 10:06:42"
+  },
+  {
+    "product_id":47,
+    "sku":"CLO-00047",
+    "name":"Clothing item 47",
+    "category":"clothing",
+    "unit_cost":386.21,
+    "unit_price":901.38,
+    "stock":876,
+    "created_at":"2025-06-14 21:34:42"
+  },
+  {
+    "product_id":48,
+    "sku":"CLO-00048",
+    "name":"Clothing item 48",
+    "category":"clothing",
+    "unit_cost":337.12,
+    "unit_price":653.02,
+    "stock":862,
+    "created_at":"2025-12-26 04:49:42"
+  },
+  {
+    "product_id":49,
+    "sku":"BOO-00049",
+    "name":"Books item 49",
+    "category":"books",
+    "unit_cost":371.42,
+    "unit_price":847.63,
+    "stock":772,
+    "created_at":"2025-09-07 10:35:42"
+  },
+  {
+    "product_id":50,
+    "sku":"CLO-00050",
+    "name":"Clothing item 50",
+    "category":"clothing",
+    "unit_cost":53.74,
+    "unit_price":94.47,
+    "stock":894,
+    "created_at":"2025-10-23 08:11:42"
+  },
+  {
+    "product_id":51,
+    "sku":"ELE-00051",
+    "name":"Electronics item 51",
+    "category":"electronics",
+    "unit_cost":3.61,
+    "unit_price":4.83,
+    "stock":557,
+    "created_at":"2025-05-24 23:01:42"
+  },
+  {
+    "product_id":52,
+    "sku":"HOM-00052",
+    "name":"Home item 52",
+    "category":"home",
+    "unit_cost":312.97,
+    "unit_price":678.19,
+    "stock":90,
+    "created_at":"2026-04-19 18:16:42"
+  },
+  {
+    "product_id":53,
+    "sku":"ELE-00053",
+    "name":"Electronics item 53",
+    "category":"electronics",
+    "unit_cost":243.49,
+    "unit_price":485.45,
+    "stock":272,
+    "created_at":"2024-05-19 05:30:42"
+  },
+  {
+    "product_id":54,
+    "sku":"SPO-00054",
+    "name":"Sports item 54",
+    "category":"sports",
+    "unit_cost":218.38,
+    "unit_price":387.75,
+    "stock":103,
+    "created_at":"2023-02-12 08:57:42"
+  },
+  {
+    "product_id":55,
+    "sku":"SPO-00055",
+    "name":"Sports item 55",
+    "category":"sports",
+    "unit_cost":372.65,
+    "unit_price":492.18,
+    "stock":839,
+    "created_at":"2023-05-09 02:46:42"
+  },
+  {
+    "product_id":56,
+    "sku":"ELE-00056",
+    "name":"Electronics item 56",
+    "category":"electronics",
+    "unit_cost":179.56,
+    "unit_price":422.63,
+    "stock":707,
+    "created_at":"2024-03-02 06:12:42"
+  },
+  {
+    "product_id":57,
+    "sku":"HOM-00057",
+    "name":"Home item 57",
+    "category":"home",
+    "unit_cost":325.82,
+    "unit_price":607.74,
+    "stock":818,
+    "created_at":"2025-04-27 13:34:42"
+  },
+  {
+    "product_id":58,
+    "sku":"TOY-00058",
+    "name":"Toys item 58",
+    "category":"toys",
+    "unit_cost":115.07,
+    "unit_price":219.02,
+    "stock":329,
+    "created_at":"2025-01-11 00:04:42"
+  },
+  {
+    "product_id":59,
+    "sku":"ELE-00059",
+    "name":"Electronics item 59",
+    "category":"electronics",
+    "unit_cost":226.95,
+    "unit_price":513.47,
+    "stock":228,
+    "created_at":"2025-11-21 06:03:42"
+  },
+  {
+    "product_id":60,
+    "sku":"HOM-00060",
+    "name":"Home item 60",
+    "category":"home",
+    "unit_cost":10.4,
+    "unit_price":17.4,
+    "stock":171,
+    "created_at":"2023-05-12 19:52:42"
+  },
+  {
+    "product_id":61,
+    "sku":"CLO-00061",
+    "name":"Clothing item 61",
+    "category":"clothing",
+    "unit_cost":7.61,
+    "unit_price":9.27,
+    "stock":343,
+    "created_at":"2025-11-13 06:11:42"
+  },
+  {
+    "product_id":62,
+    "sku":"ELE-00062",
+    "name":"Electronics item 62",
+    "category":"electronics",
+    "unit_cost":151.26,
+    "unit_price":353.07,
+    "stock":383,
+    "created_at":"2023-09-08 14:04:42"
+  },
+  {
+    "product_id":63,
+    "sku":"HOM-00063",
+    "name":"Home item 63",
+    "category":"home",
+    "unit_cost":176.76,
+    "unit_price":231.2,
+    "stock":740,
+    "created_at":"2025-01-09 05:58:42"
+  },
+  {
+    "product_id":64,
+    "sku":"TOY-00064",
+    "name":"Toys item 64",
+    "category":"toys",
+    "unit_cost":376.3,
+    "unit_price":797.68,
+    "stock":747,
+    "created_at":"2023-10-29 00:02:42"
+  },
+  {
+    "product_id":65,
+    "sku":"BOO-00065",
+    "name":"Books item 65",
+    "category":"books",
+    "unit_cost":398.81,
+    "unit_price":630.27,
+    "stock":755,
+    "created_at":"2024-04-04 07:23:42"
+  },
+  {
+    "product_id":66,
+    "sku":"SPO-00066",
+    "name":"Sports item 66",
+    "category":"sports",
+    "unit_cost":279.93,
+    "unit_price":543.11,
+    "stock":48,
+    "created_at":"2023-02-21 13:20:42"
+  },
+  {
+    "product_id":67,
+    "sku":"HOM-00067",
+    "name":"Home item 67",
+    "category":"home",
+    "unit_cost":164.41,
+    "unit_price":220.11,
+    "stock":41,
+    "created_at":"2026-02-02 07:41:42"
+  },
+  {
+    "product_id":68,
+    "sku":"TOY-00068",
+    "name":"Toys item 68",
+    "category":"toys",
+    "unit_cost":253.13,
+    "unit_price":503.89,
+    "stock":149,
+    "created_at":"2026-01-02 08:54:42"
+  },
+  {
+    "product_id":69,
+    "sku":"TOY-00069",
+    "name":"Toys item 69",
+    "category":"toys",
+    "unit_cost":170.54,
+    "unit_price":388.79,
+    "stock":655,
+    "created_at":"2022-12-20 11:11:42"
+  },
+  {
+    "product_id":70,
+    "sku":"HOM-00070",
+    "name":"Home item 70",
+    "category":"home",
+    "unit_cost":116.63,
+    "unit_price":137.38,
+    "stock":155,
+    "created_at":"2025-02-08 00:28:42"
+  },
+  {
+    "product_id":71,
+    "sku":"CLO-00071",
+    "name":"Clothing item 71",
+    "category":"clothing",
+    "unit_cost":36.41,
+    "unit_price":83.33,
+    "stock":182,
+    "created_at":"2023-03-06 08:16:42"
+  },
+  {
+    "product_id":72,
+    "sku":"SPO-00072",
+    "name":"Sports item 72",
+    "category":"sports",
+    "unit_cost":133.58,
+    "unit_price":224.24,
+    "stock":497,
+    "created_at":"2024-11-23 18:07:42"
+  },
+  {
+    "product_id":73,
+    "sku":"CLO-00073",
+    "name":"Clothing item 73",
+    "category":"clothing",
+    "unit_cost":215.69,
+    "unit_price":443.11,
+    "stock":186,
+    "created_at":"2024-06-12 13:11:42"
+  },
+  {
+    "product_id":74,
+    "sku":"CLO-00074",
+    "name":"Clothing item 74",
+    "category":"clothing",
+    "unit_cost":86.34,
+    "unit_price":182.87,
+    "stock":61,
+    "created_at":"2023-10-19 03:25:42"
+  },
+  {
+    "product_id":75,
+    "sku":"HOM-00075",
+    "name":"Home item 75",
+    "category":"home",
+    "unit_cost":270.65,
+    "unit_price":462.38,
+    "stock":651,
+    "created_at":"2024-02-21 01:03:42"
+  },
+  {
+    "product_id":76,
+    "sku":"SPO-00076",
+    "name":"Sports item 76",
+    "category":"sports",
+    "unit_cost":383.37,
+    "unit_price":623.0,
+    "stock":454,
+    "created_at":"2024-07-08 07:28:42"
+  },
+  {
+    "product_id":77,
+    "sku":"HOM-00077",
+    "name":"Home item 77",
+    "category":"home",
+    "unit_cost":305.3,
+    "unit_price":411.47,
+    "stock":509,
+    "created_at":"2023-09-26 12:58:42"
+  },
+  {
+    "product_id":78,
+    "sku":"HOM-00078",
+    "name":"Home item 78",
+    "category":"home",
+    "unit_cost":210.82,
+    "unit_price":448.37,
+    "stock":661,
+    "created_at":"2025-04-21 11:11:42"
+  },
+  {
+    "product_id":79,
+    "sku":"HOM-00079",
+    "name":"Home item 79",
+    "category":"home",
+    "unit_cost":174.6,
+    "unit_price":322.17,
+    "stock":214,
+    "created_at":"2024-05-17 11:12:42"
+  },
+  {
+    "product_id":80,
+    "sku":"BOO-00080",
+    "name":"Books item 80",
+    "category":"books",
+    "unit_cost":269.94,
+    "unit_price":385.65,
+    "stock":574,
+    "created_at":"2022-10-26 18:04:42"
+  },
+  {
+    "product_id":81,
+    "sku":"BOO-00081",
+    "name":"Books item 81",
+    "category":"books",
+    "unit_cost":148.57,
+    "unit_price":265.48,
+    "stock":594,
+    "created_at":"2026-03-01 22:31:42"
+  },
+  {
+    "product_id":82,
+    "sku":"ELE-00082",
+    "name":"Electronics item 82",
+    "category":"electronics",
+    "unit_cost":303.22,
+    "unit_price":684.1,
+    "stock":812,
+    "created_at":"2024-11-03 15:42:42"
+  },
+  {
+    "product_id":83,
+    "sku":"CLO-00083",
+    "name":"Clothing item 83",
+    "category":"clothing",
+    "unit_cost":395.65,
+    "unit_price":582.57,
+    "stock":575,
+    "created_at":"2024-03-12 17:41:42"
+  },
+  {
+    "product_id":84,
+    "sku":"CLO-00084",
+    "name":"Clothing item 84",
+    "category":"clothing",
+    "unit_cost":49.84,
+    "unit_price":111.63,
+    "stock":751,
+    "created_at":"2024-04-20 19:31:42"
+  },
+  {
+    "product_id":85,
+    "sku":"ELE-00085",
+    "name":"Electronics item 85",
+    "category":"electronics",
+    "unit_cost":255.26,
+    "unit_price":538.73,
+    "stock":71,
+    "created_at":"2025-12-07 12:07:42"
+  },
+  {
+    "product_id":86,
+    "sku":"CLO-00086",
+    "name":"Clothing item 86",
+    "category":"clothing",
+    "unit_cost":312.62,
+    "unit_price":566.26,
+    "stock":54,
+    "created_at":"2025-04-01 01:46:42"
+  },
+  {
+    "product_id":87,
+    "sku":"CLO-00087",
+    "name":"Clothing item 87",
+    "category":"clothing",
+    "unit_cost":299.95,
+    "unit_price":658.41,
+    "stock":449,
+    "created_at":"2026-07-22 10:30:42"
+  },
+  {
+    "product_id":88,
+    "sku":"CLO-00088",
+    "name":"Clothing item 88",
+    "category":"clothing",
+    "unit_cost":395.68,
+    "unit_price":516.52,
+    "stock":884,
+    "created_at":"2023-06-15 00:43:42"
+  },
+  {
+    "product_id":89,
+    "sku":"SPO-00089",
+    "name":"Sports item 89",
+    "category":"sports",
+    "unit_cost":357.42,
+    "unit_price":553.71,
+    "stock":115,
+    "created_at":"2024-11-03 23:12:42"
+  },
+  {
+    "product_id":90,
+    "sku":"HOM-00090",
+    "name":"Home item 90",
+    "category":"home",
+    "unit_cost":183.46,
+    "unit_price":367.82,
+    "stock":240,
+    "created_at":"2026-03-16 10:01:42"
+  },
+  {
+    "product_id":91,
+    "sku":"SPO-00091",
+    "name":"Sports item 91",
+    "category":"sports",
+    "unit_cost":238.46,
+    "unit_price":411.87,
+    "stock":706,
+    "created_at":"2024-10-31 10:43:42"
+  },
+  {
+    "product_id":92,
+    "sku":"TOY-00092",
+    "name":"Toys item 92",
+    "category":"toys",
+    "unit_cost":299.24,
+    "unit_price":410.12,
+    "stock":768,
+    "created_at":"2023-08-31 03:25:42"
+  },
+  {
+    "product_id":93,
+    "sku":"ELE-00093",
+    "name":"Electronics item 93",
+    "category":"electronics",
+    "unit_cost":354.77,
+    "unit_price":799.93,
+    "stock":579,
+    "created_at":"2026-05-19 06:02:42"
+  },
+  {
+    "product_id":94,
+    "sku":"BOO-00094",
+    "name":"Books item 94",
+    "category":"books",
+    "unit_cost":36.75,
+    "unit_price":57.87,
+    "stock":594,
+    "created_at":"2023-04-18 20:48:42"
+  },
+  {
+    "product_id":95,
+    "sku":"CLO-00095",
+    "name":"Clothing item 95",
+    "category":"clothing",
+    "unit_cost":215.5,
+    "unit_price":336.27,
+    "stock":554,
+    "created_at":"2025-07-18 07:25:42"
+  },
+  {
+    "product_id":96,
+    "sku":"BOO-00096",
+    "name":"Books item 96",
+    "category":"books",
+    "unit_cost":150.32,
+    "unit_price":219.01,
+    "stock":494,
+    "created_at":"2025-03-25 23:54:42"
+  },
+  {
+    "product_id":97,
+    "sku":"ELE-00097",
+    "name":"Electronics item 97",
+    "category":"electronics",
+    "unit_cost":172.47,
+    "unit_price":366.49,
+    "stock":478,
+    "created_at":"2025-07-11 00:42:42"
+  },
+  {
+    "product_id":98,
+    "sku":"TOY-00098",
+    "name":"Toys item 98",
+    "category":"toys",
+    "unit_cost":347.13,
+    "unit_price":816.47,
+    "stock":476,
+    "created_at":"2023-09-12 19:10:42"
+  },
+  {
+    "product_id":99,
+    "sku":"SPO-00099",
+    "name":"Sports item 99",
+    "category":"sports",
+    "unit_cost":337.11,
+    "unit_price":750.03,
+    "stock":706,
+    "created_at":"2025-08-04 20:09:42"
+  },
+  {
+    "product_id":100,
+    "sku":"SPO-00100",
+    "name":"Sports item 100",
+    "category":"sports",
+    "unit_cost":37.89,
+    "unit_price":82.53,
+    "stock":13,
+    "created_at":"2023-07-28 20:23:42"
+  },
+  {
+    "product_id":101,
+    "sku":"CLO-00101",
+    "name":"Clothing item 101",
+    "category":"clothing",
+    "unit_cost":243.9,
+    "unit_price":580.3,
+    "stock":825,
+    "created_at":"2025-03-25 06:14:42"
+  },
+  {
+    "product_id":102,
+    "sku":"BOO-00102",
+    "name":"Books item 102",
+    "category":"books",
+    "unit_cost":154.32,
+    "unit_price":213.5,
+    "stock":665,
+    "created_at":"2026-01-25 01:18:42"
+  },
+  {
+    "product_id":103,
+    "sku":"ELE-00103",
+    "name":"Electronics item 103",
+    "category":"electronics",
+    "unit_cost":5.79,
+    "unit_price":8.74,
+    "stock":508,
+    "created_at":"2026-04-11 15:16:42"
+  },
+  {
+    "product_id":104,
+    "sku":"HOM-00104",
+    "name":"Home item 104",
+    "category":"home",
+    "unit_cost":324.25,
+    "unit_price":388.89,
+    "stock":771,
+    "created_at":"2024-02-17 23:53:42"
+  },
+  {
+    "product_id":105,
+    "sku":"HOM-00105",
+    "name":"Home item 105",
+    "category":"home",
+    "unit_cost":25.61,
+    "unit_price":43.07,
+    "stock":729,
+    "created_at":"2024-07-08 02:38:42"
+  },
+  {
+    "product_id":106,
+    "sku":"HOM-00106",
+    "name":"Home item 106",
+    "category":"home",
+    "unit_cost":266.8,
+    "unit_price":453.6,
+    "stock":112,
+    "created_at":"2026-05-02 17:10:42"
+  },
+  {
+    "product_id":107,
+    "sku":"ELE-00107",
+    "name":"Electronics item 107",
+    "category":"electronics",
+    "unit_cost":176.6,
+    "unit_price":292.88,
+    "stock":523,
+    "created_at":"2025-03-12 03:42:42"
+  },
+  {
+    "product_id":108,
+    "sku":"TOY-00108",
+    "name":"Toys item 108",
+    "category":"toys",
+    "unit_cost":93.25,
+    "unit_price":219.93,
+    "stock":407,
+    "created_at":"2024-03-06 12:57:42"
+  },
+  {
+    "product_id":109,
+    "sku":"ELE-00109",
+    "name":"Electronics item 109",
+    "category":"electronics",
+    "unit_cost":78.93,
+    "unit_price":111.1,
+    "stock":309,
+    "created_at":"2026-07-21 16:56:42"
+  },
+  {
+    "product_id":110,
+    "sku":"ELE-00110",
+    "name":"Electronics item 110",
+    "category":"electronics",
+    "unit_cost":311.21,
+    "unit_price":722.05,
+    "stock":170,
+    "created_at":"2024-10-12 18:27:42"
+  },
+  {
+    "product_id":111,
+    "sku":"BOO-00111",
+    "name":"Books item 111",
+    "category":"books",
+    "unit_cost":227.67,
+    "unit_price":405.3,
+    "stock":428,
+    "created_at":"2025-08-26 22:55:42"
+  },
+  {
+    "product_id":112,
+    "sku":"SPO-00112",
+    "name":"Sports item 112",
+    "category":"sports",
+    "unit_cost":53.92,
+    "unit_price":123.23,
+    "stock":479,
+    "created_at":"2025-08-30 03:16:42"
+  },
+  {
+    "product_id":113,
+    "sku":"SPO-00113",
+    "name":"Sports item 113",
+    "category":"sports",
+    "unit_cost":239.48,
+    "unit_price":534.59,
+    "stock":820,
+    "created_at":"2023-03-11 13:02:42"
+  },
+  {
+    "product_id":114,
+    "sku":"HOM-00114",
+    "name":"Home item 114",
+    "category":"home",
+    "unit_cost":103.57,
+    "unit_price":130.03,
+    "stock":473,
+    "created_at":"2023-02-20 22:49:42"
+  },
+  {
+    "product_id":115,
+    "sku":"SPO-00115",
+    "name":"Sports item 115",
+    "category":"sports",
+    "unit_cost":170.63,
+    "unit_price":390.36,
+    "stock":177,
+    "created_at":"2024-11-04 07:49:42"
+  },
+  {
+    "product_id":116,
+    "sku":"CLO-00116",
+    "name":"Clothing item 116",
+    "category":"clothing",
+    "unit_cost":365.61,
+    "unit_price":490.5,
+    "stock":592,
+    "created_at":"2024-05-09 12:54:42"
+  },
+  {
+    "product_id":117,
+    "sku":"CLO-00117",
+    "name":"Clothing item 117",
+    "category":"clothing",
+    "unit_cost":105.32,
+    "unit_price":212.85,
+    "stock":348,
+    "created_at":"2024-03-25 10:49:42"
+  },
+  {
+    "product_id":118,
+    "sku":"SPO-00118",
+    "name":"Sports item 118",
+    "category":"sports",
+    "unit_cost":347.61,
+    "unit_price":732.06,
+    "stock":378,
+    "created_at":"2025-05-17 11:57:42"
+  },
+  {
+    "product_id":119,
+    "sku":"TOY-00119",
+    "name":"Toys item 119",
+    "category":"toys",
+    "unit_cost":170.06,
+    "unit_price":320.04,
+    "stock":116,
+    "created_at":"2025-08-07 23:40:42"
+  },
+  {
+    "product_id":120,
+    "sku":"BOO-00120",
+    "name":"Books item 120",
+    "category":"books",
+    "unit_cost":386.34,
+    "unit_price":887.71,
+    "stock":216,
+    "created_at":"2024-12-23 20:55:42"
+  },
+  {
+    "product_id":121,
+    "sku":"SPO-00121",
+    "name":"Sports item 121",
+    "category":"sports",
+    "unit_cost":252.24,
+    "unit_price":365.15,
+    "stock":730,
+    "created_at":"2023-09-06 02:10:42"
+  },
+  {
+    "product_id":122,
+    "sku":"TOY-00122",
+    "name":"Toys item 122",
+    "category":"toys",
+    "unit_cost":372.49,
+    "unit_price":885.47,
+    "stock":8,
+    "created_at":"2025-08-31 19:36:42"
+  },
+  {
+    "product_id":123,
+    "sku":"HOM-00123",
+    "name":"Home item 123",
+    "category":"home",
+    "unit_cost":309.17,
+    "unit_price":387.44,
+    "stock":561,
+    "created_at":"2026-01-15 22:40:42"
+  },
+  {
+    "product_id":124,
+    "sku":"SPO-00124",
+    "name":"Sports item 124",
+    "category":"sports",
+    "unit_cost":19.15,
+    "unit_price":38.08,
+    "stock":568,
+    "created_at":"2024-03-29 08:29:42"
+  },
+  {
+    "product_id":125,
+    "sku":"ELE-00125",
+    "name":"Electronics item 125",
+    "category":"electronics",
+    "unit_cost":120.73,
+    "unit_price":282.29,
+    "stock":403,
+    "created_at":"2025-03-13 17:32:42"
+  },
+  {
+    "product_id":126,
+    "sku":"BOO-00126",
+    "name":"Books item 126",
+    "category":"books",
+    "unit_cost":115.19,
+    "unit_price":229.39,
+    "stock":830,
+    "created_at":"2025-11-04 14:10:42"
+  },
+  {
+    "product_id":127,
+    "sku":"ELE-00127",
+    "name":"Electronics item 127",
+    "category":"electronics",
+    "unit_cost":236.08,
+    "unit_price":480.56,
+    "stock":147,
+    "created_at":"2023-07-29 11:29:42"
+  },
+  {
+    "product_id":128,
+    "sku":"BOO-00128",
+    "name":"Books item 128",
+    "category":"books",
+    "unit_cost":170.32,
+    "unit_price":400.07,
+    "stock":856,
+    "created_at":"2025-04-02 17:11:42"
+  },
+  {
+    "product_id":129,
+    "sku":"HOM-00129",
+    "name":"Home item 129",
+    "category":"home",
+    "unit_cost":197.57,
+    "unit_price":397.26,
+    "stock":607,
+    "created_at":"2022-11-02 17:51:42"
+  },
+  {
+    "product_id":130,
+    "sku":"ELE-00130",
+    "name":"Electronics item 130",
+    "category":"electronics",
+    "unit_cost":36.62,
+    "unit_price":52.73,
+    "stock":98,
+    "created_at":"2022-12-20 11:35:42"
+  },
+  {
+    "product_id":131,
+    "sku":"BOO-00131",
+    "name":"Books item 131",
+    "category":"books",
+    "unit_cost":39.6,
+    "unit_price":61.92,
+    "stock":506,
+    "created_at":"2024-08-06 07:37:42"
+  },
+  {
+    "product_id":132,
+    "sku":"CLO-00132",
+    "name":"Clothing item 132",
+    "category":"clothing",
+    "unit_cost":193.58,
+    "unit_price":318.06,
+    "stock":716,
+    "created_at":"2024-07-21 06:55:42"
+  },
+  {
+    "product_id":133,
+    "sku":"CLO-00133",
+    "name":"Clothing item 133",
+    "category":"clothing",
+    "unit_cost":235.45,
+    "unit_price":362.1,
+    "stock":754,
+    "created_at":"2026-04-03 08:58:42"
+  },
+  {
+    "product_id":134,
+    "sku":"CLO-00134",
+    "name":"Clothing item 134",
+    "category":"clothing",
+    "unit_cost":276.79,
+    "unit_price":485.63,
+    "stock":169,
+    "created_at":"2026-06-23 23:55:42"
+  },
+  {
+    "product_id":135,
+    "sku":"BOO-00135",
+    "name":"Books item 135",
+    "category":"books",
+    "unit_cost":125.64,
+    "unit_price":281.59,
+    "stock":436,
+    "created_at":"2025-12-11 08:46:42"
+  },
+  {
+    "product_id":136,
+    "sku":"SPO-00136",
+    "name":"Sports item 136",
+    "category":"sports",
+    "unit_cost":13.2,
+    "unit_price":29.03,
+    "stock":178,
+    "created_at":"2024-09-06 17:34:42"
+  },
+  {
+    "product_id":137,
+    "sku":"HOM-00137",
+    "name":"Home item 137",
+    "category":"home",
+    "unit_cost":195.05,
+    "unit_price":365.84,
+    "stock":202,
+    "created_at":"2024-11-25 17:02:42"
+  },
+  {
+    "product_id":138,
+    "sku":"BOO-00138",
+    "name":"Books item 138",
+    "category":"books",
+    "unit_cost":233.15,
+    "unit_price":394.72,
+    "stock":787,
+    "created_at":"2025-11-22 10:16:42"
+  },
+  {
+    "product_id":139,
+    "sku":"BOO-00139",
+    "name":"Books item 139",
+    "category":"books",
+    "unit_cost":179.09,
+    "unit_price":327.78,
+    "stock":77,
+    "created_at":"2025-08-15 02:49:42"
+  },
+  {
+    "product_id":140,
+    "sku":"CLO-00140",
+    "name":"Clothing item 140",
+    "category":"clothing",
+    "unit_cost":357.42,
+    "unit_price":629.28,
+    "stock":752,
+    "created_at":"2023-07-11 04:08:42"
+  },
+  {
+    "product_id":141,
+    "sku":"ELE-00141",
+    "name":"Electronics item 141",
+    "category":"electronics",
+    "unit_cost":355.31,
+    "unit_price":433.68,
+    "stock":236,
+    "created_at":"2024-06-21 15:58:42"
+  },
+  {
+    "product_id":142,
+    "sku":"ELE-00142",
+    "name":"Electronics item 142",
+    "category":"electronics",
+    "unit_cost":49.92,
+    "unit_price":113.86,
+    "stock":682,
+    "created_at":"2024-02-29 09:53:42"
+  },
+  {
+    "product_id":143,
+    "sku":"BOO-00143",
+    "name":"Books item 143",
+    "category":"books",
+    "unit_cost":307.2,
+    "unit_price":575.08,
+    "stock":816,
+    "created_at":"2022-12-19 00:55:42"
+  },
+  {
+    "product_id":144,
+    "sku":"ELE-00144",
+    "name":"Electronics item 144",
+    "category":"electronics",
+    "unit_cost":368.67,
+    "unit_price":712.09,
+    "stock":110,
+    "created_at":"2024-02-06 22:07:42"
+  },
+  {
+    "product_id":145,
+    "sku":"SPO-00145",
+    "name":"Sports item 145",
+    "category":"sports",
+    "unit_cost":387.21,
+    "unit_price":757.03,
+    "stock":412,
+    "created_at":"2023-03-17 22:54:42"
+  },
+  {
+    "product_id":146,
+    "sku":"HOM-00146",
+    "name":"Home item 146",
+    "category":"home",
+    "unit_cost":185.08,
+    "unit_price":376.02,
+    "stock":86,
+    "created_at":"2024-02-02 19:51:42"
+  },
+  {
+    "product_id":147,
+    "sku":"CLO-00147",
+    "name":"Clothing item 147",
+    "category":"clothing",
+    "unit_cost":208.88,
+    "unit_price":470.62,
+    "stock":351,
+    "created_at":"2024-10-14 13:29:42"
+  },
+  {
+    "product_id":148,
+    "sku":"SPO-00148",
+    "name":"Sports item 148",
+    "category":"sports",
+    "unit_cost":234.01,
+    "unit_price":384.32,
+    "stock":647,
+    "created_at":"2023-10-21 15:18:42"
+  },
+  {
+    "product_id":149,
+    "sku":"BOO-00149",
+    "name":"Books item 149",
+    "category":"books",
+    "unit_cost":203.06,
+    "unit_price":276.77,
+    "stock":492,
+    "created_at":"2026-06-05 09:50:42"
+  },
+  {
+    "product_id":150,
+    "sku":"SPO-00150",
+    "name":"Sports item 150",
+    "category":"sports",
+    "unit_cost":244.63,
+    "unit_price":441.96,
+    "stock":864,
+    "created_at":"2025-05-25 14:36:42"
+  }
+]

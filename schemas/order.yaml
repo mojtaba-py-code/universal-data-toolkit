@@ -1,0 +1,60 @@
+name: order
+description: Order lines exported from the shop backend.
+strict: false
+primary_key:
+  - order_id
+
+schema:
+  order_id:
+    type: integer
+    required: true
+    nullable: false
+    unique: true
+
+  customer_id:
+    type: integer
+    required: true
+    nullable: false
+
+  product_id:
+    type: integer
+    required: true
+
+  quantity:
+    type: integer
+    min: 1
+    max: 1000
+
+  unit_price:
+    type: float
+    min: 0
+
+  total_amount:
+    type: float
+    min: 0
+
+  discount_pct:
+    type: integer
+    min: 0
+    max: 100
+
+  status:
+    type: categorical
+    allowed:
+      - new
+      - paid
+      - shipped
+      - delivered
+      - cancelled
+
+  channel:
+    type: categorical
+    allowed:
+      - web
+      - mobile
+      - store
+      - partner
+
+  order_date:
+    type: datetime
+    required: true

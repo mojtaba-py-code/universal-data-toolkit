@@ -1,0 +1,55 @@
+"""Core abstractions: dataset, pipeline primitives, errors and shared types."""
+
+from universal_data.core.dataset import Dataset
+from universal_data.core.exceptions import (
+    AuthenticationError,
+    ConfigurationError,
+    DatabaseError,
+    DataProcessingError,
+    DataToolkitError,
+    DataValidationError,
+    ExportError,
+    ExtractionError,
+    PipelineError,
+    PluginError,
+    RuleError,
+    SchemaError,
+    SecurityError,
+    TransformationError,
+    UnsupportedFormatError,
+)
+from universal_data.core.types import (
+    DuplicateKeep,
+    FieldType,
+    FileFormat,
+    MissingStrategy,
+    OutlierAction,
+    OutlierMethod,
+    Severity,
+)
+
+__all__ = [
+    "AuthenticationError",
+    "ConfigurationError",
+    "DataProcessingError",
+    "DataToolkitError",
+    "DataValidationError",
+    "DatabaseError",
+    "Dataset",
+    "DuplicateKeep",
+    "ExportError",
+    "ExtractionError",
+    "FieldType",
+    "FileFormat",
+    "MissingStrategy",
+    "OutlierAction",
+    "OutlierMethod",
+    "PipelineError",
+    "PluginError",
+    "RuleError",
+    "SchemaError",
+    "SecurityError",
+    "Severity",
+    "TransformationError",
+    "UnsupportedFormatError",
+]

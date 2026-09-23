@@ -1,0 +1,50 @@
+# Order aggregation ETL: clean, filter, derive a net amount and summarise by channel.
+pipeline:
+  name: orders_etl
+
+input:
+  type: csv
+  path: ../sample_data/orders_raw.csv
+
+steps:
+  - clean:
+      normalize_columns: true
+      trim_whitespace: true
+      case: lower
+      convert_types:
+        quantity: int
+        unit_price: float
+        discount_pct: float
+      date_columns:
+        - order_date
+      remove_duplicates: true
+      duplicate_subset:
+        - order_id
+
+  - filter: "status != 'cancelled' AND quantity > 0"
+
+  - transform:
+      - create_column:
+          column: net_amount
+          expression: "quantity * unit_price * (1 - discount_pct / 100)"
+      - aggregate:
+          group_by:
+            - channel
+            - status
+          aggregations:
+            net_amount:
+              - sum
+              - mean
+            order_id: count
+      - rename:
+          order_id_count: orders
+          net_amount_sum: revenue
+          net_amount_mean: average_order_value
+      - sort:
+          by:
+            - revenue
+          ascending: false
+
+output:
+  type: csv
+  path: ../output/orders_by_channel.csv

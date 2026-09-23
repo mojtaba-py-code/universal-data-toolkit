@@ -1,0 +1,9 @@
+# Normalise line endings so the repository stays consistent across platforms.
+* text=auto eol=lf
+
+*.png binary
+*.xlsx binary
+*.parquet binary
+*.feather binary
+*.db binary
+*.sqlite binary

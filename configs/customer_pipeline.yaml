@@ -1,0 +1,66 @@
+# End-to-end customer processing pipeline.
+#
+#   data-tool run configs/customer_pipeline.yaml
+#
+# Every path is resolved relative to this file and confined to the workspace
+# (the current directory by default, or --workspace).  Credentials are never
+# written here; database sections take `password_env: SOME_VARIABLE` instead.
+pipeline:
+  name: customer_processing
+  on_error: fail
+
+input:
+  type: csv
+  path: ../sample_data/customers_raw.csv
+
+steps:
+  - clean:
+      normalize_columns: true
+      trim_whitespace: true
+      case: null
+      convert_types:
+        age: int
+        lifetime_value: float
+      date_columns:
+        - signup_date
+      missing_values: median
+      remove_duplicates: true
+
+  - validate:
+      schema: ../schemas/customer.yaml
+      mode: report
+
+  - rules:
+      file: customer_rules.yaml
+      action: flag
+
+  - enrich:
+      lookup:
+        path: ../sample_data/country_lookup.csv
+        on: country_code
+        columns:
+          - region
+
+  - outliers:
+      columns:
+        - lifetime_value
+      method: iqr
+      action: cap
+
+  - mask:
+      email: email
+      phone:
+        strategy: phone
+        keep_last: 4
+
+  - quality:
+      schema: ../schemas/customer.yaml
+      minimum_score: 0.5
+
+output:
+  type: parquet
+  path: ../output/customers_clean.parquet
+
+report:
+  path: ../output/customers_report.html
+  format: html
