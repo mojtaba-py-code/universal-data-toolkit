@@ -90,7 +90,8 @@ def test_dataset_end_to_end(client: DatabaseClient) -> None:
         pd.DataFrame({"id": [1, 2, 2], "email": ["a@b.com", "bad", "c@d.org"]}),
         name="people",
     )
-    cleaned = source.clean(remove_duplicates=True)
+    # Rows 2 and 3 share an id but differ in email: a duplicate by key, not by row.
+    cleaned = source.clean(remove_duplicates=True, duplicate_subset=["id"])
     assert cleaned.to_database(client, "ud_people", if_exists="replace") == 2
     loaded = Dataset.from_database(client, table="ud_people")
     assert loaded.n_rows == 2

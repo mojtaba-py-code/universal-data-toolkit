@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import logging
+import os
 from pathlib import Path
 
 import pytest
@@ -34,7 +35,14 @@ class TestPathPolicy:
         "attack",
         [
             "../../../../etc/passwd",
-            "..\\..\\..\\windows\\system32\\config\\sam",
+            pytest.param(
+                "..\\..\\..\\windows\\system32\\config\\sam",
+                marks=pytest.mark.skipif(
+                    os.name != "nt",
+                    reason="a backslash separates paths only on Windows; on POSIX it is "
+                    "a legal filename character, so this name stays inside the workspace",
+                ),
+            ),
             "subdir/../../outside.csv",
         ],
     )

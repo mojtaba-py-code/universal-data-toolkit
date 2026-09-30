@@ -13,6 +13,7 @@ from universal_data.export.file_writers import DatabaseExporter
 from universal_data.ingestion.database import (
     DatabaseClient,
     DatabaseConfig,
+    _sqlite_parameter_limit,
     validate_identifier,
 )
 from universal_data.security.secrets import SecretResolver, SecretStr
@@ -240,8 +241,13 @@ class TestDatabaseClient:
         assert len(client.read_table("wide")) == 5_000
 
     def test_rows_per_insert_is_capped_by_the_column_count(self, client: DatabaseClient) -> None:
+        # The ceiling is whatever this SQLite build reports: 32,766 on many
+        # builds, 250,000 on the Ubuntu CI runners. Ask for more rows than fit.
+        limit = _sqlite_parameter_limit()
         wide = pd.DataFrame({f"c{i}": [1] for i in range(50)})
-        assert client._rows_per_insert(wide, 10_000, index=False) * 50 <= 32_766
+        rows = client._rows_per_insert(wide, limit, index=False)
+        assert rows * 50 <= limit
+        assert rows == limit // 50
         narrow = pd.DataFrame({"a": [1]})
         assert client._rows_per_insert(narrow, 100, index=False) == 100
 

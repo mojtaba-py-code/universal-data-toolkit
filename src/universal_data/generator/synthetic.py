@@ -35,11 +35,21 @@ COUNTRIES = [
     ("AE", "United Arab Emirates", "Middle East"),
     ("TR", "Turkey", "Europe"),
 ]
-DOMAINS = ["example.com", "mail.com", "test.org", "company.net"]
+# Reserved for documentation (RFC 2606), so no generated address can belong to
+# anyone. Four entries, as before, so a seed still yields the same other values.
+DOMAINS = ["example.com", "example.org", "example.net", "mail.example"]
 CATEGORIES = ["electronics", "books", "clothing", "home", "sports", "toys"]
 DEPARTMENTS = ["engineering", "sales", "marketing", "support", "finance"]
 STATUSES = ["new", "paid", "shipped", "delivered", "cancelled"]
 CHANNELS = ["web", "mobile", "store", "partner"]
+
+
+
+def fictional_phone(pick: int, digits: int) -> str:
+    """Map two random draws onto a number reserved for fiction."""
+    if pick % 2:
+        return f"+447700{900000 + digits % 1000}"
+    return f"+1{200 + digits % 800}55501{digits // 1000 % 100:02d}"
 
 
 @dataclass
@@ -110,7 +120,15 @@ class SyntheticDataGenerator:
         return datetime.now() - timedelta(days=offset, minutes=self.random.randint(0, 1440))
 
     def _phone(self) -> str:
-        return f"+{self.random.randint(1, 99)}{self.random.randint(1000000000, 9999999999)}"
+        """A number from a range reserved for fiction, so no row can reach a real person.
+
+        Odd draws use Ofcom's drama range (+44 7700 900000-900999), even draws
+        the North American 555-0100..0199 block. It still takes exactly two draws
+        from the generator, so every other value a seed produces is unchanged.
+        """
+        pick = self.random.randint(1, 99)
+        digits = self.random.randint(1000000000, 9999999999)
+        return fictional_phone(pick, digits)
 
     # -- datasets -----------------------------------------------------------
 
@@ -267,7 +285,7 @@ class SyntheticDataGenerator:
 
         if issues.invalid_emails > 0 and "email" in result.columns:
             positions = self._sample_index(result, issues.invalid_emails)
-            broken = ["not-an-email", "missing@", "@nodomain.com", "double@@mail.com", " "]
+            broken = ["not-an-email", "missing@", "@example.com", "double@@example.org", " "]
             for offset, position in enumerate(positions):
                 result.iloc[position, result.columns.get_loc("email")] = broken[
                     offset % len(broken)

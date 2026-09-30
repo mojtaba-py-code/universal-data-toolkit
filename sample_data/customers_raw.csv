@@ -1,825 +1,825 @@
 customer_id,first_name,last_name,email,phone,age,country_code,country,city,signup_date,lifetime_value,is_active,segment
-247,Mateo,Novak,mateo.novak247@example.com,+84778682801,43,FR,France,city27,2026-07-03,611538.1763884193,True,gold
-356,Sara,petrov,sara.petrov356@example.com,+617003080236,25,DE,Germany,City23,2024-03-19,584.5,True,platinum
-242,REZA,Kowalski,reza.kowalski242@example.com,+789901733623,28,US,United States,City49,2025-05-12,1484.65,True,silver
-532,Reza,Karimi,reza.karimi532@example.com,+916470990154,53,JP,Japan,City45,2026-04-28,1008.02,True,bronze
-615,Maryam,Hosseini,double@@mail.com,+746458881678,37,JP,Japan,City53,2025-07-22,475.24,True,silver
-164,Ali,Smith,ali.smith164@company.net,+344925921601,20,FR,France,City38,2024-04-30,481.71,True,bronze
-354,Maryam,Hosseini,,+542155925994,29,DE,Germany,City50,2026-06-29,53.45,True,silver
-217,Mateo,Hosseini,mateo.hosseini217@company.net,+809433920547,24,TR,Turkey,city53,2026-02-17,842.4,True,bronze
-62,Anna,Wang,anna.wang62@mail.com,+56985723907,22,US,United States,City21,2024-08-15,256.51,True,platinum
-735,Hassan,Silva,hassan.silva735@example.com,+47032919165,57,AE,United Arab Emirates,City52,2025-01-19,603.45,True,platinum
-493,Ali,Rossi,ali.rossi493@company.net,+967958259997,57,US,United States,City43,2025-08-13,205.76,True,bronze
-87,Ivan,Ahmadi,ivan.ahmadi87@example.com,+749021164711,22,DE,Germany,City59,2025-05-25,574.87,False,bronze
-788,Omar,Johnson,omar.johnson788@example.com,+886607877955,66,BR,Brazil,City54,2026-04-29,523.64,False,platinum
-620,Maryam,Smith,maryam.smith620@company.net,+848870906227,71,US,United States,City44,2025-08-27,480.14,False,gold
-421,Fatima,Garcia,fatima.garcia421@mail.com,+46686092815,60,IR,Iran,City5,2025-08-22,776.64,True,bronze
-300,Maryam,Rezaei,maryam.rezaei300@test.org,+499312000360,20,US,United States,City47,2024-05-04,179.32,True,gold
-780,John,,john.garcia780@company.net,+992296830061,57,DE,Germany,City22,2024-07-31,-816.88,True,silver
-677,Hassan,KARIMI,hassan.karimi677@mail.com,+812890872896,34,JP,Japan,City18,2025-09-30,126.75,True,bronze
-284,John,Hosseini,john.hosseini284@company.net,+778427078813,40,FR,France,City29,2024-03-29,183.79,True,bronze
-717,Ali,Garcia,ali.garcia717@company.net,+668099012236,77,US,United States,City3,2025-02-06,329.06,True,silver
-435,Mateo,tanaka,mateo.tanaka435@mail.com,+629598790253,67,FR,France,City49,2025-05-12,633.45,True,platinum
-534,,Ahmadi,hassan.ahmadi534@company.net,+875508773307,25,JP,Japan,City46,2024-08-26,,True,silver
-602,  Nadia ,Kowalski,nadia.kowalski602@example.com,+992251934713,51,FR,France,City34,2026-05-13,272.76,True,gold
-14,Elena,Rezaei,elena.rezaei14@example.com,+181751421174,73,AE,United Arab Emirates,City22,2025-09-27,398.58,True,platinum
-94,Omar,Smith,omar.smith94@example.com,+617273052459,42,IR,Iran,City48,2025-09-26,499.71,True,platinum
-91,Fatima,Garcia,fatima.garcia91@test.org,+663750437697,54,JP,Japan,City43,2025-02-02,153.39,False,gold
-426,Leila,Novak,leila.novak426@example.com,+928800477227,59,US,United States,City43,2024-04-29,494.84,True,platinum
-726,Chen,Kowalski,chen.kowalski726@company.net,+946141565539,58,DE,Germany,City40,2025-06-13,94.11,True,platinum
-171,John,  Ibrahim ,john.ibrahim171@example.com,+526828069463,57,AE,United Arab Emirates,City34,2024-04-04,1811.39,True,silver
-297,Reza,Rezaei,reza.rezaei297@company.net,+952137366763,53,US,United States,City20,2025-08-23,588.92,False,silver
-175,Anna,Ahmadi,anna.ahmadi175@example.com,+236345979075,61,AE,United Arab Emirates,City33,2024-09-16,453.45,True,silver
-627,Elena,Smith,elena.smith627@example.com,+291085430302,32,BR,Brazil,City34,2024-07-17,459.25,True,gold
-434,Maryam,Petrov,maryam.petrov434@company.net,+994181979715,19,TR,Turkey,  City34 ,,1339.36,True,bronze
-269,David,Rossi,david.rossi269@company.net,+887769793463,20,TR,Turkey,City14,2024-07-14,157.76,True,silver
-645,Fatima,Garcia,fatima.garcia645@mail.com,+19840783103,32,FR,France,City55,2025-01-17,311.53,True,platinum
-617,John,Kowalski,john.kowalski617@company.net,+461154067383,19,FR,France,City37,2026-03-09,391.41,True,bronze
-139,Lucas,Silva,lucas.silva139@company.net,+964635532147,40,DE,Germany,City36,2026-06-17,217.71,True,gold
-614,Hassan,Ibrahim,not-an-email,+382629191788,26,BR,Brazil,City51,2025-08-01,860.52,True,silver
-349,Hassan,WANG,hassan.wang349@mail.com,+973321251399,72,US,United States,,2025-09-22,153.25,True,silver
-612,Reza,Rezaei,reza.rezaei612@test.org,+678136611042,72,AE,United Arab Emirates,City19,2025-12-12,352.08,True,bronze
-485,Hassan,Rezaei,hassan.rezaei485@test.org,+65759959676,30,FR,France,City6,2024-12-15,100.22,True,silver
-752,Nadia,Novak,nadia.novak752@test.org,+977136428663,75,TR,Turkey,City50,2024-03-28,350.57,True,silver
-522,Lucas,Ibrahim,lucas.ibrahim522@example.com,+542118490936,72,TR,Turkey,City46,2026-04-20,264.82,True,silver
-378,Sara,  Kowalski ,sara.kowalski378@example.com,+644899215862,23,DE,Germany,City33,2024-04-09,216.28,False,silver
-215,Nadia,Rezaei,double@@mail.com,+858410474998,70,US,United States,City7,2026-04-01,243.77,True,gold
-104,Fatima,Tanaka,missing@,+552717226419,27,BR,Brazil,City56,2024-10-13,1559.88,True,
-313,REZA,  Tanaka ,reza.tanaka313@company.net,+678203136960,67,US,United States,City57,2025-04-14,1635.75,True,silver
-525,  John ,Garcia,john.garcia525@test.org,+588326241047,20,FR,France,City37,2026-04-30,2509.8,True,gold
-390,Hassan,Muller,hassan.muller390@example.com,+404829280871,26,IR,Iran,City2,2025-10-09,1370.54,True,platinum
-738,Elena,Johnson,elena.johnson738@company.net,+704552613202,33,US,United States,City40,2025-01-24,148.86,True,bronze
-706,Lucas,Petrov,lucas.petrov706@example.com,+781053309530,58,FR,France,City41,2026-05-06,1095.2,True,silver
-219,Nadia,Petrov,nadia.petrov219@mail.com,+107057795547,53,DE,Germany,City7,2026-02-23,389.49,True,bronze
-259,YUKI,PETROV,yuki.petrov259@example.com,+548737646100,25,JP,Japan,City42,2024-03-24,650.94,True,platinum
-310,Emma,Garcia,emma.garcia310@company.net,+275033260524,27,DE,Germany,City8,2026-07-11,157.61,True,gold
-309,SOFIA,Novak,sofia.novak309@company.net,+168649147967,52,FR,France,City5,2025-09-09,201.48,True,bronze
-780,John,,john.garcia780@company.net,+992296830061,57,DE,Germany,City22,2024-07-31,-816.88,True,silver
-376,John,Ahmadi,john.ahmadi376@test.org,+21911596956,70,AE,United Arab Emirates,City18,2024-10-24,511.28,False,bronze
-90,Omar,Ahmadi,omar.ahmadi90@mail.com,+211099140857,63,DE,Germany,City11,2025-06-12,729.3,True,bronze
-258,Lucas,Novak,lucas.novak258@example.com,+943682354520,47,TR,Turkey,City14,2025-02-21,62.91,True,platinum
-29,Emma,Novak,emma.novak29@test.org,+67611490444,40,BR,Brazil,City23,0000-00-00,218.62,True,silver
-613,Hassan,MULLER,hassan.muller613@example.com,+392675390035,70,TR,Turkey,City24,2024-04-07,287.99,True,silver
-237,Mateo,Tanaka,mateo.tanaka237@example.com,+888255463009,49,AE,United Arab Emirates,City30,not a date,1279.21,True,gold
-178,Reza,Ahmadi, ,+412095818541,48,AE,United Arab Emirates,City15,2026-04-12,146.07,True,platinum
-231,Ivan,Rossi,ivan.rossi231@test.org,+232794174431,68,BR,Brazil,City10,2026-02-07,588.75,True,silver
-289,Elena,Tanaka,elena.tanaka289@company.net,+457833025259,33,US,United States,City54,2024-03-08,349.23,True,gold
-130,LUCAS,Johnson,lucas.johnson130@example.com,+286279818987,49,TR,Turkey,City16,2025-08-17,856.04,False,gold
-78,Maryam,Silva,maryam.silva78@mail.com,+849910562991,20,DE,Germany,City6,2024-12-18,555.67,True,silver
-141,Chen,Johnson,chen.johnson141@test.org,+341516243192,61,AE,United Arab Emirates,City53,2025-02-07,171.86,False,platinum
-698,Nadia,Johnson,nadia.johnson698@mail.com,+969179629604,49,JP,Japan,City20,2024-03-05,439.05,True,bronze
-478,Maryam,Tanaka,maryam.tanaka478@example.com,+887430595883,76,IR,,City16,2024-10-03,390.42,True,bronze
-154,Maryam,Rossi,maryam.rossi154@company.net,+458016544808,64,DE,Germany,City34,2024-08-10,1336.49,True,bronze
-299,Sofia,rezaei,sofia.rezaei299@example.com,+996291599965,40,IR,Iran,City14,2025-11-26,245.69,True,gold
-608,Mateo,Novak,mateo.novak608@test.org,+41495427925,56,TR,Turkey,City26,2024-12-29,280.09,False,platinum
-399,John,Tanaka,john.tanaka399@example.com,+578574212442,49,JP,Japan,City2,2025-05-19,246.45,True,gold
-492,Reza,Novak,reza.novak492@company.net,+92383064190,18,BR,Brazil,City15,2024-09-05,177.16,True,gold
-340,Yuki,Ahmadi,yuki.ahmadi340@company.net,+498529362999,63,IR,Iran,City58,2024-09-26,308.04,True,silver
-153,Anna,Silva,anna.silva153@example.com,+175091124935,22,US,United States,,2024-12-06,N/A,True,bronze
-291,Reza,ahmadi,reza.ahmadi291@example.com,+829895019964,63,JP,Japan,City19,2026-04-26,496.49,True,bronze
-2,Omar,Ibrahim,omar.ibrahim2@mail.com,+535205636898,67,FR,France,City23,2024-11-02,333.03,False,gold
-751,Maryam,Kowalski,maryam.kowalski751@test.org,+106066616503,43,BR,Brazil,City45,2025-12-26,83.03,False,bronze
-152,Lucas,Novak,lucas.novak152@mail.com,+229000273623,47,US,United States,City29,2024-05-17,-372.51,True,silver
-260,emma,Wang,emma.wang260@mail.com,+419779268534,65,JP,Japan,City60,2024-07-30,49.04,True,silver
-523,  Omar ,Hosseini,omar.hosseini523@mail.com,+682868635317,20,FR,France,City33,2026-01-07,142.62,False,silver
-143,Sofia,Johnson,sofia.johnson143@mail.com,+302037486431,22,IR,Iran,City46,2025-08-01,344.0,True,gold
-73,Yuki,Muller,yuki.muller73@test.org,+266367253952,38,IR,Iran,City22,2026-06-30,306.7,True,bronze
-244,Chen,Muller,chen.muller244@test.org,+38204222231,42,FR,France,City27,2025-03-28,568.52,True,bronze
-148,Nadia,Rezaei,nadia.rezaei148@mail.com,+489797043364,55,FR,France,City28,2024-04-22,390.31,False,gold
-181,Nadia,Tanaka,missing@,+907041827258,33,DE,Germany,City56,2025-11-28,186.32,True,bronze
-393,Sofia,Garcia,sofia.garcia393@company.net,+328063622029,34,,Japan,City27,2026-07-02,783.99,False,gold
-500,Nadia,Kowalski,nadia.kowalski500@mail.com,+309914734063,57,TR,Turkey,  City26 ,2026-06-22,unknown,True,gold
-647,Leila,Garcia,leila.garcia647@example.com,+491746421261,23,BR,Brazil,City17,2024-10-19,134.57,True,gold
-365,Reza,Karimi,reza.karimi365@company.net,+186361419939,51,JP,Japan,City50,2024-09-28,529195.0072155286,False,silver
-731,  Fatima ,Rezaei,fatima.rezaei731@company.net,+269992188023,35,BR,Brazil,City14,2026-08-03,,False,bronze
-487,Leila,,leila.silva487@company.net,+546248997968,66,BR,Brazil,City57,2025-07-16,988.39,True,bronze
-319,Sofia,KARIMI,sofia.karimi319@mail.com,+548308542604,50,DE,Germany,City31,2024-06-17,635.54,False,bronze
-513,Reza,Johnson,reza.johnson513@test.org,+435215343107,47,AE,United Arab Emirates,City21,2026-02-18,N/A,,silver
-71,Yuki,Wang,yuki.wang71@test.org,+566958541212,46,FR,France,City50,2024-09-26,655.66,True,gold
-431,Leila,Rossi,leila.rossi431@company.net,+384426891279,35,JP,Japan,City58,2026-05-11,130.58,False,platinum
-432,Maryam,Garcia,maryam.garcia432@mail.com,+98646087954,23,US,United States,City46,2024-10-15,137.2,False,silver
-142,Fatima,Ibrahim,fatima.ibrahim142@test.org,+551389313664,59,IR,Iran,City50,2025-06-30,998.47,True,silver
-293,  Elena ,Ahmadi,elena.ahmadi293@company.net,+155377382604,60,IR,Iran,City26,2024-09-07,158.51,False,platinum
-692,david,Johnson,,+529049995639,70,US,United States,City13,2026-05-24,455.53,False,platinum
-343,LUCAS,Novak,lucas.novak343@test.org,+239538629266,31,AE,United Arab Emirates,City20,2026-04-24,528.79,False,bronze
-276,John,Petrov,john.petrov276@mail.com,+821905016826,,TR,Turkey,City46,2024-06-30,153.72,True,silver
-737,Ivan,Karimi,ivan.karimi737@company.net,+149997621643,59,US,United States,City1,2024-05-11,923.12,True,platinum
-56,David,Ahmadi,david.ahmadi56@mail.com,+742751151156,21,DE,Germany,City5,2025-08-21,136.45,True,bronze
-105,Emma,Rezaei,emma.rezaei105@mail.com,+24351423080,65,FR,France,City19,2024-05-17,350.93,True,bronze
-294,Mateo,Johnson,mateo.johnson294@company.net,+573348187640,19,US,United States,city19,2024-04-17,unknown,True,bronze
-687,Reza,Silva,reza.silva687@company.net,+95449340545,75,US,United States,City4,2025-09-07,251.95,True,platinum
-512,David,Silva,david.silva512@test.org,+629025734699,25,US,United States,City43,2025-03-01,732.01,True,platinum
-449,Lucas,,lucas.johnson449@mail.com,+338222899373,19,IR,Iran,City20,2025-07-24,85.56,True,silver
-573,Fatima,Tanaka,fatima.tanaka573@test.org,+826056166162,62,US,United States,City43,2026-05-04,1727.61,False,gold
-251,Fatima,Rossi,fatima.rossi251@mail.com,+476130727065,34,BR,Brazil,City47,2026-04-13,1439.74,False,
-646,Yuki,Smith,yuki.smith646@company.net,+953895706931,56,US,United States,City13,2026-03-12,559933.4024320564,True,gold
-718,Reza,Silva,reza.silva718@company.net,+833481397349,42,US,United States,City20,2024-07-22,339.42,True,platinum
-749,Emma,Garcia,emma.garcia749@test.org,+156901085537,53,FR,France,City29,2025-07-13,543.62,False,platinum
-584,Fatima,Rossi,fatima.rossi584@test.org,+472605426515,76,DE,Germany,City31,2025-02-18,1612.7,False,platinum
-616,Ali,Ahmadi,ali.ahmadi616@mail.com,+855479862704,78,AE,United Arab Emirates,City19,2025-10-19,120.84,True,bronze
-795,,Tanaka,sara.tanaka795@test.org,+909521836464,60,FR,France,City29,2025-06-27,85.75,False,silver
-403,David,TANAKA,david.tanaka403@company.net,+382196648079,59,TR,Turkey,City38,2024-11-12,388.12,True,gold
-750,Maryam,Johnson,maryam.johnson750@company.net,+11095000205,57,AE,United Arab Emirates,city8,2025-05-06,136.9,False,platinum
-647,Leila,Garcia,leila.garcia647@example.com,+491746421261,23,BR,Brazil,City17,2024-10-19,134.57,True,gold
-287,Chen,Muller,chen.muller287@example.com,+878765704850,53,US,United States,City5,2025-02-03,281.03,True,platinum
-653,  Sofia ,Garcia,sofia.garcia653@test.org,+992654222669,46,BR,Brazil,City48,31/02/2023,645.11,True,platinum
-314,Mateo,Smith,mateo.smith314@mail.com,+206815328204,57,BR,Brazil,City20,2024-11-29,1252.0,False,bronze
-80,Elena,Garcia,elena.garcia80@example.com,+449914243169,36,DE,Germany,City54,2025-03-04,361.06,True,gold
-162,Ali,,ali.smith162@test.org,+805262412500,28,JP,Japan,City5,2024-11-11,209.45,True,
-86,Reza,Novak,reza.novak86@mail.com,+619378138232,56,US,United States,City14,2026-01-14,227501.54187839766,True,gold
-398,Reza,Wang,reza.wang398@example.com,+348304658370,64,DE,Germany,City56,2024-04-03,571.66,True,bronze
-303,David,Wang,david.wang303@mail.com,+585043562570,18,JP,Japan,City54,2024-10-11,387.75,True,silver
-377,Ivan,Ahmadi,ivan.ahmadi377@test.org,+969010130523,42,JP,Japan,City33,2026-02-20,1093.45,False,gold
-514,John,,john.karimi514@mail.com,+776542782664,70,JP,Japan,City25,2024-11-04,538.64,True,gold
-703,Maryam,Petrov,maryam.petrov703@mail.com,+542335704317,29,IR,Iran,City22,2025-01-29,517.44,True,gold
-241,Anna,Hosseini,anna.hosseini241@test.org,+779900314915,31,FR,France,City22,2025-03-15,618.31,True,silver
-25,Hassan,Smith,hassan.smith25@test.org,+43911705535,45,US,United States,City34,2025-06-03,382.69,True,gold
-386,Chen,Muller,chen.muller386@test.org,,58,IR,Iran,CITY57,2025-10-01,829.04,True,gold
-457,Ali,Kowalski,ali.kowalski457@company.net,+243085260155,76,FR,France,City34,2025-08-16,49.42,False,platinum
-298,Ali,Novak,ali.novak298@example.com,+261499321332,74,DE,Germany,City5,2024-08-26,373.67,True,platinum
-386,Chen,Muller,chen.muller386@test.org,,58,IR,Iran,CITY57,2025-10-01,829.04,True,gold
-33,Chen,Tanaka,chen.tanaka33@example.com,+32842043059,66,BR,Brazil,City10,2026-01-26,764.25,False,silver
-39,Mateo,Johnson,mateo.johnson39@company.net,+573735716184,64,AE,United Arab Emirates,City18,2025-01-28,524.61,True,gold
-476,Hassan,Kowalski,hassan.kowalski476@company.net,+595555237219,49,BR,Brazil,City51,2023-13-45,203.9,True,gold
-743,Maryam,smith,maryam.smith743@test.org,+659114524523,55,JP,Japan,City2,,121.91,False,gold
-37,Reza,johnson,reza.johnson37@mail.com,+901850313663,48,TR,Turkey,City54,2025-06-14,695.02,True,platinum
-146,David,Wang,david.wang146@test.org,+469045954583,26,BR,Brazil,City60,2025-02-02,822.19,True,gold
-339,MARYAM,Silva,maryam.silva339@company.net,+489715333404,62,TR,Turkey,City5,2025-01-24,415.23,True,silver
-420,John,Rezaei,john.rezaei420@test.org,+707941227673,67,TR,Turkey,  City45 ,2024-05-22,,False,silver
-273,Reza,Ibrahim,reza.ibrahim273@example.com,+714973173093,56,FR,France,City38,2024-06-23,738.49,True,silver
-177,Fatima,Johnson,fatima.johnson177@mail.com,+503976972223,24,JP,Japan,City54,2026-03-07,606.39,True,bronze
-198,Ali,Johnson,ali.johnson198@company.net,+822978759691,22,AE,United Arab Emirates,City43,2025-02-23,,False,bronze
-167,  Leila ,Tanaka,leila.tanaka167@mail.com,+979970619222,18,AE,United Arab Emirates,City2,2024-03-03,317.07,True,platinum
-705,Ivan,Garcia,ivan.garcia705@company.net,+793666255986,41,IR,Iran,City28,2025-07-01,N/A,False,gold
-643,  Fatima ,Muller,,+978072780368,74,BR,Brazil,City56,2025-07-27,292.06,True,silver
-28,Reza,Petrov,reza.petrov28@mail.com,+686594952840,36,TR,Turkey,City38,2026-06-10,78.53,True,silver
-625,John,Tanaka,john.tanaka625@test.org,+802450332822,29,TR,Turkey,City46,2025-11-14,174.01,True,gold
-770,Fatima,Smith,fatima.smith770@example.com,+367871608867,23,DE,Germany,City25,2025-10-21,unknown,True,platinum
-338,Hassan,Kowalski,hassan.kowalski338@test.org,+851388953995,18,BR,Brazil,City14,2025-05-21,92.74,True,silver
-536,Leila,Karimi,leila.karimi536@example.com,+409756801690,56,US,United States,City28,2025-10-26,250.85,True,silver
-662,Sofia,Tanaka,sofia.tanaka662@test.org,+177072355469,62,FR,France,City49,2025-03-09,254.07,True,bronze
-699,Hassan,Silva,hassan.silva699@mail.com,+163005703005,23,TR,Turkey,City26,2025-07-30,344.21,True,bronze
-748,Sara,Ahmadi,sara.ahmadi748@test.org,+396047218445,61,BR,Brazil,City45,2025-07-07,208.86,False,gold
-473,Ali,Novak,ali.novak473@example.com,+193576769370,46,BR,Brazil,City29,2026-03-08,512.75,False,silver
-335,David,Rossi,david.rossi335@company.net,+229868781271,46,,Japan,City38,2024-03-24,725.57,False,platinum
-428,Mateo,Wang,mateo.wang428@mail.com,+923131233312,34,JP,Japan,  City13 ,2024-03-05,460.19,True,gold
-20,Lucas,Silva,lucas.silva20@example.com,+656240953580,,FR,France,City18,2025-10-08,586.37,True,silver
-680,Sara,Tanaka,sara.tanaka680@example.com,+529739589779,32,DE,Germany,City12,2024-10-09,446.79,True,platinum
-760,Mateo,Tanaka,mateo.tanaka760@test.org,+454922532407,39,DE,Germany,City4,2024-11-12,104.07,False,platinum
-459,Elena,Tanaka,elena.tanaka459@company.net,+88872722682,41,AE,United Arab Emirates,City30,2025-04-30,616.45,True,silver
-45,Reza,Garcia,reza.garcia45@mail.com,+977593709101,37,AE,United Arab Emirates,City51,2024-03-11,585.22,True,platinum
-578,Hassan,Garcia,hassan.garcia578@mail.com,+741954393044,59,US,United States,City48,2026-01-22,250.71,True,bronze
-753,Maryam,Kowalski,maryam.kowalski753@company.net,+403077470301,41,DE,Germany,City56,2025-03-24,2064.73,True,silver
-465,Elena,Ibrahim,elena.ibrahim465@example.com,+932928946994,58,AE,United Arab Emirates,City11,2024-10-04,643.86,True,silver
-170,,Silva,not-an-email,+382537972896,53,TR,Turkey,City10,2025-01-07,506823.1663268318,True,gold
-210,Nadia,NOVAK,nadia.novak210@mail.com,+494087502640,44,AE,United Arab Emirates,City33,2024-04-04,,False,platinum
-568,maryam,Tanaka,maryam.tanaka568@mail.com,+811422843894,73,AE,United Arab Emirates,City58,2024-11-28,422.38,False,silver
-336,Hassan,Smith,hassan.smith336@mail.com,+663718363203,18,,Japan,City3,2024-07-09,451.54,True,platinum
-497,Elena,Rezaei,elena.rezaei497@example.com,+505209356903,27,AE,United Arab Emirates,City46,2024-11-09,394797.91220403055,True,silver
-792,Nadia,Garcia,nadia.garcia792@company.net,+645115412338,24,AE,United Arab Emirates,City55,2025-08-06,5080.81,True,gold
-665,Lucas,Smith,lucas.smith665@company.net,+577933179465,28,IR,Iran,City1,2026-03-21,938.51,False,silver
-597,Nadia,Silva,nadia.silva597@example.com,+815268650310,65,FR,France,City34,,570.17,False,silver
-366,Nadia,rossi,nadia.rossi366@test.org,+943494171075,18,US,United States,CITY46,31/02/2023,791.44,True,bronze
-48,Ali,Hosseini,ali.hosseini48@test.org,+413326057595,47,TR,Turkey,City10,2026-05-04,1239.97,True,silver
-357,John,Smith,john.smith357@example.com,+231729339503,56,BR,Brazil,City18,2025-09-25,281.58,True,silver
-648,Anna,TANAKA,anna.tanaka648@company.net,+935306566789,36,FR,France,City19,2024-09-10,506.99,True,gold
-494,Ali,Ahmadi,ali.ahmadi494@company.net,+76974303069,49,FR,France,City25,2026-07-03,470.55,True,gold
-474,Hassan,Silva,hassan.silva474@company.net,+811974791499,30,FR,France,City53,2025-03-06,484.08,True,
-108,MATEO,Rezaei,mateo.rezaei108@mail.com,+698181145886,75,FR,France,City58,2024-02-20,290.93,False,bronze
-456,Hassan,Wang,hassan.wang456@company.net,+431582855148,22,FR,France,City20,2026-01-22,338.03,True,silver
-374,Sara,Hosseini,sara.hosseini374@example.com,+378717277606,45,IR,Iran,City26,2026-07-18,579.52,False,platinum
-763,Anna,KOWALSKI,anna.kowalski763@company.net,+741176440809,77,JP,Japan,City51,2025-09-29,315.28,True,silver
-236,Omar,Kowalski,omar.kowalski236@company.net,+813373735337,38,US,United States,City40,2025-01-18,70.92,True,silver
-295,Ali,Johnson,ali.johnson295@example.com,+211027150792,64,US,United States,City50,2026-05-01,1400.41,False,platinum
-330,Omar,Petrov,omar.petrov330@mail.com,+525975099117,63,DE,Germany,CITY20,2026-03-20,173.01,True,platinum
-469,nadia,Rezaei,nadia.rezaei469@example.com,+919832870414,56,IR,Iran,City60,2024-12-29,208.1,True,gold
-274,Sara,Muller,sara.muller274@test.org,+428994637193,63,US,United States,city48,2024-06-06,175.98,True,platinum
-306,Omar,Hosseini,omar.hosseini306@test.org,+72517858266,71,DE,Germany,City46,2024-12-24,1458.46,True,platinum
-671,Ivan,Johnson,ivan.johnson671@mail.com,+127979386036,48,FR,France,City51,2025-01-08,116.16,True,silver
-723,,Smith,sofia.smith723@test.org,+898291942416,48,TR,Turkey,City56,2025-12-07,1110.36,True,platinum
-519,Maryam,Wang,maryam.wang519@company.net,+311142625868,68,IR,Iran,City41,2025-07-21,251.35,True,gold
-381,Leila,Kowalski,leila.kowalski381@company.net,+226740079794,58,BR,Brazil,City31,2025-05-04,590.54,True,gold
-227,John,Petrov,john.petrov227@test.org,+296197941050,47,BR,Brazil,City20,2024-09-25,452.1,True,silver
-3,Mateo,Novak,mateo.novak3@mail.com,+427128088853,38,JP,Japan,City37,2025-12-31,908.45,False,silver
-337,Emma,Tanaka,emma.tanaka337@company.net,+62789282689,26,AE,United Arab Emirates,City60,2026-07-17,730.56,False,
-425,Reza,Petrov,reza.petrov425@example.com,+732217486793,47,US,United States,City2,2025-03-10,100.87,True,silver
-458,Omar,Silva,omar.silva458@company.net,+46434097461,21,TR,Turkey,City36,2024-12-13,145.69,True,gold
-713,Mateo,  Novak ,mateo.novak713@test.org,+578691896545,73,IR,Iran,City37,,769.34,False,bronze
-784,Ivan,Rezaei,missing@,+511072062558,51,BR,Brazil,City58,2026-02-27,679.27,True,bronze
-329,Mateo,Tanaka,mateo.tanaka329@example.com,+27794807320,32,AE,United Arab Emirates,City45,2025-09-03,712.81,False,gold
-415,Omar,Kowalski,@nodomain.com,+727481494389,46,BR,Brazil,City6,2023-13-45,637.02,False,bronze
-243,Sara,Ibrahim,sara.ibrahim243@test.org,+802816962789,34,DE,Germany,City51,2025-03-09,869.24,True,bronze
-406,Maryam,silva,maryam.silva406@mail.com,+53932388613,78,JP,Japan,CITY23,2024-11-30,277.71,,platinum
-342,Elena,Smith,elena.smith342@company.net,+534612061253,37,BR,Brazil,City24,2025-01-11,273.37,True,silver
-621,Maryam,Ahmadi,maryam.ahmadi621@test.org,+342419727246,44,DE,Germany,City11,2025-12-09,359.6,True,platinum
-579,Maryam,johnson,maryam.johnson579@test.org,+486831320010,40,DE,Germany,City39,2025-08-31,713.82,True,platinum
-722,Elena,Ibrahim,missing@,+636565980160,18,TR,Turkey,city13,2024-08-10,2457.08,False,platinum
-169,Nadia,Rossi,,+366661920770,37,BR,Brazil,City47,2025-04-03,702.64,True,platinum
-262,mateo,Kowalski,mateo.kowalski262@company.net,+303650547828,47,DE,Germany,City28,2026-02-10,166.6,True,bronze
-477,Chen,Silva,chen.silva477@company.net,+618562651240,25,TR,Turkey,City42,2025-03-10,299.48,True,bronze
-461,Leila,Novak,leila.novak461@company.net,+283364989890,69,TR,Turkey,City36,2026-03-10,911.78,True,platinum
-82,David,JOHNSON,david.johnson82@example.com,+857578927886,62,BR,Brazil,City59,2024-08-30,147.34,True,platinum
-557,Sara,Ahmadi,sara.ahmadi557@mail.com,+777209636766,77,BR,Brazil,City41,2026-02-24,1488.41,True,platinum
-64,Elena,Kowalski,elena.kowalski64@mail.com,,23,TR,Turkey,City3,2025-08-15,1283.88,True,silver
-272,Chen,Tanaka,chen.tanaka272@example.com,+934027301162,56,IR,Iran,City59,2025-10-17,254.61,True,silver
-53,Mateo,,mateo.johnson53@example.com,+298416897964,26,JP,Japan,City20,0000-00-00,382.74,True,bronze
-316,Leila,Ibrahim,leila.ibrahim316@company.net,+759942959827,49,AE,United Arab Emirates,City20,2025-12-28,414.47,True,gold
-100,Maryam,Ibrahim,maryam.ibrahim100@example.com,+886297532819,74,AE,United Arab Emirates,City47,2025-06-01,177.65,True,silver
-781,David,Ibrahim,david.ibrahim781@mail.com,+358485838815,25,AE,United Arab Emirates,City31,2024-04-15,163.66,True,bronze
-380,Anna,Ahmadi,anna.ahmadi380@company.net,+87684808946,78,BR,Brazil,CITY6,2024-12-01,314.91,False,gold
-222,Anna,Rossi,@nodomain.com,+291791252097,54,DE,Germany,City37,2024-03-17,242.6,False,gold
-93,Mateo,Karimi,mateo.karimi93@test.org,+483760746371,73,FR,France,City40,2025-02-05,121.47,True,bronze
-756,Nadia,Kowalski,nadia.kowalski756@mail.com,+11223957628,62,IR,Iran,City36,2025-03-21,-551.16,False,gold
-121,Sofia,Karimi,not-an-email,+197929909233,56,US,United States,City1,2026-08-03,147.69,True,platinum
-765,Sofia,Ahmadi,sofia.ahmadi765@company.net,+23261948965,20,TR,Turkey,City34,2026-03-09,119.55,True,silver
-391,ANNA,Wang,anna.wang391@mail.com,+845595307382,74,AE,United Arab Emirates,City50,2026-05-19,212.11,True,silver
-451,Sofia,Petrov,sofia.petrov451@company.net,+386234051710,45,TR,Turkey,City46,2024-03-13,308.16,True,platinum
-120,Anna,Karimi,anna.karimi120@company.net,+152948238922,43,JP,Japan,City41,2024-04-12,505.65,True,bronze
-189,John,Johnson,john.johnson189@test.org,+805741824387,54,FR,France,City43,2024-08-28,100.36,True,silver
-321,Leila,Karimi,leila.karimi321@mail.com,+56451693234,58,BR,Brazil,City18,2025-01-19,963.19,True,platinum
-70,  Reza ,Rezaei,reza.rezaei70@company.net,+68010910479,,BR,Brazil,city58,2024-11-21,51.17,True,gold
-437,Sara,Rezaei,sara.rezaei437@mail.com,+18652538020,69,US,United States,City58,2024-10-16,417.31,True,platinum
-585,yuki,Wang,yuki.wang585@example.com,+334590749493,45,BR,Brazil,CITY18,2024-04-19,101.48,True,silver
-592,Sara,Tanaka,sara.tanaka592@example.com,+939522126457,36,TR,Turkey,City43,2026-04-15,532.68,True,bronze
-407,Nadia,Wang,nadia.wang407@test.org,+465075245495,38,DE,Germany,City12,2024-12-30,888.14,True,bronze
-629,David,Rossi,david.rossi629@test.org,+532366172791,71,AE,United Arab Emirates,City46,2024-12-22,498.9,True,gold
-553,maryam,Ibrahim,maryam.ibrahim553@company.net,+547567939412,67,AE,United Arab Emirates,City43,2024-09-26,222.28,True,platinum
-681,Ivan,Rezaei,ivan.rezaei681@mail.com,+679275043652,69,BR,Brazil,City51,2025-12-05,176.63,True,silver
-196,Anna,Rezaei,anna.rezaei196@company.net,+882171034186,63,AE,United Arab Emirates,City29,2024-08-27,471.87,False,bronze
-50,Emma,Rezaei,emma.rezaei50@company.net,+441925632465,59,US,United States,City4,2025-10-31,804.84,True,silver
-197,Anna,Novak,anna.novak197@test.org,+667406409098,30,US,United States,City31,2025-11-11,1852.37,False,bronze
-559,Mateo,Wang,mateo.wang559@company.net,+74496737064,72,JP,Japan,City57,2025-02-17,295.49,True,silver
-502,Hassan,Rossi,hassan.rossi502@test.org,+712192975847,48,DE,Germany,City23,2025-12-13,389.52,,bronze
-265,Yuki,Ibrahim,yuki.ibrahim265@test.org,+48542023178,33,AE,United Arab Emirates,City51,not a date,373.47,True,gold
-771,Maryam,Johnson,not-an-email,+26128255255,40,TR,Turkey,City19,2025-08-04,576.32,True,silver
-635,Emma,Silva,emma.silva635@mail.com,+239639659999,74,FR,France,City1,2024-09-24,421.79,False,bronze
-246,,Karimi,reza.karimi246@company.net,+134033322368,56,DE,Germany,City34,2025-12-28,1021.99,False,bronze
-708,david,Ibrahim,david.ibrahim708@test.org,+94078615857,62,FR,France,City19,2026-05-29,544.2,True,platinum
-38,David,Garcia,david.garcia38@mail.com,+474185319401,27,FR,France,City31,2026-07-17,136.9,True,platinum
-271,Elena,Tanaka,elena.tanaka271@example.com,+439399023639,74,JP,Japan,City48,2025-01-22,638.79,True,bronze
-408,Leila,Rezaei,leila.rezaei408@test.org,+912353456502,70,US,United States,City49,2025-09-22,1087.23,True,silver
-569,  Elena ,Rossi,,+248790355148,65,FR,France,City25,2025-11-14,491.99,False,bronze
-587,Hassan,Karimi,hassan.karimi587@company.net,+482653888596,35,JP,Japan,City54,2024-11-22,340.61,True,silver
-564,Sofia,Petrov,sofia.petrov564@test.org,+526222434114,57,AE,United Arab Emirates,  City5 ,2024-09-05,1155.34,True,bronze
-367,Lucas,Wang,lucas.wang367@example.com,+205150376518,35,AE,United Arab Emirates,City38,2026-02-14,2959.55,True,gold
-486,Ivan,Ibrahim,ivan.ibrahim486@test.org,+779685226213,76,DE,Germany,City56,2024-11-01,,,bronze
-234,Anna,Petrov,anna.petrov234@example.com,+764453635358,69,AE,United Arab Emirates,City11,2025-06-13,157.8,False,silver
-775,Emma,Hosseini,emma.hosseini775@company.net,+772750968342,38,TR,Turkey,City52,2024-08-13,195.1,True,platinum
-626,Hassan,Johnson,hassan.johnson626@mail.com,+204804512531,33,US,United States,City20,2024-09-28,912.5,False,platinum
-541,Maryam,Ibrahim,maryam.ibrahim541@mail.com,+209550364008,72,US,United States,City59,2025-06-21,185.26,True,bronze
-488,Elena,Karimi,elena.karimi488@mail.com,+278388714107,31,DE,Germany,City55,2025-07-26,132.77,True,silver
-724,Omar,Smith,omar.smith724@test.org,+406335846988,63,IR,Iran,City45,2025-08-25,248.45,True,bronze
-283,Anna,Hosseini,anna.hosseini283@example.com,+422631431401,45,AE,United Arab Emirates,City25,2024-11-29,1986.02,False,bronze
-628,fatima,Wang,fatima.wang628@test.org,+535227253600,23,FR,France,City9,2026-02-08,196.42,True,bronze
-195,Hassan,Rezaei,hassan.rezaei195@company.net,+209086024903,62,FR,France,city9,2024-02-22,579.23,True,platinum
-6,Reza,Muller,not-an-email,+896427231687,51,BR,Brazil,City57,2023-13-45,156.03,False,gold
-102,Reza,Novak,reza.novak102@mail.com,+654904712126,57,US,United States,City5,2026-05-23,510.79,True,silver
-155,Omar,Novak,omar.novak155@test.org,+15810789266,51,BR,Brazil,city54,not a date,453.99,True,bronze
-586,Sofia,Smith,sofia.smith586@example.com,+813787312891,55,BR,Brazil,CITY23,2024-12-08,502.26,True,bronze
-278,Mateo,Garcia,mateo.garcia278@test.org,+37804232503,68,JP,Japan,City2,2024-04-16,641.27,False,platinum
-499,Maryam,Kowalski,maryam.kowalski499@company.net,+474713173506,68,JP,Japan,City29,not a date,838.46,False,bronze
-489,Elena,Muller,elena.muller489@mail.com,+562383376374,27,TR,Turkey,City55,2025-06-04,248.32,True,bronze
-475,Sofia,Ahmadi,sofia.ahmadi475@mail.com,+831935852450,22,BR,Brazil,City12,2025-12-28,945.54,True,gold
-315,Hassan,Rezaei,hassan.rezaei315@example.com,+843200444573,71,TR,Turkey,City52,2025-11-20,525.0,True,bronze
-243,Sara,Ibrahim,sara.ibrahim243@test.org,+802816962789,34,DE,Germany,City51,2025-03-09,869.24,True,bronze
-109,Sara,Smith,sara.smith109@mail.com,+666685065557,44,JP,Japan,City59,2026-06-15,2326.43,True,bronze
-150,Ivan,Silva,ivan.silva150@example.com,+937659831751,65,JP,Japan,City43,2026-03-04,406.2,False,bronze
-796,Yuki,Garcia,yuki.garcia796@test.org,+734359976908,22,,France,City56,2024-04-29,1550.52,True,silver
-436,Fatima,Rossi,fatima.rossi436@mail.com,+488060064577,58,TR,Turkey,City28,2026-05-19,138.17,True,bronze
-467,Chen,Hosseini,chen.hosseini467@company.net,+261324575383,38,IR,Iran,City30,2025-10-20,247.34,False,gold
-654,David,Rezaei,david.rezaei654@company.net,+102802193495,56,JP,Japan,City54,2024-09-01,119.94,True,platinum
-370,Ivan,Ibrahim,ivan.ibrahim370@test.org,+669220618401,46,DE,Germany,City1,2024-02-27,453.05,True,gold
-345,Chen,Hosseini,chen.hosseini345@company.net,+319102329342,54,FR,France,City49,2025-08-13,-1798.15,True,platinum
-168,Maryam,silva,maryam.silva168@mail.com,+487093062180,56,TR,Turkey,City10,2024-09-17,361.71,True,gold
-736,Emma,Petrov,emma.petrov736@company.net,+135999238936,30,DE,Germany,City26,2025-07-21,-529.31,True,gold
-715,David,Ahmadi,david.ahmadi715@mail.com,+915871649647,34,JP,Japan,City33,2025-11-04,304.45,True,silver
-312,Mateo,Ibrahim,mateo.ibrahim312@company.net,+14587270849,36,US,United States,City2,2026-01-10,275.88,True,
-793,Fatima,Silva,fatima.silva793@example.com,+886214194894,75,BR,Brazil,City60,2024-11-23,256.74,True,gold
-67,Anna,Rezaei,anna.rezaei67@example.com,+223825709099,74,TR,Turkey,City58,2026-02-10,119.97,False,bronze
-185,Omar,Rezaei,omar.rezaei185@example.com,+362580086762,29,JP,Japan,City7,2025-10-23,N/A,True,bronze
-153,Anna,Silva,anna.silva153@example.com,+175091124935,22,US,United States,,2024-12-06,N/A,True,bronze
-777,Chen,Novak,chen.novak777@test.org,+478634885025,37,IR,Iran,City48,2025-04-24,-202.27,True,bronze
-766,Lucas,Hosseini,lucas.hosseini766@company.net,+65782697437,70,JP,Japan,CITY19,2025-01-16,142.48,False,platinum
-79,Sara,Petrov,sara.petrov79@mail.com,+651042484187,27,TR,Turkey,City20,2026-05-31,161.42,True,platinum
-638,Ivan,Silva,ivan.silva638@example.com,+872169444793,49,AE,United Arab Emirates,City34,2024-11-26,403.15,False,gold
-413,Leila,Ahmadi,double@@mail.com,+738347807093,25,TR,Turkey,City39,2026-04-08,unknown,True,silver
-468,Fatima,Wang,fatima.wang468@test.org,+987003362630,73,IR,Iran,City11,2025-06-22,400.64,True,bronze
-501,Anna,Petrov,anna.petrov501@example.com,+702266687876,57,BR,Brazil,City11,2025-08-05,483.1,True,bronze
-362,Sara,Rezaei,sara.rezaei362@example.com,+136939111033,22,TR,Turkey,City5,2025-11-05,865.91,False,platinum
-605,Reza,Smith,reza.smith605@example.com,+759185033262,20,IR,Iran,City23,2024-10-01,385.61,True,bronze
-639,David,Kowalski,david.kowalski639@example.com,+742665270741,48,AE,United Arab Emirates,City18,2024-11-16,198.22,True,platinum
-580,Sara,Ibrahim,sara.ibrahim580@test.org,+141029480697,66,DE,Germany,City14,2025-11-23,241.97,True,gold
-551,John,Wang,john.wang551@test.org,+403207172902,52,AE,United Arab Emirates,City23,2024-03-18,194.87,True,gold
-547,Maryam,Johnson,maryam.johnson547@example.com,+73382708583,25,TR,Turkey,City19,2024-10-17,196.83,False,silver
-690,Lucas,Ibrahim,lucas.ibrahim690@test.org,+989221795889,29,US,United States,City46,2024-04-24,271.84,True,gold
-419,Leila,Garcia,leila.garcia419@company.net,+367569983541,60,FR,France,City52,2024-04-02,118.25,True,platinum
-281,Hassan,Smith,hassan.smith281@example.com,+588831907752,56,IR,Iran,City19,2025-12-19,704.71,True,gold
-157,Ali,Kowalski,ali.kowalski157@company.net,,65,AE,United Arab Emirates,  City8 ,2024-05-18,441.79,True,bronze
-327,Anna,Tanaka,anna.tanaka327@test.org,+885435506831,71,FR,France,City44,2024-05-03,263.29,True,platinum
-581,Omar,johnson,omar.johnson581@mail.com,+349943758036,43,JP,Japan,City46,31/02/2023,284.93,False,silver
-439,Omar,Smith,omar.smith439@mail.com,+897843872345,23,BR,Brazil,City34,2024-12-09,1901.34,True,platinum
-593,John,Petrov,john.petrov593@company.net,+743480356593,44,IR,Iran,CITY12,2026-01-31,240.6,True,bronze
-695,Omar,Ibrahim,omar.ibrahim695@company.net,+726589455436,67,JP,Japan,City15,2025-05-22,683.95,True,platinum
-747,Nadia,  Garcia ,nadia.garcia747@example.com,+332580777545,48,US,United States,City1,2024-07-13,718.69,True,gold
-172,Anna,Muller,double@@mail.com,+892897039524,22,TR,Turkey,City49,2024-09-25,1177.47,False,platinum
-54,Ali,Garcia,ali.garcia54@company.net,+74747092647,51,IR,Iran,City13,2024-11-18,407.52,True,bronze
-34,Nadia,Rossi,nadia.rossi34@example.com,+204623728836,34,BR,Brazil,City59,2024-04-22,145.16,False,gold
-226,Elena,Tanaka,elena.tanaka226@test.org,+832740824013,48,AE,United Arab Emirates,City45,2026-05-19,670.27,False,silver
-47,Maryam,Rezaei,maryam.rezaei47@example.com,+937504630767,30,JP,Japan,City31,2026-01-14,31.78,True,gold
-302,Fatima,Garcia,fatima.garcia302@mail.com,+17929466646,42,IR,Iran,City14,2024-03-21,134.45,True,
-611,Mateo,Karimi,mateo.karimi611@test.org,,26,DE,Germany,City21,2026-07-07,260.81,True,bronze
-598,Fatima,Johnson,fatima.johnson598@mail.com,+557291276248,74,TR,Turkey,City52,2024-07-10,106.56,True,gold
-122,Elena,Petrov,elena.petrov122@company.net,+793475712582,34,AE,United Arab Emirates,City43,2026-02-12,148.81,True,silver
-307,Elena,Rezaei,elena.rezaei307@company.net,+668537847988,52,AE,United Arab Emirates,City33,2025-03-22,42.75,True,bronze
-423,Sofia,Garcia,sofia.garcia423@mail.com,+187692645368,35,FR,France,CITY33,2025-12-23,489.66,False,silver
-266,David,Silva,david.silva266@example.com,+664701963289,45,IR,Iran,City23,2025-08-16,192.01,True,platinum
-716,Sara,Novak,sara.novak716@mail.com,,44,AE,United Arab Emirates,City53,2024-08-05,245.39,True,platinum
-632,Leila,Petrov,leila.petrov632@example.com,+641174756817,31,IR,Iran,City59,2025-12-29,176.83,True,bronze
-404,Elena,Hosseini,elena.hosseini404@example.com,+358420524509,62,TR,Turkey,City56,2024-03-06,301.31,True,bronze
-634,ANNA,Tanaka,anna.tanaka634@example.com,+666455401386,57,US,United States,CITY31,2024-04-15,531.78,False,silver
-521,Ali,Ibrahim,ali.ibrahim521@test.org,+305826321282,46,IR,Iran,City15,2024-09-29,188.92,True,silver
-199,Anna,Ibrahim,anna.ibrahim199@mail.com,+963652193688,53,BR,Brazil,City51,2026-04-11,400.67,False,bronze
-516,ELENA,Smith,elena.smith516@example.com,+458508949512,78,FR,France,City51,2025-05-28,661.03,True,silver
-292,Omar,Kowalski,,+785349373318,26,US,United States,City50,2026-01-28,375.73,True,bronze
-296,Omar,Tanaka,omar.tanaka296@example.com,+633156463868,19,JP,Japan,City5,2024-11-16,378.64,,bronze
-224,Fatima,rezaei,fatima.rezaei224@example.com,+95448536594,78,TR,Turkey,City17,2026-07-24,368.31,False,gold
-332,Emma,  Muller ,emma.muller332@example.com,+618092702478,56,BR,Brazil,City55,2026-04-03,597.7,False,gold
+247,Mateo,Novak,mateo.novak247@example.com,+16015550182,43,FR,France,city27,2026-07-03,611538.1763884193,True,gold
+356,Sara,petrov,sara.petrov356@example.com,+447700900236,25,DE,Germany,City23,2024-03-19,584.5,True,platinum
+242,REZA,Kowalski,reza.kowalski242@example.com,+12235550133,28,US,United States,City49,2025-05-12,1484.65,True,silver
+532,Reza,Karimi,reza.karimi532@example.com,+447700900154,53,JP,Japan,City45,2026-04-28,1008.02,True,bronze
+615,Maryam,Hosseini,double@@example.org,+12785550181,37,JP,Japan,City53,2025-07-22,475.24,True,silver
+164,Ali,Smith,ali.smith164@mail.example,+12015550121,20,FR,France,City38,2024-04-30,481.71,True,bronze
+354,Maryam,Hosseini,,+15945550125,29,DE,Germany,City50,2026-06-29,53.45,True,silver
+217,Mateo,Hosseini,mateo.hosseini217@mail.example,+17475550120,24,TR,Turkey,city53,2026-02-17,842.4,True,bronze
+62,Anna,Wang,anna.wang62@example.org,+447700900907,22,US,United States,City21,2024-08-15,256.51,True,platinum
+735,Hassan,Silva,hassan.silva735@example.com,+19655550119,57,AE,United Arab Emirates,City52,2025-01-19,603.45,True,platinum
+493,Ali,Rossi,ali.rossi493@mail.example,+19975550159,57,US,United States,City43,2025-08-13,205.76,True,bronze
+87,Ivan,Ahmadi,ivan.ahmadi87@example.com,+19115550164,22,DE,Germany,City59,2025-05-25,574.87,False,bronze
+788,Omar,Johnson,omar.johnson788@example.com,+15555550177,66,BR,Brazil,City54,2026-04-29,523.64,False,platinum
+620,Maryam,Smith,maryam.smith620@mail.example,+18275550106,71,US,United States,City44,2025-08-27,480.14,False,gold
+421,Fatima,Garcia,fatima.garcia421@example.org,+12155550192,60,IR,Iran,City5,2025-08-22,776.64,True,bronze
+300,Maryam,Rezaei,maryam.rezaei300@example.net,+447700900360,20,US,United States,City47,2024-05-04,179.32,True,gold
+780,John,,john.garcia780@mail.example,+447700900061,57,DE,Germany,City22,2024-07-31,-816.88,True,silver
+677,Hassan,KARIMI,hassan.karimi677@example.org,+447700900896,34,JP,Japan,City18,2025-09-30,126.75,True,bronze
+284,John,Hosseini,john.hosseini284@mail.example,+447700900813,40,FR,France,City29,2024-03-29,183.79,True,bronze
+717,Ali,Garcia,ali.garcia717@mail.example,+14365550112,77,US,United States,City3,2025-02-06,329.06,True,silver
+435,Mateo,tanaka,mateo.tanaka435@example.org,+18535550190,67,FR,France,City49,2025-05-12,633.45,True,platinum
+534,,Ahmadi,hassan.ahmadi534@mail.example,+447700900307,25,JP,Japan,City46,2024-08-26,,True,silver
+602,  Nadia ,Kowalski,nadia.kowalski602@example.com,+447700900713,51,FR,France,City34,2026-05-13,272.76,True,gold
+14,Elena,Rezaei,elena.rezaei14@example.com,+15745550121,73,AE,United Arab Emirates,City22,2025-09-27,398.58,True,platinum
+94,Omar,Smith,omar.smith94@example.com,+447700900459,42,IR,Iran,City48,2025-09-26,499.71,True,platinum
+91,Fatima,Garcia,fatima.garcia91@example.net,+12975550137,54,JP,Japan,City43,2025-02-02,153.39,False,gold
+426,Leila,Novak,leila.novak426@example.com,+16275550177,59,US,United States,City43,2024-04-29,494.84,True,platinum
+726,Chen,Kowalski,chen.kowalski726@mail.example,+19395550165,58,DE,Germany,City40,2025-06-13,94.11,True,platinum
+171,John,  Ibrahim ,john.ibrahim171@example.com,+18635550169,57,AE,United Arab Emirates,City34,2024-04-04,1811.39,True,silver
+297,Reza,Rezaei,reza.rezaei297@mail.example,+447700900763,53,US,United States,City20,2025-08-23,588.92,False,silver
+175,Anna,Ahmadi,anna.ahmadi175@example.com,+447700900075,61,AE,United Arab Emirates,City33,2024-09-16,453.45,True,silver
+627,Elena,Smith,elena.smith627@example.com,+447700900302,32,BR,Brazil,City34,2024-07-17,459.25,True,gold
+434,Maryam,Petrov,maryam.petrov434@mail.example,+447700900715,19,TR,Turkey,  City34 ,,1339.36,True,bronze
+269,David,Rossi,david.rossi269@mail.example,+18635550193,20,TR,Turkey,City14,2024-07-14,157.76,True,silver
+645,Fatima,Garcia,fatima.garcia645@example.org,+447700900103,32,FR,France,City55,2025-01-17,311.53,True,platinum
+617,John,Kowalski,john.kowalski617@mail.example,+13835550167,19,FR,France,City37,2026-03-09,391.41,True,bronze
+139,Lucas,Silva,lucas.silva139@mail.example,+13475550132,40,DE,Germany,City36,2026-06-17,217.71,True,gold
+614,Hassan,Ibrahim,not-an-email,+17885550191,26,BR,Brazil,City51,2025-08-01,860.52,True,silver
+349,Hassan,WANG,hassan.wang349@example.org,+447700900399,72,US,United States,,2025-09-22,153.25,True,silver
+612,Reza,Rezaei,reza.rezaei612@example.net,+447700900042,72,AE,United Arab Emirates,City19,2025-12-12,352.08,True,bronze
+485,Hassan,Rezaei,hassan.rezaei485@example.net,+16765550159,30,FR,France,City6,2024-12-15,100.22,True,silver
+752,Nadia,Novak,nadia.novak752@example.net,+447700900663,75,TR,Turkey,City50,2024-03-28,350.57,True,silver
+522,Lucas,Ibrahim,lucas.ibrahim522@example.com,+17365550190,72,TR,Turkey,City46,2026-04-20,264.82,True,silver
+378,Sara,  Kowalski ,sara.kowalski378@example.com,+18625550115,23,DE,Germany,City33,2024-04-09,216.28,False,silver
+215,Nadia,Rezaei,double@@example.org,+447700900998,70,US,United States,City7,2026-04-01,243.77,True,gold
+104,Fatima,Tanaka,missing@,+447700900419,27,BR,Brazil,City56,2024-10-13,1559.88,True,
+313,REZA,  Tanaka ,reza.tanaka313@mail.example,+447700900960,67,US,United States,City57,2025-04-14,1635.75,True,silver
+525,  John ,Garcia,john.garcia525@example.net,+14475550141,20,FR,France,City37,2026-04-30,2509.8,True,gold
+390,Hassan,Muller,hassan.muller390@example.com,+12715550180,26,IR,Iran,City2,2025-10-09,1370.54,True,platinum
+738,Elena,Johnson,elena.johnson738@mail.example,+16025550113,33,US,United States,City40,2025-01-24,148.86,True,bronze
+706,Lucas,Petrov,lucas.petrov706@example.com,+19305550109,58,FR,France,City41,2026-05-06,1095.2,True,silver
+219,Nadia,Petrov,nadia.petrov219@example.org,+15475550195,53,DE,Germany,City7,2026-02-23,389.49,True,bronze
+259,YUKI,PETROV,yuki.petrov259@example.com,+17005550146,25,JP,Japan,City42,2024-03-24,650.94,True,platinum
+310,Emma,Garcia,emma.garcia310@mail.example,+447700900524,27,DE,Germany,City8,2026-07-11,157.61,True,gold
+309,SOFIA,Novak,sofia.novak309@mail.example,+19675550147,52,FR,France,City5,2025-09-09,201.48,True,bronze
+780,John,,john.garcia780@mail.example,+447700900061,57,DE,Germany,City22,2024-07-31,-816.88,True,silver
+376,John,Ahmadi,john.ahmadi376@example.net,+13565550196,70,AE,United Arab Emirates,City18,2024-10-24,511.28,False,bronze
+90,Omar,Ahmadi,omar.ahmadi90@example.org,+447700900857,63,DE,Germany,City11,2025-06-12,729.3,True,bronze
+258,Lucas,Novak,lucas.novak258@example.com,+13205550154,47,TR,Turkey,City14,2025-02-21,62.91,True,platinum
+29,Emma,Novak,emma.novak29@example.net,+12445550190,40,BR,Brazil,City23,0000-00-00,218.62,True,silver
+613,Hassan,MULLER,hassan.muller613@example.com,+447700900035,70,TR,Turkey,City24,2024-04-07,287.99,True,silver
+237,Mateo,Tanaka,mateo.tanaka237@example.com,+18095550163,49,AE,United Arab Emirates,City30,not a date,1279.21,True,gold
+178,Reza,Ahmadi, ,+447700900541,48,AE,United Arab Emirates,City15,2026-04-12,146.07,True,platinum
+231,Ivan,Rossi,ivan.rossi231@example.net,+447700900431,68,BR,Brazil,City10,2026-02-07,588.75,True,silver
+289,Elena,Tanaka,elena.tanaka289@mail.example,+447700900259,33,US,United States,City54,2024-03-08,349.23,True,gold
+130,LUCAS,Johnson,lucas.johnson130@example.com,+17875550118,49,TR,Turkey,City16,2025-08-17,856.04,False,gold
+78,Maryam,Silva,maryam.silva78@example.org,+17915550162,20,DE,Germany,City6,2024-12-18,555.67,True,silver
+141,Chen,Johnson,chen.johnson141@example.net,+19925550143,61,AE,United Arab Emirates,City53,2025-02-07,171.86,False,platinum
+698,Nadia,Johnson,nadia.johnson698@example.org,+12045550129,49,JP,Japan,City20,2024-03-05,439.05,True,bronze
+478,Maryam,Tanaka,maryam.tanaka478@example.com,+18835550195,76,IR,,City16,2024-10-03,390.42,True,bronze
+154,Maryam,Rossi,maryam.rossi154@mail.example,+447700900808,64,DE,Germany,City34,2024-08-10,1336.49,True,bronze
+299,Sofia,rezaei,sofia.rezaei299@example.com,+447700900965,40,IR,Iran,City14,2025-11-26,245.69,True,gold
+608,Mateo,Novak,mateo.novak608@example.net,+19255550127,56,TR,Turkey,City26,2024-12-29,280.09,False,platinum
+399,John,Tanaka,john.tanaka399@example.com,+447700900442,49,JP,Japan,City2,2025-05-19,246.45,True,gold
+492,Reza,Novak,reza.novak492@mail.example,+447700900190,18,BR,Brazil,City15,2024-09-05,177.16,True,gold
+340,Yuki,Ahmadi,yuki.ahmadi340@mail.example,+447700900999,63,IR,Iran,City58,2024-09-26,308.04,True,silver
+153,Anna,Silva,anna.silva153@example.com,+447700900935,22,US,United States,,2024-12-06,N/A,True,bronze
+291,Reza,ahmadi,reza.ahmadi291@example.com,+19645550119,63,JP,Japan,City19,2026-04-26,496.49,True,bronze
+2,Omar,Ibrahim,omar.ibrahim2@example.org,+447700900898,67,FR,France,City23,2024-11-02,333.03,False,gold
+751,Maryam,Kowalski,maryam.kowalski751@example.net,+17035550116,43,BR,Brazil,City45,2025-12-26,83.03,False,bronze
+152,Lucas,Novak,lucas.novak152@example.org,+12235550173,47,US,United States,City29,2024-05-17,-372.51,True,silver
+260,emma,Wang,emma.wang260@example.org,+447700900534,65,JP,Japan,City60,2024-07-30,49.04,True,silver
+523,  Omar ,Hosseini,omar.hosseini523@example.org,+13175550135,20,FR,France,City33,2026-01-07,142.62,False,silver
+143,Sofia,Johnson,sofia.johnson143@example.org,+12315550186,22,IR,Iran,City46,2025-08-01,344.0,True,gold
+73,Yuki,Muller,yuki.muller73@example.net,+15525550153,38,IR,Iran,City22,2026-06-30,306.7,True,bronze
+244,Chen,Muller,chen.muller244@example.net,+447700900231,42,FR,France,City27,2025-03-28,568.52,True,bronze
+148,Nadia,Rezaei,nadia.rezaei148@example.org,+13645550143,55,FR,France,City28,2024-04-22,390.31,False,gold
+181,Nadia,Tanaka,missing@,+12585550127,33,DE,Germany,City56,2025-11-28,186.32,True,bronze
+393,Sofia,Garcia,sofia.garcia393@mail.example,+16295550122,34,,Japan,City27,2026-07-02,783.99,False,gold
+500,Nadia,Kowalski,nadia.kowalski500@example.org,+16635550134,57,TR,Turkey,  City26 ,2026-06-22,unknown,True,gold
+647,Leila,Garcia,leila.garcia647@example.com,+447700900261,23,BR,Brazil,City17,2024-10-19,134.57,True,gold
+365,Reza,Karimi,reza.karimi365@mail.example,+19395550119,51,JP,Japan,City50,2024-09-28,529195.0072155286,False,silver
+731,  Fatima ,Rezaei,fatima.rezaei731@mail.example,+12235550188,35,BR,Brazil,City14,2026-08-03,,False,bronze
+487,Leila,,leila.silva487@mail.example,+15685550197,66,BR,Brazil,City57,2025-07-16,988.39,True,bronze
+319,Sofia,KARIMI,sofia.karimi319@example.org,+14045550142,50,DE,Germany,City31,2024-06-17,635.54,False,bronze
+513,Reza,Johnson,reza.johnson513@example.net,+447700900107,47,AE,United Arab Emirates,City21,2026-02-18,N/A,,silver
+71,Yuki,Wang,yuki.wang71@example.net,+16125550141,46,FR,France,City50,2024-09-26,655.66,True,gold
+431,Leila,Rossi,leila.rossi431@mail.example,+12795550191,35,JP,Japan,City58,2026-05-11,130.58,False,platinum
+432,Maryam,Garcia,maryam.garcia432@example.org,+447700900954,23,US,United States,City46,2024-10-15,137.2,False,silver
+142,Fatima,Ibrahim,fatima.ibrahim142@example.net,+447700900664,59,IR,Iran,City50,2025-06-30,998.47,True,silver
+293,  Elena ,Ahmadi,elena.ahmadi293@mail.example,+447700900604,60,IR,Iran,City26,2024-09-07,158.51,False,platinum
+692,david,Johnson,,+16395550195,70,US,United States,City13,2026-05-24,455.53,False,platinum
+343,LUCAS,Novak,lucas.novak343@example.net,+447700900266,31,AE,United Arab Emirates,City20,2026-04-24,528.79,False,bronze
+276,John,Petrov,john.petrov276@example.org,+12265550116,,TR,Turkey,City46,2024-06-30,153.72,True,silver
+737,Ivan,Karimi,ivan.karimi737@mail.example,+12435550121,59,US,United States,City1,2024-05-11,923.12,True,platinum
+56,David,Ahmadi,david.ahmadi56@example.org,+19565550151,21,DE,Germany,City5,2025-08-21,136.45,True,bronze
+105,Emma,Rezaei,emma.rezaei105@example.org,+18805550123,65,FR,France,City19,2024-05-17,350.93,True,bronze
+294,Mateo,Johnson,mateo.johnson294@mail.example,+447700900640,19,US,United States,city19,2024-04-17,unknown,True,bronze
+687,Reza,Silva,reza.silva687@mail.example,+447700900545,75,US,United States,City4,2025-09-07,251.95,True,platinum
+512,David,Silva,david.silva512@example.net,+14995550134,25,US,United States,City43,2025-03-01,732.01,True,platinum
+449,Lucas,,lucas.johnson449@example.org,+447700900373,19,IR,Iran,City20,2025-07-24,85.56,True,silver
+573,Fatima,Tanaka,fatima.tanaka573@example.net,+17625550166,62,US,United States,City43,2026-05-04,1727.61,False,gold
+251,Fatima,Rossi,fatima.rossi251@example.org,+447700900065,34,BR,Brazil,City47,2026-04-13,1439.74,False,
+646,Yuki,Smith,yuki.smith646@mail.example,+447700900931,56,US,United States,City13,2026-03-12,559933.4024320564,True,gold
+718,Reza,Silva,reza.silva718@mail.example,+447700900349,42,US,United States,City20,2024-07-22,339.42,True,platinum
+749,Emma,Garcia,emma.garcia749@example.net,+447700900537,53,FR,France,City29,2025-07-13,543.62,False,platinum
+584,Fatima,Rossi,fatima.rossi584@example.net,+447700900515,76,DE,Germany,City31,2025-02-18,1612.7,False,platinum
+616,Ali,Ahmadi,ali.ahmadi616@example.org,+447700900704,78,AE,United Arab Emirates,City19,2025-10-19,120.84,True,bronze
+795,,Tanaka,sara.tanaka795@example.net,+16645550136,60,FR,France,City29,2025-06-27,85.75,False,silver
+403,David,TANAKA,david.tanaka403@mail.example,+12795550148,59,TR,Turkey,City38,2024-11-12,388.12,True,gold
+750,Maryam,Johnson,maryam.johnson750@mail.example,+447700900205,57,AE,United Arab Emirates,city8,2025-05-06,136.9,False,platinum
+647,Leila,Garcia,leila.garcia647@example.com,+447700900261,23,BR,Brazil,City17,2024-10-19,134.57,True,gold
+287,Chen,Muller,chen.muller287@example.com,+447700900850,53,US,United States,City5,2025-02-03,281.03,True,platinum
+653,  Sofia ,Garcia,sofia.garcia653@example.net,+447700900669,46,BR,Brazil,City48,31/02/2023,645.11,True,platinum
+314,Mateo,Smith,mateo.smith314@example.org,+14045550128,57,BR,Brazil,City20,2024-11-29,1252.0,False,bronze
+80,Elena,Garcia,elena.garcia80@example.com,+19695550143,36,DE,Germany,City54,2025-03-04,361.06,True,gold
+162,Ali,,ali.smith162@example.net,+17005550112,28,JP,Japan,City5,2024-11-11,209.45,True,
+86,Reza,Novak,reza.novak86@example.org,+447700900232,56,US,United States,City14,2026-01-14,227501.54187839766,True,gold
+398,Reza,Wang,reza.wang398@example.com,+19705550158,64,DE,Germany,City56,2024-04-03,571.66,True,bronze
+303,David,Wang,david.wang303@example.org,+13705550162,18,JP,Japan,City54,2024-10-11,387.75,True,silver
+377,Ivan,Ahmadi,ivan.ahmadi377@example.net,+13235550130,42,JP,Japan,City33,2026-02-20,1093.45,False,gold
+514,John,,john.karimi514@example.org,+447700900664,70,JP,Japan,City25,2024-11-04,538.64,True,gold
+703,Maryam,Petrov,maryam.petrov703@example.org,+15175550104,29,IR,Iran,City22,2025-01-29,517.44,True,gold
+241,Anna,Hosseini,anna.hosseini241@example.net,+447700900915,31,FR,France,City22,2025-03-15,618.31,True,silver
+25,Hassan,Smith,hassan.smith25@example.net,+19355550105,45,US,United States,City34,2025-06-03,382.69,True,gold
+386,Chen,Muller,chen.muller386@example.net,,58,IR,Iran,CITY57,2025-10-01,829.04,True,gold
+457,Ali,Kowalski,ali.kowalski457@mail.example,+13555550160,76,FR,France,City34,2025-08-16,49.42,False,platinum
+298,Ali,Novak,ali.novak298@example.com,+17325550121,74,DE,Germany,City5,2024-08-26,373.67,True,platinum
+386,Chen,Muller,chen.muller386@example.net,,58,IR,Iran,CITY57,2025-10-01,829.04,True,gold
+33,Chen,Tanaka,chen.tanaka33@example.com,+447700900059,66,BR,Brazil,City10,2026-01-26,764.25,False,silver
+39,Mateo,Johnson,mateo.johnson39@mail.example,+447700900184,64,AE,United Arab Emirates,City18,2025-01-28,524.61,True,gold
+476,Hassan,Kowalski,hassan.kowalski476@mail.example,+447700900219,49,BR,Brazil,City51,2023-13-45,203.9,True,gold
+743,Maryam,smith,maryam.smith743@example.net,+447700900523,55,JP,Japan,City2,,121.91,False,gold
+37,Reza,johnson,reza.johnson37@example.org,+12635550113,48,TR,Turkey,City54,2025-06-14,695.02,True,platinum
+146,David,Wang,david.wang146@example.net,+13835550154,26,BR,Brazil,City60,2025-02-02,822.19,True,gold
+339,MARYAM,Silva,maryam.silva339@mail.example,+18045550133,62,TR,Turkey,City5,2025-01-24,415.23,True,silver
+420,John,Rezaei,john.rezaei420@example.net,+16735550127,67,TR,Turkey,  City45 ,2024-05-22,,False,silver
+273,Reza,Ibrahim,reza.ibrahim273@example.com,+447700900093,56,FR,France,City38,2024-06-23,738.49,True,silver
+177,Fatima,Johnson,fatima.johnson177@example.org,+14235550172,24,JP,Japan,City54,2026-03-07,606.39,True,bronze
+198,Ali,Johnson,ali.johnson198@mail.example,+16915550159,22,AE,United Arab Emirates,City43,2025-02-23,,False,bronze
+167,  Leila ,Tanaka,leila.tanaka167@example.org,+447700900222,18,AE,United Arab Emirates,City2,2024-03-03,317.07,True,platinum
+705,Ivan,Garcia,ivan.garcia705@mail.example,+447700900986,41,IR,Iran,City28,2025-07-01,N/A,False,gold
+643,  Fatima ,Muller,,+447700900368,74,BR,Brazil,City56,2025-07-27,292.06,True,silver
+28,Reza,Petrov,reza.petrov28@example.org,+12405550152,36,TR,Turkey,City38,2026-06-10,78.53,True,silver
+625,John,Tanaka,john.tanaka625@example.net,+12225550132,29,TR,Turkey,City46,2025-11-14,174.01,True,gold
+770,Fatima,Smith,fatima.smith770@example.com,+12675550108,23,DE,Germany,City25,2025-10-21,unknown,True,platinum
+338,Hassan,Kowalski,hassan.kowalski338@example.net,+447700900995,18,BR,Brazil,City14,2025-05-21,92.74,True,silver
+536,Leila,Karimi,leila.karimi536@example.com,+12905550101,56,US,United States,City28,2025-10-26,250.85,True,silver
+662,Sofia,Tanaka,sofia.tanaka662@example.net,+447700900469,62,FR,France,City49,2025-03-09,254.07,True,bronze
+699,Hassan,Silva,hassan.silva699@example.org,+18055550103,23,TR,Turkey,City26,2025-07-30,344.21,True,bronze
+748,Sara,Ahmadi,sara.ahmadi748@example.net,+447700900445,61,BR,Brazil,City45,2025-07-07,208.86,False,gold
+473,Ali,Novak,ali.novak473@example.com,+447700900370,46,BR,Brazil,City29,2026-03-08,512.75,False,silver
+335,David,Rossi,david.rossi335@mail.example,+16715550181,46,,Japan,City38,2024-03-24,725.57,False,platinum
+428,Mateo,Wang,mateo.wang428@example.org,+17125550133,34,JP,Japan,  City13 ,2024-03-05,460.19,True,gold
+20,Lucas,Silva,lucas.silva20@example.com,+447700900580,,FR,France,City18,2025-10-08,586.37,True,silver
+680,Sara,Tanaka,sara.tanaka680@example.com,+13795550189,32,DE,Germany,City12,2024-10-09,446.79,True,platinum
+760,Mateo,Tanaka,mateo.tanaka760@example.net,+447700900407,39,DE,Germany,City4,2024-11-12,104.07,False,platinum
+459,Elena,Tanaka,elena.tanaka459@mail.example,+14825550122,41,AE,United Arab Emirates,City30,2025-04-30,616.45,True,silver
+45,Reza,Garcia,reza.garcia45@example.org,+447700900101,37,AE,United Arab Emirates,City51,2024-03-11,585.22,True,platinum
+578,Hassan,Garcia,hassan.garcia578@example.org,+14445550193,59,US,United States,City48,2026-01-22,250.71,True,bronze
+753,Maryam,Kowalski,maryam.kowalski753@mail.example,+19015550170,41,DE,Germany,City56,2025-03-24,2064.73,True,silver
+465,Elena,Ibrahim,elena.ibrahim465@example.com,+447700900994,58,AE,United Arab Emirates,City11,2024-10-04,643.86,True,silver
+170,,Silva,not-an-email,+12965550172,53,TR,Turkey,City10,2025-01-07,506823.1663268318,True,gold
+210,Nadia,NOVAK,nadia.novak210@example.org,+447700900640,44,AE,United Arab Emirates,City33,2024-04-04,,False,platinum
+568,maryam,Tanaka,maryam.tanaka568@example.org,+447700900894,73,AE,United Arab Emirates,City58,2024-11-28,422.38,False,silver
+336,Hassan,Smith,hassan.smith336@example.org,+12035550163,18,,Japan,City3,2024-07-09,451.54,True,platinum
+497,Elena,Rezaei,elena.rezaei497@example.com,+13035550156,27,AE,United Arab Emirates,City46,2024-11-09,394797.91220403055,True,silver
+792,Nadia,Garcia,nadia.garcia792@mail.example,+15385550112,24,AE,United Arab Emirates,City55,2025-08-06,5080.81,True,gold
+665,Lucas,Smith,lucas.smith665@mail.example,+447700900465,28,IR,Iran,City1,2026-03-21,938.51,False,silver
+597,Nadia,Silva,nadia.silva597@example.com,+447700900310,65,FR,France,City34,,570.17,False,silver
+366,Nadia,rossi,nadia.rossi366@example.net,+18755550171,18,US,United States,CITY46,31/02/2023,791.44,True,bronze
+48,Ali,Hosseini,ali.hosseini48@example.net,+447700900595,47,TR,Turkey,City10,2026-05-04,1239.97,True,silver
+357,John,Smith,john.smith357@example.com,+447700900503,56,BR,Brazil,City18,2025-09-25,281.58,True,silver
+648,Anna,TANAKA,anna.tanaka648@mail.example,+447700900789,36,FR,France,City19,2024-09-10,506.99,True,gold
+494,Ali,Ahmadi,ali.ahmadi494@mail.example,+447700900069,49,FR,France,City25,2026-07-03,470.55,True,gold
+474,Hassan,Silva,hassan.silva474@mail.example,+447700900499,30,FR,France,City53,2025-03-06,484.08,True,
+108,MATEO,Rezaei,mateo.rezaei108@example.org,+447700900886,75,FR,France,City58,2024-02-20,290.93,False,bronze
+456,Hassan,Wang,hassan.wang456@mail.example,+447700900148,22,FR,France,City20,2026-01-22,338.03,True,silver
+374,Sara,Hosseini,sara.hosseini374@example.com,+447700900606,45,IR,Iran,City26,2026-07-18,579.52,False,platinum
+763,Anna,KOWALSKI,anna.kowalski763@mail.example,+12095550140,77,JP,Japan,City51,2025-09-29,315.28,True,silver
+236,Omar,Kowalski,omar.kowalski236@mail.example,+447700900337,38,US,United States,City40,2025-01-18,70.92,True,silver
+295,Ali,Johnson,ali.johnson295@example.com,+447700900792,64,US,United States,City50,2026-05-01,1400.41,False,platinum
+330,Omar,Petrov,omar.petrov330@example.org,+19175550199,63,DE,Germany,CITY20,2026-03-20,173.01,True,platinum
+469,nadia,Rezaei,nadia.rezaei469@example.com,+447700900414,56,IR,Iran,City60,2024-12-29,208.1,True,gold
+274,Sara,Muller,sara.muller274@example.net,+15935550137,63,US,United States,city48,2024-06-06,175.98,True,platinum
+306,Omar,Hosseini,omar.hosseini306@example.net,+447700900266,71,DE,Germany,City46,2024-12-24,1458.46,True,platinum
+671,Ivan,Johnson,ivan.johnson671@example.org,+16365550186,48,FR,France,City51,2025-01-08,116.16,True,silver
+723,,Smith,sofia.smith723@example.net,+447700900416,48,TR,Turkey,City56,2025-12-07,1110.36,True,platinum
+519,Maryam,Wang,maryam.wang519@mail.example,+447700900868,68,IR,Iran,City41,2025-07-21,251.35,True,gold
+381,Leila,Kowalski,leila.kowalski381@mail.example,+17945550179,58,BR,Brazil,City31,2025-05-04,590.54,True,gold
+227,John,Petrov,john.petrov227@example.net,+447700900050,47,BR,Brazil,City20,2024-09-25,452.1,True,silver
+3,Mateo,Novak,mateo.novak3@example.org,+12535550188,38,JP,Japan,City37,2025-12-31,908.45,False,silver
+337,Emma,Tanaka,emma.tanaka337@mail.example,+14895550182,26,AE,United Arab Emirates,City60,2026-07-17,730.56,False,
+425,Reza,Petrov,reza.petrov425@example.com,+447700900793,47,US,United States,City2,2025-03-10,100.87,True,silver
+458,Omar,Silva,omar.silva458@mail.example,+18615550197,21,TR,Turkey,City36,2024-12-13,145.69,True,gold
+713,Mateo,  Novak ,mateo.novak713@example.net,+447700900545,73,IR,Iran,City37,,769.34,False,bronze
+784,Ivan,Rezaei,missing@,+447700900558,51,BR,Brazil,City58,2026-02-27,679.27,True,bronze
+329,Mateo,Tanaka,mateo.tanaka329@example.com,+13205550107,32,AE,United Arab Emirates,City45,2025-09-03,712.81,False,gold
+415,Omar,Kowalski,@example.com,+19895550194,46,BR,Brazil,City6,2023-13-45,637.02,False,bronze
+243,Sara,Ibrahim,sara.ibrahim243@example.net,+15895550162,34,DE,Germany,City51,2025-03-09,869.24,True,bronze
+406,Maryam,silva,maryam.silva406@example.org,+447700900613,78,JP,Japan,CITY23,2024-11-30,277.71,,platinum
+342,Elena,Smith,elena.smith342@mail.example,+447700900253,37,BR,Brazil,City24,2025-01-11,273.37,True,silver
+621,Maryam,Ahmadi,maryam.ahmadi621@example.net,+12465550127,44,DE,Germany,City11,2025-12-09,359.6,True,platinum
+579,Maryam,johnson,maryam.johnson579@example.net,+12105550120,40,DE,Germany,City39,2025-08-31,713.82,True,platinum
+722,Elena,Ibrahim,missing@,+447700900160,18,TR,Turkey,city13,2024-08-10,2457.08,False,platinum
+169,Nadia,Rossi,,+19705550120,37,BR,Brazil,City47,2025-04-03,702.64,True,platinum
+262,mateo,Kowalski,mateo.kowalski262@mail.example,+18285550147,47,DE,Germany,City28,2026-02-10,166.6,True,bronze
+477,Chen,Silva,chen.silva477@mail.example,+447700900240,25,TR,Turkey,City42,2025-03-10,299.48,True,bronze
+461,Leila,Novak,leila.novak461@mail.example,+14905550189,69,TR,Turkey,City36,2026-03-10,911.78,True,platinum
+82,David,JOHNSON,david.johnson82@example.com,+447700900886,62,BR,Brazil,City59,2024-08-30,147.34,True,platinum
+557,Sara,Ahmadi,sara.ahmadi557@example.org,+447700900766,77,BR,Brazil,City41,2026-02-24,1488.41,True,platinum
+64,Elena,Kowalski,elena.kowalski64@example.org,,23,TR,Turkey,City3,2025-08-15,1283.88,True,silver
+272,Chen,Tanaka,chen.tanaka272@example.com,+447700900162,56,IR,Iran,City59,2025-10-17,254.61,True,silver
+53,Mateo,,mateo.johnson53@example.com,+447700900964,26,JP,Japan,City20,0000-00-00,382.74,True,bronze
+316,Leila,Ibrahim,leila.ibrahim316@mail.example,+447700900827,49,AE,United Arab Emirates,City20,2025-12-28,414.47,True,gold
+100,Maryam,Ibrahim,maryam.ibrahim100@example.com,+12195550132,74,AE,United Arab Emirates,City47,2025-06-01,177.65,True,silver
+781,David,Ibrahim,david.ibrahim781@example.org,+447700900815,25,AE,United Arab Emirates,City31,2024-04-15,163.66,True,bronze
+380,Anna,Ahmadi,anna.ahmadi380@mail.example,+13465550108,78,BR,Brazil,CITY6,2024-12-01,314.91,False,gold
+222,Anna,Rossi,@example.com,+447700900097,54,DE,Germany,City37,2024-03-17,242.6,False,gold
+93,Mateo,Karimi,mateo.karimi93@example.net,+19715550146,73,FR,France,City40,2025-02-05,121.47,True,bronze
+756,Nadia,Kowalski,nadia.kowalski756@example.org,+447700900628,62,IR,Iran,City36,2025-03-21,-551.16,False,gold
+121,Sofia,Karimi,not-an-email,+447700900233,56,US,United States,City1,2026-08-03,147.69,True,platinum
+765,Sofia,Ahmadi,sofia.ahmadi765@mail.example,+13655550148,20,TR,Turkey,City34,2026-03-09,119.55,True,silver
+391,ANNA,Wang,anna.wang391@example.org,+13825550107,74,AE,United Arab Emirates,City50,2026-05-19,212.11,True,silver
+451,Sofia,Petrov,sofia.petrov451@mail.example,+17105550151,45,TR,Turkey,City46,2024-03-13,308.16,True,platinum
+120,Anna,Karimi,anna.karimi120@mail.example,+447700900922,43,JP,Japan,City41,2024-04-12,505.65,True,bronze
+189,John,Johnson,john.johnson189@example.net,+15875550124,54,FR,France,City43,2024-08-28,100.36,True,silver
+321,Leila,Karimi,leila.karimi321@example.org,+447700900234,58,BR,Brazil,City18,2025-01-19,963.19,True,platinum
+70,  Reza ,Rezaei,reza.rezaei70@mail.example,+12795550110,,BR,Brazil,city58,2024-11-21,51.17,True,gold
+437,Sara,Rezaei,sara.rezaei437@example.org,+447700900020,69,US,United States,City58,2024-10-16,417.31,True,platinum
+585,yuki,Wang,yuki.wang585@example.com,+447700900493,45,BR,Brazil,CITY18,2024-04-19,101.48,True,silver
+592,Sara,Tanaka,sara.tanaka592@example.com,+447700900457,36,TR,Turkey,City43,2026-04-15,532.68,True,bronze
+407,Nadia,Wang,nadia.wang407@example.net,+18955550145,38,DE,Germany,City12,2024-12-30,888.14,True,bronze
+629,David,Rossi,david.rossi629@example.net,+447700900791,71,AE,United Arab Emirates,City46,2024-12-22,498.9,True,gold
+553,maryam,Ibrahim,maryam.ibrahim553@mail.example,+14125550139,67,AE,United Arab Emirates,City43,2024-09-26,222.28,True,platinum
+681,Ivan,Rezaei,ivan.rezaei681@example.org,+447700900652,69,BR,Brazil,City51,2025-12-05,176.63,True,silver
+196,Anna,Rezaei,anna.rezaei196@mail.example,+17865550134,63,AE,United Arab Emirates,City29,2024-08-27,471.87,False,bronze
+50,Emma,Rezaei,emma.rezaei50@mail.example,+16655550132,59,US,United States,City4,2025-10-31,804.84,True,silver
+197,Anna,Novak,anna.novak197@example.net,+14985550109,30,US,United States,City31,2025-11-11,1852.37,False,bronze
+559,Mateo,Wang,mateo.wang559@mail.example,+447700900064,72,JP,Japan,City57,2025-02-17,295.49,True,silver
+502,Hassan,Rossi,hassan.rossi502@example.net,+447700900847,48,DE,Germany,City23,2025-12-13,389.52,,bronze
+265,Yuki,Ibrahim,yuki.ibrahim265@example.net,+19785550123,33,AE,United Arab Emirates,City51,not a date,373.47,True,gold
+771,Maryam,Johnson,not-an-email,+12555550155,40,TR,Turkey,City19,2025-08-04,576.32,True,silver
+635,Emma,Silva,emma.silva635@example.org,+447700900999,74,FR,France,City1,2024-09-24,421.79,False,bronze
+246,,Karimi,reza.karimi246@mail.example,+447700900368,56,DE,Germany,City34,2025-12-28,1021.99,False,bronze
+708,david,Ibrahim,david.ibrahim708@example.net,+447700900857,62,FR,France,City19,2026-05-29,544.2,True,platinum
+38,David,Garcia,david.garcia38@example.org,+447700900401,27,FR,France,City31,2026-07-17,136.9,True,platinum
+271,Elena,Tanaka,elena.tanaka271@example.com,+447700900639,74,JP,Japan,City48,2025-01-22,638.79,True,bronze
+408,Leila,Rezaei,leila.rezaei408@example.net,+447700900502,70,US,United States,City49,2025-09-22,1087.23,True,silver
+569,  Elena ,Rossi,,+19485550155,65,FR,France,City25,2025-11-14,491.99,False,bronze
+587,Hassan,Karimi,hassan.karimi587@mail.example,+17965550188,35,JP,Japan,City54,2024-11-22,340.61,True,silver
+564,Sofia,Petrov,sofia.petrov564@example.net,+17145550134,57,AE,United Arab Emirates,  City5 ,2024-09-05,1155.34,True,bronze
+367,Lucas,Wang,lucas.wang367@example.com,+17185550176,35,AE,United Arab Emirates,City38,2026-02-14,2959.55,True,gold
+486,Ivan,Ibrahim,ivan.ibrahim486@example.net,+447700900213,76,DE,Germany,City56,2024-11-01,,,bronze
+234,Anna,Petrov,anna.petrov234@example.com,+13585550135,69,AE,United Arab Emirates,City11,2025-06-13,157.8,False,silver
+775,Emma,Hosseini,emma.hosseini775@mail.example,+447700900342,38,TR,Turkey,City52,2024-08-13,195.1,True,platinum
+626,Hassan,Johnson,hassan.johnson626@example.org,+17315550112,33,US,United States,City20,2024-09-28,912.5,False,platinum
+541,Maryam,Ibrahim,maryam.ibrahim541@example.org,+12085550164,72,US,United States,City59,2025-06-21,185.26,True,bronze
+488,Elena,Karimi,elena.karimi488@example.org,+447700900107,31,DE,Germany,City55,2025-07-26,132.77,True,silver
+724,Omar,Smith,omar.smith724@example.net,+17885550146,63,IR,Iran,City45,2025-08-25,248.45,True,bronze
+283,Anna,Hosseini,anna.hosseini283@example.com,+14015550131,45,AE,United Arab Emirates,City25,2024-11-29,1986.02,False,bronze
+628,fatima,Wang,fatima.wang628@example.net,+447700900600,23,FR,France,City9,2026-02-08,196.42,True,bronze
+195,Hassan,Rezaei,hassan.rezaei195@mail.example,+13035550124,62,FR,France,city9,2024-02-22,579.23,True,platinum
+6,Reza,Muller,not-an-email,+447700900687,51,BR,Brazil,City57,2023-13-45,156.03,False,gold
+102,Reza,Novak,reza.novak102@example.org,+447700900126,57,US,United States,City5,2026-05-23,510.79,True,silver
+155,Omar,Novak,omar.novak155@example.net,+447700900266,51,BR,Brazil,city54,not a date,453.99,True,bronze
+586,Sofia,Smith,sofia.smith586@example.com,+447700900891,55,BR,Brazil,CITY23,2024-12-08,502.26,True,bronze
+278,Mateo,Garcia,mateo.garcia278@example.net,+447700900503,68,JP,Japan,City2,2024-04-16,641.27,False,platinum
+499,Maryam,Kowalski,maryam.kowalski499@mail.example,+447700900506,68,JP,Japan,City29,not a date,838.46,False,bronze
+489,Elena,Muller,elena.muller489@example.org,+15745550176,27,TR,Turkey,City55,2025-06-04,248.32,True,bronze
+475,Sofia,Ahmadi,sofia.ahmadi475@example.org,+447700900450,22,BR,Brazil,City12,2025-12-28,945.54,True,gold
+315,Hassan,Rezaei,hassan.rezaei315@example.com,+17735550144,71,TR,Turkey,City52,2025-11-20,525.0,True,bronze
+243,Sara,Ibrahim,sara.ibrahim243@example.net,+15895550162,34,DE,Germany,City51,2025-03-09,869.24,True,bronze
+109,Sara,Smith,sara.smith109@example.org,+19575550165,44,JP,Japan,City59,2026-06-15,2326.43,True,bronze
+150,Ivan,Silva,ivan.silva150@example.com,+447700900751,65,JP,Japan,City43,2026-03-04,406.2,False,bronze
+796,Yuki,Garcia,yuki.garcia796@example.net,+447700900908,22,,France,City56,2024-04-29,1550.52,True,silver
+436,Fatima,Rossi,fatima.rossi436@example.org,+17775550164,58,TR,Turkey,City28,2026-05-19,138.17,True,bronze
+467,Chen,Hosseini,chen.hosseini467@mail.example,+13835550175,38,IR,Iran,City30,2025-10-20,247.34,False,gold
+654,David,Rezaei,david.rezaei654@mail.example,+18955550193,56,JP,Japan,City54,2024-09-01,119.94,True,platinum
+370,Ivan,Ibrahim,ivan.ibrahim370@example.net,+12015550118,46,DE,Germany,City1,2024-02-27,453.05,True,gold
+345,Chen,Hosseini,chen.hosseini345@mail.example,+447700900342,54,FR,France,City49,2025-08-13,-1798.15,True,platinum
+168,Maryam,silva,maryam.silva168@example.org,+17805550162,56,TR,Turkey,City10,2024-09-17,361.71,True,gold
+736,Emma,Petrov,emma.petrov736@mail.example,+447700900936,30,DE,Germany,City26,2025-07-21,-529.31,True,gold
+715,David,Ahmadi,david.ahmadi715@example.org,+447700900647,34,JP,Japan,City33,2025-11-04,304.45,True,silver
+312,Mateo,Ibrahim,mateo.ibrahim312@mail.example,+447700900849,36,US,United States,City2,2026-01-10,275.88,True,
+793,Fatima,Silva,fatima.silva793@example.com,+16945550194,75,BR,Brazil,City60,2024-11-23,256.74,True,gold
+67,Anna,Rezaei,anna.rezaei67@example.com,+14995550109,74,TR,Turkey,City58,2026-02-10,119.97,False,bronze
+185,Omar,Rezaei,omar.rezaei185@example.com,+15625550186,29,JP,Japan,City7,2025-10-23,N/A,True,bronze
+153,Anna,Silva,anna.silva153@example.com,+447700900935,22,US,United States,,2024-12-06,N/A,True,bronze
+777,Chen,Novak,chen.novak777@example.net,+447700900025,37,IR,Iran,City48,2025-04-24,-202.27,True,bronze
+766,Lucas,Hosseini,lucas.hosseini766@mail.example,+18375550197,70,JP,Japan,CITY19,2025-01-16,142.48,False,platinum
+79,Sara,Petrov,sara.petrov79@example.org,+447700900187,27,TR,Turkey,City20,2026-05-31,161.42,True,platinum
+638,Ivan,Silva,ivan.silva638@example.com,+447700900793,49,AE,United Arab Emirates,City34,2024-11-26,403.15,False,gold
+413,Leila,Ahmadi,double@@example.org,+447700900093,25,TR,Turkey,City39,2026-04-08,unknown,True,silver
+468,Fatima,Wang,fatima.wang468@example.net,+14305550162,73,IR,Iran,City11,2025-06-22,400.64,True,bronze
+501,Anna,Petrov,anna.petrov501@example.com,+18765550187,57,BR,Brazil,City11,2025-08-05,483.1,True,bronze
+362,Sara,Rezaei,sara.rezaei362@example.com,+447700900033,22,TR,Turkey,City5,2025-11-05,865.91,False,platinum
+605,Reza,Smith,reza.smith605@example.com,+447700900262,20,IR,Iran,City23,2024-10-01,385.61,True,bronze
+639,David,Kowalski,david.kowalski639@example.com,+15415550170,48,AE,United Arab Emirates,City18,2024-11-16,198.22,True,platinum
+580,Sara,Ibrahim,sara.ibrahim580@example.net,+18975550180,66,DE,Germany,City14,2025-11-23,241.97,True,gold
+551,John,Wang,john.wang551@example.net,+13025550172,52,AE,United Arab Emirates,City23,2024-03-18,194.87,True,gold
+547,Maryam,Johnson,maryam.johnson547@example.com,+447700900583,25,TR,Turkey,City19,2024-10-17,196.83,False,silver
+690,Lucas,Ibrahim,lucas.ibrahim690@example.net,+18895550195,29,US,United States,City46,2024-04-24,271.84,True,gold
+419,Leila,Garcia,leila.garcia419@mail.example,+15415550183,60,FR,France,City52,2024-04-02,118.25,True,platinum
+281,Hassan,Smith,hassan.smith281@example.com,+17525550107,56,IR,Iran,City19,2025-12-19,704.71,True,gold
+157,Ali,Kowalski,ali.kowalski157@mail.example,,65,AE,United Arab Emirates,  City8 ,2024-05-18,441.79,True,bronze
+327,Anna,Tanaka,anna.tanaka327@example.net,+16315550106,71,FR,France,City44,2024-05-03,263.29,True,platinum
+581,Omar,johnson,omar.johnson581@example.org,+16365550158,43,JP,Japan,City46,31/02/2023,284.93,False,silver
+439,Omar,Smith,omar.smith439@example.org,+447700900345,23,BR,Brazil,City34,2024-12-09,1901.34,True,platinum
+593,John,Petrov,john.petrov593@mail.example,+17935550156,44,IR,Iran,CITY12,2026-01-31,240.6,True,bronze
+695,Omar,Ibrahim,omar.ibrahim695@mail.example,+14365550155,67,JP,Japan,City15,2025-05-22,683.95,True,platinum
+747,Nadia,  Garcia ,nadia.garcia747@example.com,+447700900545,48,US,United States,City1,2024-07-13,718.69,True,gold
+172,Anna,Muller,double@@example.org,+447700900524,22,TR,Turkey,City49,2024-09-25,1177.47,False,platinum
+54,Ali,Garcia,ali.garcia54@mail.example,+447700900647,51,IR,Iran,City13,2024-11-18,407.52,True,bronze
+34,Nadia,Rossi,nadia.rossi34@example.com,+12365550128,34,BR,Brazil,City59,2024-04-22,145.16,False,gold
+226,Elena,Tanaka,elena.tanaka226@example.net,+447700900013,48,AE,United Arab Emirates,City45,2026-05-19,670.27,False,silver
+47,Maryam,Rezaei,maryam.rezaei47@example.com,+447700900767,30,JP,Japan,City31,2026-01-14,31.78,True,gold
+302,Fatima,Garcia,fatima.garcia302@example.org,+447700900646,42,IR,Iran,City14,2024-03-21,134.45,True,
+611,Mateo,Karimi,mateo.karimi611@example.net,,26,DE,Germany,City21,2026-07-07,260.81,True,bronze
+598,Fatima,Johnson,fatima.johnson598@example.org,+447700900248,74,TR,Turkey,City52,2024-07-10,106.56,True,gold
+122,Elena,Petrov,elena.petrov122@mail.example,+447700900582,34,AE,United Arab Emirates,City43,2026-02-12,148.81,True,silver
+307,Elena,Rezaei,elena.rezaei307@mail.example,+19885550147,52,AE,United Arab Emirates,City33,2025-03-22,42.75,True,bronze
+423,Sofia,Garcia,sofia.garcia423@example.org,+17685550145,35,FR,France,CITY33,2025-12-23,489.66,False,silver
+266,David,Silva,david.silva266@example.com,+12895550163,45,IR,Iran,City23,2025-08-16,192.01,True,platinum
+716,Sara,Novak,sara.novak716@example.org,,44,AE,United Arab Emirates,City53,2024-08-05,245.39,True,platinum
+632,Leila,Petrov,leila.petrov632@example.com,+12175550156,31,IR,Iran,City59,2025-12-29,176.83,True,bronze
+404,Elena,Hosseini,elena.hosseini404@example.com,+447700900509,62,TR,Turkey,City56,2024-03-06,301.31,True,bronze
+634,ANNA,Tanaka,anna.tanaka634@example.com,+17865550101,57,US,United States,CITY31,2024-04-15,531.78,False,silver
+521,Ali,Ibrahim,ali.ibrahim521@example.net,+16825550121,46,IR,Iran,City15,2024-09-29,188.92,True,silver
+199,Anna,Ibrahim,anna.ibrahim199@example.org,+12885550193,53,BR,Brazil,City51,2026-04-11,400.67,False,bronze
+516,ELENA,Smith,elena.smith516@example.com,+447700900512,78,FR,France,City51,2025-05-28,661.03,True,silver
+292,Omar,Kowalski,,+17185550173,26,US,United States,City50,2026-01-28,375.73,True,bronze
+296,Omar,Tanaka,omar.tanaka296@example.com,+447700900868,19,JP,Japan,City5,2024-11-16,378.64,,bronze
+224,Fatima,rezaei,fatima.rezaei224@example.com,+447700900594,78,TR,Turkey,City17,2026-07-24,368.31,False,gold
+332,Emma,  Muller ,emma.muller332@example.com,+447700900478,56,BR,Brazil,City55,2026-04-03,597.7,False,gold
 387,Sara,,sara.hosseini387@example.com,,75,DE,Germany,City15,2026-06-26,343.88,False,silver
-463,Fatima,Hosseini,fatima.hosseini463@company.net,+525645409674,29,FR,France,City57,not a date,660.65,True,bronze
-63,,Rezaei,elena.rezaei63@company.net,+97117844164,23,BR,Brazil,City19,2024-06-13,364.86,False,platinum
-673,Mateo,Tanaka,mateo.tanaka673@company.net,+961736058707,71,IR,Iran,City52,2025-09-11,671.35,False,gold
-96,Elena,Rezaei,elena.rezaei96@example.com,+672050633397,71,US,United States,City18,2025-10-17,65.86,False,bronze
-190,Hassan,Garcia,hassan.garcia190@test.org,+683659427634,70,TR,Turkey,City51,2025-07-24,201.05,True,bronze
-138,Mateo,Hosseini,mateo.hosseini138@example.com,+484683733357,57,TR,Turkey,City44,2024-03-12,430.4,True,silver
-684,Yuki,Garcia,yuki.garcia684@mail.com,+364035272855,36,TR,Turkey,City14,2025-06-29,733.5,True,platinum
-782,Reza,Muller,reza.muller782@mail.com,+627979035717,36,FR,France,City21,2025-11-10,285.19,True,platinum
-10,Ali,Rezaei,ali.rezaei10@example.com,+241264063304,58,BR,Brazil,City55,,509.95,False,silver
-548,chen,Muller,chen.muller548@example.com,+995493904556,76,FR,France,City13,2025-11-23,119.7,True,silver
-424,Lucas,Karimi,lucas.karimi424@test.org,+984735205245,64,BR,Brazil,City45,2026-02-10,66.15,False,silver
-347,Lucas,Ahmadi,lucas.ahmadi347@test.org,+768451964301,54,AE,United Arab Emirates,City36,2025-05-15,371.56,False,gold
-396,David,Wang,david.wang396@mail.com,+112119642012,44,TR,Turkey,City9,2025-02-10,390.88,False,silver
-429,Ali,Johnson,ali.johnson429@example.com,+979757288405,48,DE,Germany,CITY25,,642.43,False,bronze
-583,Lucas,Wang,lucas.wang583@mail.com,+697493958541,62,DE,Germany,City53,2026-01-24,1045.55,True,platinum
-81,Hassan,Ahmadi,hassan.ahmadi81@example.com,+608963478858,57,AE,United Arab Emirates,City26,2026-01-25,1406.18,True,bronze
-594,Anna,Hosseini,anna.hosseini594@company.net,+831647664401,76,AE,United Arab Emirates,City53,2024-07-07,419.34,True,
-755,Elena,Garcia,elena.garcia755@mail.com,+87453604778,35,FR,France,City47,2024-05-27,405.0,True,gold
-678,Maryam,Smith,maryam.smith678@company.net,+275373421588,75,BR,Brazil,City24,2025-09-14,350.64,True,bronze
-798,Nadia,Kowalski,nadia.kowalski798@example.com,+523728647054,59,FR,France,City29,2024-07-29,1394.09,True,platinum
-280,Anna,Kowalski,anna.kowalski280@mail.com,+803851255536,52,FR,France,City34,2025-08-01,397.3,True,silver
-17,Fatima,  Johnson ,fatima.johnson17@example.com,+661534392395,42,US,United States,City35,0000-00-00,271.35,True,silver
-76,Maryam,Kowalski,maryam.kowalski76@mail.com,+569411445815,56,BR,Brazil,City3,2026-03-19,637.55,True,gold
-388,Hassan,Smith,hassan.smith388@test.org,,63,US,United States,City17,2026-06-29,260.78,True,platinum
-277,Sofia,Garcia,sofia.garcia277@test.org,+729885650913,37,US,United States,City56,2025-10-13,311.96,False,bronze
-344,Hassan,Petrov,hassan.petrov344@mail.com,+243895363153,28,IR,Iran,City20,2024-10-19,139.21,False,platinum
-483,John,Johnson,john.johnson483@example.com,+655625028187,59,FR,France,City8,2024-11-02,2042.28,True,bronze
-174,Ali,Novak,ali.novak174@example.com,+267570049738,24,TR,Turkey,City13,2025-09-03,133.09,True,silver
-546,Sofia,,sofia.kowalski546@test.org,+561788025116,21,JP,Japan,City37,2025-09-14,392.29,True,bronze
-709,Ali,Muller,ali.muller709@example.com,+729223437853,24,TR,Turkey,City42,2026-03-22,686.87,True,gold
-711,Fatima,Wang,fatima.wang711@example.com,+57791837500,78,IR,Iran,City39,2025-01-15,374.33,True,platinum
-150,Ivan,Silva,ivan.silva150@example.com,+937659831751,65,JP,Japan,City43,2026-03-04,406.2,False,bronze
-351,Nadia,Muller,nadia.muller351@example.com,+199219939110,45,BR,Brazil,City52,2024-08-28,840.22,True,silver
-510,Omar,  Rezaei ,omar.rezaei510@mail.com,+144321111779,32,BR,Brazil,City58,2024-09-21,1578.55,False,platinum
-57,Maryam,Wang, ,+619558589202,25,IR,Iran,City25,2025-07-11,103.06,True,silver
-702,Ali,Hosseini,ali.hosseini702@example.com,+453486377953,26,TR,Turkey,City4,2024-05-19,284.23,True,silver
-520,Mateo,Rezaei,mateo.rezaei520@example.com,+455622553078,25,IR,Iran,city38,2025-07-26,1106.51,False,gold
-77,Fatima,Novak,fatima.novak77@mail.com,+171431278512,29,IR,Iran,City28,2026-04-05,-281.94,True,bronze
-471,Anna,NOVAK,anna.novak471@mail.com,+719365134411,20,JP,Japan,City36,2025-06-05,561.96,True,gold
-480,David,Silva,david.silva480@mail.com,+873308450289,38,,Japan,City27,2024-03-12,1698.12,True,silver
-428,Mateo,Wang,mateo.wang428@mail.com,+923131233312,34,JP,Japan,  City13 ,2024-03-05,460.19,True,gold
-553,maryam,Ibrahim,maryam.ibrahim553@company.net,+547567939412,67,AE,United Arab Emirates,City43,2024-09-26,222.28,True,platinum
-112,  Chen ,Kowalski,chen.kowalski112@example.com,+683305776988,21,IR,Iran,City37,2026-06-07,502.82,False,bronze
-135,Hassan,Johnson,hassan.johnson135@mail.com,+174679954649,42,BR,Brazil,City12,2024-09-10,1029.61,True,silver
-183,Mateo,Muller,mateo.muller183@mail.com,+623448421662,67,BR,Brazil,City5,2025-11-13,854.86,True,silver
-733,John,Karimi,missing@,+293762229692,24,JP,Japan,City51,2025-08-18,357.39,True,gold
-761,Maryam,Novak,maryam.novak761@company.net,+698835653117,20,US,United States,City12,2024-11-16,491.78,False,silver
-604,Nadia,Hosseini,nadia.hosseini604@company.net,+678656233234,69,US,United States,  City9 ,2025-05-01,359.75,True,gold
-529,Emma,Ahmadi,emma.ahmadi529@company.net,+365145604183,53,US,United States,City2,2024-11-20,-81.27,True,platinum
-229,Omar,PETROV,omar.petrov229@example.com,+626675589472,65,AE,United Arab Emirates,City54,2026-06-23,1546.85,True,platinum
-239,sofia,Novak,sofia.novak239@example.com,+302147579989,60,DE,Germany,City22,2026-06-13,1557.07,True,gold
-240,  Chen ,Novak,@nodomain.com,+61425230012,55,US,United States,City50,2025-06-13,821.96,True,platinum
-515,Hassan,Wang,hassan.wang515@mail.com,+318543535405,74,IR,Iran,City1,2025-12-29,1474.39,True,silver
-324,Elena,Smith,elena.smith324@example.com,+629294559740,21,AE,United Arab Emirates,City51,2025-04-08,794.26,False,silver
-644,John,Tanaka,john.tanaka644@company.net,+469180152393,34,JP,Japan,City28,2024-09-11,893.31,False,platinum
-655,Mateo,Novak,mateo.novak655@mail.com,+116013949891,32,US,United States,CITY27,2026-04-04,116.77,True,gold
-688,Maryam,Hosseini,maryam.hosseini688@mail.com,+651240652224,67,FR,,City37,2024-09-11,66.49,True,silver
-624,Lucas,karimi,lucas.karimi624@example.com,+957933783143,58,FR,France,City10,2024-11-03,1362.57,True,silver
-479,Fatima,Hosseini,fatima.hosseini479@example.com,+38425410006,72,FR,France,City60,2024-06-27,242.82,True,gold
-593,John,Petrov,john.petrov593@company.net,+743480356593,44,IR,Iran,CITY12,2026-01-31,240.6,True,bronze
-445,Lucas,Muller,lucas.muller445@example.com,+305302147130,24,BR,Brazil,City43,2025-03-08,641.03,False,
-113,ali,Wang,ali.wang113@example.com,+857274656847,65,AE,United Arab Emirates,City10,2024-09-01,116.0,True,platinum
-441,Fatima,Petrov,fatima.petrov441@mail.com,+135794965042,34,,Japan,City45,2026-03-25,207.79,True,platinum
-444,Nadia,Petrov,nadia.petrov444@test.org,+629046856634,76,US,United States,City26,2024-04-24,143.83,True,gold
-204,Mateo,Karimi,mateo.karimi204@test.org,+333409363401,57,BR,Brazil,City29,2024-02-20,343.55,True,silver
-472,Leila,Rezaei,leila.rezaei472@mail.com,+962276504936,68,FR,France,City51,2025-08-19,61.53,True,gold
-211,Mateo,Hosseini,mateo.hosseini211@mail.com,+428721181472,26,BR,Brazil,CITY58,2025-06-22,203.58,True,gold
-21,Anna,Kowalski,anna.kowalski21@company.net,+891574436467,45,IR,Iran,City40,2025-09-10,85.36,False,gold
-453,Chen,Kowalski,chen.kowalski453@test.org,+661875301743,33,FR,France,City58,,433.16,False,bronze
-762,Elena,Rezaei,elena.rezaei762@test.org,+558022811040,57,JP,Japan,City34,2026-04-17,269.88,False,bronze
-114,,Tanaka,yuki.tanaka114@example.com,+336691438705,50,DE,Germany,City12,2026-02-01,189.06,True,gold
-36,Nadia,Kowalski,nadia.kowalski36@example.com,+196192581002,22,TR,Turkey,City38,2024-06-01,302.8,False,bronze
-504,Yuki,Tanaka,yuki.tanaka504@example.com,+915664838718,46,US,United States,City58,2025-05-05,N/A,True,gold
-786,David,Petrov,david.petrov786@example.com,+18281452966,20,FR,France,City35,2024-02-29,1082.44,False,silver
-622,Hassan,Rezaei,hassan.rezaei622@company.net,+567394606429,51,FR,France,City12,2025-10-21,347.32,False,gold
-286,Fatima,Smith,fatima.smith286@mail.com,+196873525813,38,AE,United Arab Emirates,City54,2024-12-31,263.51,True,silver
-346,Yuki,Johnson,yuki.johnson346@test.org,+383619431770,34,IR,Iran,City27,2024-05-19,834.96,True,bronze
-35,John,KARIMI,john.karimi35@company.net,+804233216642,68,AE,United Arab Emirates,City3,2024-09-14,755.59,True,platinum
-528,Leila,Hosseini,leila.hosseini528@company.net,+245461011180,38,US,United States,City10,2025-09-06,87.15,False,gold
-89,Mateo,Karimi,mateo.karimi89@mail.com,+332093484764,58,JP,Japan,City57,2024-05-13,240.65,False,platinum
-186,  David ,Rossi,david.rossi186@mail.com,+716002433841,18,TR,Turkey,City13,2024-12-16,1167.93,True,silver
-202,Chen,Garcia,chen.garcia202@example.com,+22274013412,21,IR,Iran,City48,2024-05-27,453.45,True,bronze
-160,Fatima,Wang,fatima.wang160@test.org,+169330662147,52,,Iran,City44,2026-04-13,386.85,True,platinum
-663,Hassan,Hosseini,hassan.hosseini663@test.org,+184439185198,41,JP,Japan,City15,2026-04-17,894.12,True,platinum
-679,Leila,Johnson,leila.johnson679@company.net,+365373030698,53,US,United States,City11,2025-09-06,447.37,True,gold
-43,Elena,Muller,elena.muller43@mail.com,+836507601576,45,TR,,City33,2026-05-14,380.37,True,gold
-531,Mateo,Hosseini,mateo.hosseini531@company.net,+111032790909,67,JP,Japan,City40,2025-11-11,169.57,True,gold
-455,Hassan,Petrov,hassan.petrov455@mail.com,+309891612770,57,AE,United Arab Emirates,City36,2026-05-17,unknown,True,gold
-220,Elena,Silva,elena.silva220@test.org,+416502235025,53,AE,United Arab Emirates,City31,2026-07-10,456.86,True,silver
-503,Sara,Ahmadi,sara.ahmadi503@company.net,+388261968224,62,TR,Turkey,City25,2025-04-08,292.55,True,gold
-257,Nadia,Kowalski,nadia.kowalski257@example.com,+419495127802,21,DE,,City1,2025-11-10,653.94,True,platinum
-518,John,Silva,john.silva518@mail.com,+459338269248,43,DE,Germany,City6,2024-11-16,342.42,True,silver
-254,Sofia,rezaei,sofia.rezaei254@company.net,,24,US,United States,City18,2025-10-23,296.57,True,gold
-416,Sara,Tanaka,sara.tanaka416@mail.com,+332382683896,46,US,United States,City14,2025-11-05,279.95,True,gold
-132,Mateo,Garcia,mateo.garcia132@company.net,+396698138308,75,AE,United Arab Emirates,City56,2025-07-02,712.91,True,platinum
-187,Sara,tanaka,sara.tanaka187@test.org,+237510152033,49,IR,Iran,City51,2026-04-06,842.14,True,platinum
-275,Omar,Rezaei,omar.rezaei275@company.net,+629573144046,66,BR,Brazil,City34,2024-06-14,2011.89,True,bronze
-517,Emma,Petrov,@nodomain.com,+986545464468,59,TR,Turkey,City43,2025-11-20,71.2,False,bronze
-288,Lucas,Kowalski,lucas.kowalski288@test.org,,18,US,United States,City20,2024-03-03,234.24,False,bronze
-787,Chen,Novak,chen.novak787@mail.com,+866228893446,18,AE,United Arab Emirates,City16,2025-06-06,1247.87,True,bronze
-495,Omar,Wang,omar.wang495@example.com,+847877868104,31,IR,Iran,City14,2025-03-14,431.55,False,silver
-779,Sofia,,sofia.johnson779@test.org,+106248548087,28,US,United States,City26,2025-02-18,597.71,False,gold
-325,Chen,Ahmadi,chen.ahmadi325@example.com,+645859143791,46,BR,,,2026-02-01,793.7,True,bronze
-778,Ali,Hosseini,ali.hosseini778@company.net,+301084006293,48,US,United States,City56,2026-05-08,348.68,False,gold
-530,Sofia,Smith,sofia.smith530@company.net,+905569055779,39,US,United States,City22,2026-07-28,648.35,False,silver
-767,Mateo,Rossi,mateo.rossi767@company.net,+542156391861,40,BR,Brazil,City15,2024-08-03,149.98,True,platinum
-125,Emma,Garcia,emma.garcia125@mail.com,+647874365565,57,TR,Turkey,City23,2025-03-16,977.54,False,silver
-290,Omar,Garcia,omar.garcia290@test.org,+421687216470,21,TR,Turkey,City13,2025-02-27,476.11,True,
-144,Fatima,Karimi,fatima.karimi144@mail.com,+57692075545,49,US,United States,City22,2024-06-03,463.99,False,bronze
-656,David,Hosseini,david.hosseini656@mail.com,+598499053517,78,DE,Germany,City16,2024-04-18,576.78,True,bronze
-249,Ali,Petrov,double@@mail.com,+321371195240,21,DE,Germany,City21,2024-04-21,339.32,True,platinum
-209,Omar,Petrov,omar.petrov209@test.org,+663620316040,25,TR,Turkey,City13,2024-03-30,173.77,True,gold
-230,Anna,Kowalski,anna.kowalski230@test.org,+313742538119,32,FR,France,city56,2025-10-25,280.24,True,platinum
-214,Sofia,Rossi,sofia.rossi214@company.net,+227335808813,27,FR,France,City20,2024-10-14,76.88,False,gold
-484,John,Smith,john.smith484@company.net,+238706609172,68,FR,France,City56,2025-07-10,34.57,True,bronze
-99,Emma,Rezaei,emma.rezaei99@test.org,+153561982156,,AE,United Arab Emirates,City34,2025-04-04,1339.04,True,gold
-355,Ivan,Karimi,ivan.karimi355@example.com,+592232573270,57,US,United States,City55,2026-05-12,,True,gold
-446,Sara,Ahmadi,sara.ahmadi446@company.net,+384399813035,23,,Brazil,City8,2024-06-25,190.48,True,bronze
-675,Omar,  Novak ,omar.novak675@mail.com,+383969598802,31,TR,Turkey,City19,2026-07-02,374.04,True,bronze
-173,Yuki,Novak,yuki.novak173@mail.com,+183989563064,69,JP,Japan,City17,2024-03-02,881.4,True,gold
-72,Omar,Rossi,omar.rossi72@test.org,+283529787539,65,JP,Japan,  City31 ,2024-10-31,284.29,True,bronze
-720,Omar,Petrov,omar.petrov720@mail.com,+564730876396,21,US,United States,City15,2024-07-14,429.79,True,bronze
-630,Omar,SILVA,omar.silva630@test.org,+663909796650,73,JP,Japan,City38,2024-03-12,1162.92,True,silver
-123,Anna,Hosseini,anna.hosseini123@test.org,+871113789942,24,US,United States,City19,2025-09-27,1038.67,True,silver
-660,Sara,Johnson,sara.johnson660@company.net,+919430545322,68,JP,Japan,City59,2025-08-24,570.22,True,gold
-395,Reza,Rossi,reza.rossi395@test.org,+26750941953,57,BR,Brazil,City18,2025-01-03,879.53,True,platinum
-543,Yuki,Garcia,yuki.garcia543@example.com,+269536012040,41,US,United States,  City9 ,2024-05-17,156.02,True,bronze
-333,Omar,Rossi,omar.rossi333@mail.com,+924052054486,78,JP,Japan,City39,2024-07-08,302.42,False,silver
-95,  Maryam ,Rossi,maryam.rossi95@mail.com,+493502525110,55,JP,Japan,City19,2025-01-27,7668.44,True,bronze
-118,Anna,AHMADI,anna.ahmadi118@company.net,+574585329177,73,AE,United Arab Emirates,City44,2025-05-14,563.15,True,bronze
-800,John,Ahmadi,,+559815987688,57,JP,Japan,City20,2024-05-29,341.95,True,platinum
-442,John,Rossi,john.rossi442@company.net,+149594961279,50,BR,Brazil,City16,2024-12-02,411.26,True,platinum
-452,Fatima,Karimi,fatima.karimi452@example.com,+966367890325,44,FR,France,City33,2024-10-27,239.39,True,silver
-450,Ali,Johnson,missing@,+102952773725,23,TR,Turkey,,2024-07-08,2458.57,False,silver
-773,John,Silva,john.silva773@example.com,+964167554663,32,FR,France,City52,,634.72,False,silver
-127,Ivan,Silva,ivan.silva127@mail.com,+107878360119,28,TR,Turkey,City46,2025-02-19,1375.39,True,bronze
-165,Fatima,Wang,fatima.wang165@test.org,+906396234942,74,TR,Turkey,City57,2025-04-13,197.3,True,gold
-506,Anna,tanaka,anna.tanaka506@example.com,+294962115864,42,US,United States,City13,2025-04-30,181.19,True,bronze
-764,Nadia,Silva,nadia.silva764@mail.com,+834389378078,18,US,United States,City23,2025-04-23,1249.94,False,bronze
-758,Fatima,Ibrahim,@nodomain.com,+464681963019,65,FR,France,City9,2026-02-06,205.17,True,gold
-664,Emma,Tanaka,emma.tanaka664@company.net,+262676802097,58,FR,France,City24,2025-06-17,211.48,True,silver
-754,John,Silva,john.silva754@example.com,+848794347860,59,FR,France,City37,2024-12-25,301.43,False,silver
-389,Mateo,Hosseini,mateo.hosseini389@test.org,+94673624467,60,IR,Iran,City30,not a date,,True,platinum
-725,Maryam,Johnson,maryam.johnson725@example.com,+51440165864,51,BR,Brazil,CITY43,2026-07-02,235.23,True,bronze
-558,Leila,Tanaka,leila.tanaka558@example.com,+373683668874,66,IR,Iran,City37,2024-04-08,201.96,False,platinum
-156,Ivan,Rezaei,ivan.rezaei156@test.org,+773810772128,57,JP,Japan,City54,,-482.18,False,platinum
-637,,Novak,omar.novak637@company.net,+227924520665,43,BR,Brazil,City4,2024-11-22,413.17,True,gold
-672,SOFIA,Kowalski,sofia.kowalski672@mail.com,+463534817069,40,FR,France,city3,2025-09-01,221.54,True,bronze
-577,Omar,muller,omar.muller577@company.net,+955287791675,42,FR,France,City31,2024-08-23,184.28,True,silver
-707,Anna,Karimi,anna.karimi707@mail.com,+387292593255,55,IR,Iran,City12,2023-13-45,109.08,True,silver
-111,Chen,Muller,not-an-email,+88890855493,21,IR,Iran,City46,2025-02-08,1171.05,,
-591,Yuki,Tanaka,yuki.tanaka591@test.org,+754264473895,67,IR,Iran,City12,2025-08-01,542.01,True,bronze
-659,Lucas,Hosseini,lucas.hosseini659@company.net,+846616253987,66,DE,Germany,City51,2026-03-13,468.37,False,silver
+463,Fatima,Hosseini,fatima.hosseini463@mail.example,+12745550109,29,FR,France,City57,not a date,660.65,True,bronze
+63,,Rezaei,elena.rezaei63@mail.example,+447700900164,23,BR,Brazil,City19,2024-06-13,364.86,False,platinum
+673,Mateo,Tanaka,mateo.tanaka673@mail.example,+15075550158,71,IR,Iran,City52,2025-09-11,671.35,False,gold
+96,Elena,Rezaei,elena.rezaei96@example.com,+447700900397,71,US,United States,City18,2025-10-17,65.86,False,bronze
+190,Hassan,Garcia,hassan.garcia190@example.net,+16345550127,70,TR,Turkey,City51,2025-07-24,201.05,True,bronze
+138,Mateo,Hosseini,mateo.hosseini138@example.com,+17575550133,57,TR,Turkey,City44,2024-03-12,430.4,True,silver
+684,Yuki,Garcia,yuki.garcia684@example.org,+12555550172,36,TR,Turkey,City14,2025-06-29,733.5,True,platinum
+782,Reza,Muller,reza.muller782@example.org,+17175550135,36,FR,France,City21,2025-11-10,285.19,True,platinum
+10,Ali,Rezaei,ali.rezaei10@example.com,+13045550163,58,BR,Brazil,City55,,509.95,False,silver
+548,chen,Muller,chen.muller548@example.com,+447700900556,76,FR,France,City13,2025-11-23,119.7,True,silver
+424,Lucas,Karimi,lucas.karimi424@example.net,+16455550105,64,BR,Brazil,City45,2026-02-10,66.15,False,silver
+347,Lucas,Ahmadi,lucas.ahmadi347@example.net,+15015550164,54,AE,United Arab Emirates,City36,2025-05-15,371.56,False,gold
+396,David,Wang,david.wang396@example.org,+447700900012,44,TR,Turkey,City9,2025-02-10,390.88,False,silver
+429,Ali,Johnson,ali.johnson429@example.com,+447700900405,48,DE,Germany,CITY25,,642.43,False,bronze
+583,Lucas,Wang,lucas.wang583@example.org,+447700900541,62,DE,Germany,City53,2026-01-24,1045.55,True,platinum
+81,Hassan,Ahmadi,hassan.ahmadi81@example.com,+16585550178,57,AE,United Arab Emirates,City26,2026-01-25,1406.18,True,bronze
+594,Anna,Hosseini,anna.hosseini594@mail.example,+447700900401,76,AE,United Arab Emirates,City53,2024-07-07,419.34,True,
+755,Elena,Garcia,elena.garcia755@example.org,+19785550104,35,FR,France,City47,2024-05-27,405.0,True,gold
+678,Maryam,Smith,maryam.smith678@mail.example,+447700900588,75,BR,Brazil,City24,2025-09-14,350.64,True,bronze
+798,Nadia,Kowalski,nadia.kowalski798@example.com,+18545550147,59,FR,France,City29,2024-07-29,1394.09,True,platinum
+280,Anna,Kowalski,anna.kowalski280@example.org,+15365550155,52,FR,France,City34,2025-08-01,397.3,True,silver
+17,Fatima,  Johnson ,fatima.johnson17@example.com,+15955550192,42,US,United States,City35,0000-00-00,271.35,True,silver
+76,Maryam,Kowalski,maryam.kowalski76@example.org,+14155550145,56,BR,Brazil,City3,2026-03-19,637.55,True,gold
+388,Hassan,Smith,hassan.smith388@example.net,,63,US,United States,City17,2026-06-29,260.78,True,platinum
+277,Sofia,Garcia,sofia.garcia277@example.net,+17135550150,37,US,United States,City56,2025-10-13,311.96,False,bronze
+344,Hassan,Petrov,hassan.petrov344@example.org,+19535550163,28,IR,Iran,City20,2024-10-19,139.21,False,platinum
+483,John,Johnson,john.johnson483@example.com,+447700900187,59,FR,France,City8,2024-11-02,2042.28,True,bronze
+174,Ali,Novak,ali.novak174@example.com,+13385550149,24,TR,Turkey,City13,2025-09-03,133.09,True,silver
+546,Sofia,,sofia.kowalski546@example.net,+15165550125,21,JP,Japan,City37,2025-09-14,392.29,True,bronze
+709,Ali,Muller,ali.muller709@example.com,+14535550137,24,TR,Turkey,City42,2026-03-22,686.87,True,gold
+711,Fatima,Wang,fatima.wang711@example.com,+447700900500,78,IR,Iran,City39,2025-01-15,374.33,True,platinum
+150,Ivan,Silva,ivan.silva150@example.com,+447700900751,65,JP,Japan,City43,2026-03-04,406.2,False,bronze
+351,Nadia,Muller,nadia.muller351@example.com,+447700900110,45,BR,Brazil,City52,2024-08-28,840.22,True,silver
+510,Omar,  Rezaei ,omar.rezaei510@example.org,+17795550111,32,BR,Brazil,City58,2024-09-21,1578.55,False,platinum
+57,Maryam,Wang, ,+447700900202,25,IR,Iran,City25,2025-07-11,103.06,True,silver
+702,Ali,Hosseini,ali.hosseini702@example.com,+447700900953,26,TR,Turkey,City4,2024-05-19,284.23,True,silver
+520,Mateo,Rezaei,mateo.rezaei520@example.com,+447700900078,25,IR,Iran,city38,2025-07-26,1106.51,False,gold
+77,Fatima,Novak,fatima.novak77@example.org,+447700900512,29,IR,Iran,City28,2026-04-05,-281.94,True,bronze
+471,Anna,NOVAK,anna.novak471@example.org,+447700900411,20,JP,Japan,City36,2025-06-05,561.96,True,gold
+480,David,Silva,david.silva480@example.org,+447700900289,38,,Japan,City27,2024-03-12,1698.12,True,silver
+428,Mateo,Wang,mateo.wang428@example.org,+17125550133,34,JP,Japan,  City13 ,2024-03-05,460.19,True,gold
+553,maryam,Ibrahim,maryam.ibrahim553@mail.example,+14125550139,67,AE,United Arab Emirates,City43,2024-09-26,222.28,True,platinum
+112,  Chen ,Kowalski,chen.kowalski112@example.com,+13885550176,21,IR,Iran,City37,2026-06-07,502.82,False,bronze
+135,Hassan,Johnson,hassan.johnson135@example.org,+447700900649,42,BR,Brazil,City12,2024-09-10,1029.61,True,silver
+183,Mateo,Muller,mateo.muller183@example.org,+12625550121,67,BR,Brazil,City5,2025-11-13,854.86,True,silver
+733,John,Karimi,missing@,+447700900692,24,JP,Japan,City51,2025-08-18,357.39,True,gold
+761,Maryam,Novak,maryam.novak761@mail.example,+447700900117,20,US,United States,City12,2024-11-16,491.78,False,silver
+604,Nadia,Hosseini,nadia.hosseini604@mail.example,+447700900234,69,US,United States,  City9 ,2025-05-01,359.75,True,gold
+529,Emma,Ahmadi,emma.ahmadi529@mail.example,+13835550104,53,US,United States,City2,2024-11-20,-81.27,True,platinum
+229,Omar,PETROV,omar.petrov229@example.com,+18725550189,65,AE,United Arab Emirates,City54,2026-06-23,1546.85,True,platinum
+239,sofia,Novak,sofia.novak239@example.com,+19895550179,60,DE,Germany,City22,2026-06-13,1557.07,True,gold
+240,  Chen ,Novak,@example.com,+16125550130,55,US,United States,City50,2025-06-13,821.96,True,platinum
+515,Hassan,Wang,hassan.wang515@example.org,+447700900405,74,IR,Iran,City1,2025-12-29,1474.39,True,silver
+324,Elena,Smith,elena.smith324@example.com,+17405550159,21,AE,United Arab Emirates,City51,2025-04-08,794.26,False,silver
+644,John,Tanaka,john.tanaka644@mail.example,+15935550152,34,JP,Japan,City28,2024-09-11,893.31,False,platinum
+655,Mateo,Novak,mateo.novak655@example.org,+447700900891,32,US,United States,CITY27,2026-04-04,116.77,True,gold
+688,Maryam,Hosseini,maryam.hosseini688@example.org,+447700900224,67,FR,,City37,2024-09-11,66.49,True,silver
+624,Lucas,karimi,lucas.karimi624@example.com,+447700900143,58,FR,France,City10,2024-11-03,1362.57,True,silver
+479,Fatima,Hosseini,fatima.hosseini479@example.com,+447700900006,72,FR,France,City60,2024-06-27,242.82,True,gold
+593,John,Petrov,john.petrov593@mail.example,+17935550156,44,IR,Iran,CITY12,2026-01-31,240.6,True,bronze
+445,Lucas,Muller,lucas.muller445@example.com,+19305550147,24,BR,Brazil,City43,2025-03-08,641.03,False,
+113,ali,Wang,ali.wang113@example.com,+447700900847,65,AE,United Arab Emirates,City10,2024-09-01,116.0,True,platinum
+441,Fatima,Petrov,fatima.petrov441@example.org,+447700900042,34,,Japan,City45,2026-03-25,207.79,True,platinum
+444,Nadia,Petrov,nadia.petrov444@example.net,+18345550156,76,US,United States,City26,2024-04-24,143.83,True,gold
+204,Mateo,Karimi,mateo.karimi204@example.net,+447700900401,57,BR,Brazil,City29,2024-02-20,343.55,True,silver
+472,Leila,Rezaei,leila.rezaei472@example.org,+13365550104,68,FR,France,City51,2025-08-19,61.53,True,gold
+211,Mateo,Hosseini,mateo.hosseini211@example.org,+18725550181,26,BR,Brazil,CITY58,2025-06-22,203.58,True,gold
+21,Anna,Kowalski,anna.kowalski21@mail.example,+447700900467,45,IR,Iran,City40,2025-09-10,85.36,False,gold
+453,Chen,Kowalski,chen.kowalski453@example.net,+13435550101,33,FR,France,City58,,433.16,False,bronze
+762,Elena,Rezaei,elena.rezaei762@example.net,+447700900040,57,JP,Japan,City34,2026-04-17,269.88,False,bronze
+114,,Tanaka,yuki.tanaka114@example.com,+447700900705,50,DE,Germany,City12,2026-02-01,189.06,True,gold
+36,Nadia,Kowalski,nadia.kowalski36@example.com,+447700900002,22,TR,Turkey,City38,2024-06-01,302.8,False,bronze
+504,Yuki,Tanaka,yuki.tanaka504@example.com,+447700900718,46,US,United States,City58,2025-05-05,N/A,True,gold
+786,David,Petrov,david.petrov786@example.com,+447700900966,20,FR,France,City35,2024-02-29,1082.44,False,silver
+622,Hassan,Rezaei,hassan.rezaei622@mail.example,+12295550106,51,FR,France,City12,2025-10-21,347.32,False,gold
+286,Fatima,Smith,fatima.smith286@example.org,+447700900813,38,AE,United Arab Emirates,City54,2024-12-31,263.51,True,silver
+346,Yuki,Johnson,yuki.johnson346@example.net,+17705550131,34,IR,Iran,City27,2024-05-19,834.96,True,bronze
+35,John,KARIMI,john.karimi35@mail.example,+18425550116,68,AE,United Arab Emirates,City3,2024-09-14,755.59,True,platinum
+528,Leila,Hosseini,leila.hosseini528@mail.example,+19805550111,38,US,United States,City10,2025-09-06,87.15,False,gold
+89,Mateo,Karimi,mateo.karimi89@example.org,+447700900764,58,JP,Japan,City57,2024-05-13,240.65,False,platinum
+186,  David ,Rossi,david.rossi186@example.org,+447700900841,18,TR,Turkey,City13,2024-12-16,1167.93,True,silver
+202,Chen,Garcia,chen.garcia202@example.com,+18125550113,21,IR,Iran,City48,2024-05-27,453.45,True,bronze
+160,Fatima,Wang,fatima.wang160@example.net,+17475550162,52,,Iran,City44,2026-04-13,386.85,True,platinum
+663,Hassan,Hosseini,hassan.hosseini663@example.net,+15985550185,41,JP,Japan,City15,2026-04-17,894.12,True,platinum
+679,Leila,Johnson,leila.johnson679@mail.example,+14985550130,53,US,United States,City11,2025-09-06,447.37,True,gold
+43,Elena,Muller,elena.muller43@example.org,+447700900576,45,TR,,City33,2026-05-14,380.37,True,gold
+531,Mateo,Hosseini,mateo.hosseini531@mail.example,+447700900909,67,JP,Japan,City40,2025-11-11,169.57,True,gold
+455,Hassan,Petrov,hassan.petrov455@example.org,+19705550112,57,AE,United Arab Emirates,City36,2026-05-17,unknown,True,gold
+220,Elena,Silva,elena.silva220@example.net,+447700900025,53,AE,United Arab Emirates,City31,2026-07-10,456.86,True,silver
+503,Sara,Ahmadi,sara.ahmadi503@mail.example,+14245550168,62,TR,Turkey,City25,2025-04-08,292.55,True,gold
+257,Nadia,Kowalski,nadia.kowalski257@example.com,+447700900802,21,DE,,City1,2025-11-10,653.94,True,platinum
+518,John,Silva,john.silva518@example.org,+447700900248,43,DE,Germany,City6,2024-11-16,342.42,True,silver
+254,Sofia,rezaei,sofia.rezaei254@mail.example,,24,US,United States,City18,2025-10-23,296.57,True,gold
+416,Sara,Tanaka,sara.tanaka416@example.org,+447700900896,46,US,United States,City14,2025-11-05,279.95,True,gold
+132,Mateo,Garcia,mateo.garcia132@mail.example,+447700900308,75,AE,United Arab Emirates,City56,2025-07-02,712.91,True,platinum
+187,Sara,tanaka,sara.tanaka187@example.net,+447700900033,49,IR,Iran,City51,2026-04-06,842.14,True,platinum
+275,Omar,Rezaei,omar.rezaei275@mail.example,+12465550144,66,BR,Brazil,City34,2024-06-14,2011.89,True,bronze
+517,Emma,Petrov,@example.com,+16685550164,59,TR,Turkey,City43,2025-11-20,71.2,False,bronze
+288,Lucas,Kowalski,lucas.kowalski288@example.net,,18,US,United States,City20,2024-03-03,234.24,False,bronze
+787,Chen,Novak,chen.novak787@example.org,+18465550193,18,AE,United Arab Emirates,City16,2025-06-06,1247.87,True,bronze
+495,Omar,Wang,omar.wang495@example.com,+13045550168,31,IR,Iran,City14,2025-03-14,431.55,False,silver
+779,Sofia,,sofia.johnson779@example.net,+12875550148,28,US,United States,City26,2025-02-18,597.71,False,gold
+325,Chen,Ahmadi,chen.ahmadi325@example.com,+17915550143,46,BR,,,2026-02-01,793.7,True,bronze
+778,Ali,Hosseini,ali.hosseini778@mail.example,+18935550106,48,US,United States,City56,2026-05-08,348.68,False,gold
+530,Sofia,Smith,sofia.smith530@mail.example,+17795550155,39,US,United States,City22,2026-07-28,648.35,False,silver
+767,Mateo,Rossi,mateo.rossi767@mail.example,+18615550191,40,BR,Brazil,City15,2024-08-03,149.98,True,platinum
+125,Emma,Garcia,emma.garcia125@example.org,+19655550165,57,TR,Turkey,City23,2025-03-16,977.54,False,silver
+290,Omar,Garcia,omar.garcia290@example.net,+16705550116,21,TR,Turkey,City13,2025-02-27,476.11,True,
+144,Fatima,Karimi,fatima.karimi144@example.org,+447700900545,49,US,United States,City22,2024-06-03,463.99,False,bronze
+656,David,Hosseini,david.hosseini656@example.org,+447700900517,78,DE,Germany,City16,2024-04-18,576.78,True,bronze
+249,Ali,Petrov,double@@example.org,+12405550195,21,DE,Germany,City21,2024-04-21,339.32,True,platinum
+209,Omar,Petrov,omar.petrov209@example.net,+12405550116,25,TR,Turkey,City13,2024-03-30,173.77,True,gold
+230,Anna,Kowalski,anna.kowalski230@example.net,+447700900119,32,FR,France,city56,2025-10-25,280.24,True,platinum
+214,Sofia,Rossi,sofia.rossi214@mail.example,+12135550108,27,FR,France,City20,2024-10-14,76.88,False,gold
+484,John,Smith,john.smith484@mail.example,+447700900172,68,FR,France,City56,2025-07-10,34.57,True,bronze
+99,Emma,Rezaei,emma.rezaei99@example.net,+447700900156,,AE,United Arab Emirates,City34,2025-04-04,1339.04,True,gold
+355,Ivan,Karimi,ivan.karimi355@example.com,+447700900270,57,US,United States,City55,2026-05-12,,True,gold
+446,Sara,Ahmadi,sara.ahmadi446@mail.example,+14355550113,23,,Brazil,City8,2024-06-25,190.48,True,bronze
+675,Omar,  Novak ,omar.novak675@example.org,+16025550198,31,TR,Turkey,City19,2026-07-02,374.04,True,bronze
+173,Yuki,Novak,yuki.novak173@example.org,+18645550163,69,JP,Japan,City17,2024-03-02,881.4,True,gold
+72,Omar,Rossi,omar.rossi72@example.net,+15395550187,65,JP,Japan,  City31 ,2024-10-31,284.29,True,bronze
+720,Omar,Petrov,omar.petrov720@example.org,+15965550176,21,US,United States,City15,2024-07-14,429.79,True,bronze
+630,Omar,SILVA,omar.silva630@example.net,+18505550196,73,JP,Japan,City38,2024-03-12,1162.92,True,silver
+123,Anna,Hosseini,anna.hosseini123@example.net,+447700900942,24,US,United States,City19,2025-09-27,1038.67,True,silver
+660,Sara,Johnson,sara.johnson660@mail.example,+447700900322,68,JP,Japan,City59,2025-08-24,570.22,True,gold
+395,Reza,Rossi,reza.rossi395@example.net,+15535550141,57,BR,Brazil,City18,2025-01-03,879.53,True,platinum
+543,Yuki,Garcia,yuki.garcia543@example.com,+12405550112,41,US,United States,  City9 ,2024-05-17,156.02,True,bronze
+333,Omar,Rossi,omar.rossi333@example.org,+12865550154,78,JP,Japan,City39,2024-07-08,302.42,False,silver
+95,  Maryam ,Rossi,maryam.rossi95@example.org,+447700900110,55,JP,Japan,City19,2025-01-27,7668.44,True,bronze
+118,Anna,AHMADI,anna.ahmadi118@mail.example,+447700900177,73,AE,United Arab Emirates,City44,2025-05-14,563.15,True,bronze
+800,John,Ahmadi,,+447700900688,57,JP,Japan,City20,2024-05-29,341.95,True,platinum
+442,John,Rossi,john.rossi442@mail.example,+16795550161,50,BR,Brazil,City16,2024-12-02,411.26,True,platinum
+452,Fatima,Karimi,fatima.karimi452@example.com,+19255550190,44,FR,France,City33,2024-10-27,239.39,True,silver
+450,Ali,Johnson,missing@,+13255550173,23,TR,Turkey,,2024-07-08,2458.57,False,silver
+773,John,Silva,john.silva773@example.com,+14635550154,32,FR,France,City52,,634.72,False,silver
+127,Ivan,Silva,ivan.silva127@example.org,+13195550160,28,TR,Turkey,City46,2025-02-19,1375.39,True,bronze
+165,Fatima,Wang,fatima.wang165@example.net,+17425550134,74,TR,Turkey,City57,2025-04-13,197.3,True,gold
+506,Anna,tanaka,anna.tanaka506@example.com,+447700900864,42,US,United States,City13,2025-04-30,181.19,True,bronze
+764,Nadia,Silva,nadia.silva764@example.org,+447700900078,18,US,United States,City23,2025-04-23,1249.94,False,bronze
+758,Fatima,Ibrahim,@example.com,+18195550163,65,FR,France,City9,2026-02-06,205.17,True,gold
+664,Emma,Tanaka,emma.tanaka664@mail.example,+16975550102,58,FR,France,City24,2025-06-17,211.48,True,silver
+754,John,Silva,john.silva754@example.com,+18605550147,59,FR,France,City37,2024-12-25,301.43,False,silver
+389,Mateo,Hosseini,mateo.hosseini389@example.net,+447700900467,60,IR,Iran,City30,not a date,,True,platinum
+725,Maryam,Johnson,maryam.johnson725@example.com,+447700900864,51,BR,Brazil,CITY43,2026-07-02,235.23,True,bronze
+558,Leila,Tanaka,leila.tanaka558@example.com,+447700900874,66,IR,Iran,City37,2024-04-08,201.96,False,platinum
+156,Ivan,Rezaei,ivan.rezaei156@example.net,+447700900128,57,JP,Japan,City54,,-482.18,False,platinum
+637,,Novak,omar.novak637@mail.example,+18655550120,43,BR,Brazil,City4,2024-11-22,413.17,True,gold
+672,SOFIA,Kowalski,sofia.kowalski672@example.org,+14695550117,40,FR,France,city3,2025-09-01,221.54,True,bronze
+577,Omar,muller,omar.muller577@mail.example,+447700900675,42,FR,France,City31,2024-08-23,184.28,True,silver
+707,Anna,Karimi,anna.karimi707@example.org,+16555550193,55,IR,Iran,City12,2023-13-45,109.08,True,silver
+111,Chen,Muller,not-an-email,+14935550155,21,IR,Iran,City46,2025-02-08,1171.05,,
+591,Yuki,Tanaka,yuki.tanaka591@example.net,+447700900895,67,IR,Iran,City12,2025-08-01,542.01,True,bronze
+659,Lucas,Hosseini,lucas.hosseini659@mail.example,+15875550153,66,DE,Germany,City51,2026-03-13,468.37,False,silver
 193,Anna,Ahmadi,anna.ahmadi193@example.com,,64,IR,Iran,City13,2025-03-06,423.61,False,platinum
-783,IVAN,Rossi,ivan.rossi783@company.net,+125277908493,21,TR,Turkey,City18,2024-07-08,289.24,False,platinum
-252,,Tanaka,john.tanaka252@company.net,+911650852840,69,BR,Brazil,City5,2025-10-12,176.46,True,bronze
-595,Maryam,Hosseini,maryam.hosseini595@example.com,+926928338716,28,TR,Turkey,City32,2025-06-24,224.73,False,platinum
-411,Sara,Novak,sara.novak411@example.com,+696170307896,24,FR,France,City51,2025-01-26,738.49,True,silver
-264,Omar,Ibrahim,omar.ibrahim264@mail.com,+765559432455,67,IR,Iran,City12,2025-02-15,105.97,False,gold
-16,John,Rossi,john.rossi16@test.org,+701590433932,54,DE,Germany,City38,2026-04-19,,True,platinum
-789,sara,Johnson,sara.johnson789@company.net,+947194378184,27,JP,Japan,City1,2025-06-29,536.95,False,silver
-126,Nadia,REZAEI,nadia.rezaei126@test.org,+969264322424,51,AE,United Arab Emirates,City60,2024-04-07,214.84,True,gold
-134,Elena,Muller,elena.muller134@example.com,+312859968846,70,JP,Japan,City15,2025-06-07,1079.97,True,platinum
-223,Hassan,Hosseini,hassan.hosseini223@test.org,+841890227535,43,TR,Turkey,City8,,273.74,True,silver
-22,David,Muller,david.muller22@mail.com,+258361276687,70,AE,United Arab Emirates,City18,2026-05-29,96.92,False,platinum
-59,Sara,Karimi,sara.karimi59@test.org,+172571789663,46,BR,Brazil,City2,2026-04-01,763.73,False,platinum
-601,Elena,Smith,elena.smith601@test.org,+629237127848,26,AE,United Arab Emirates,City26,2024-06-03,1417.91,,bronze
-554,Ivan,Hosseini,ivan.hosseini554@example.com,+395711893090,39,IR,Iran,City57,2025-12-27,775.94,True,gold
-201,Anna,Muller,anna.muller201@test.org,+163962412700,25,DE,Germany,City45,2026-03-25,199.62,True,gold
-218,Anna,Garcia,,+224029037949,42,DE,Germany,City20,2025-06-23,99.62,True,platinum
-188,chen,Garcia,chen.garcia188@mail.com,+503374175370,33,IR,Iran,City40,2025-05-22,242.76,False,gold
-68,Mateo,Ahmadi,mateo.ahmadi68@test.org,+546418569992,62,JP,Japan,City14,2025-03-28,unknown,False,silver
-334,Sofia,Ahmadi,sofia.ahmadi334@mail.com,+448262733022,43,AE,United Arab Emirates,City57,2025-01-03,654.06,False,silver
-158,Sofia,Rezaei,sofia.rezaei158@company.net,+962056296798,40,JP,Japan,City50,2024-03-24,185.23,False,silver
-710,John,Silva,john.silva710@test.org,+903235659473,77,DE,Germany,City13,2024-12-12,552.76,True,gold
-799,Fatima,Rossi,fatima.rossi799@test.org,+95620645454,49,BR,Brazil,city26,2026-04-19,364.77,False,gold
-232,Sofia,Johnson,sofia.johnson232@mail.com,+214249769858,51,JP,Japan,,2026-07-05,449.22,False,gold
-116,John,Rezaei,not-an-email,+929705358421,70,US,United States,City25,2026-04-19,220.12,True,bronze
-721,Mateo,Wang,mateo.wang721@mail.com,+438638239648,67,BR,Brazil,City39,2024-05-23,253.96,True,silver
-589,Reza,Rezaei,reza.rezaei589@company.net,+584771688732,27,DE,Germany,City35,2025-11-04,402.82,False,gold
-261,Sofia,Ahmadi,sofia.ahmadi261@test.org,+367142663177,25,AE,United Arab Emirates,City27,2025-11-17,568.04,True,gold
-382,Emma,Kowalski,emma.kowalski382@example.com,+669513917951,49,BR,Brazil,City34,2026-07-06,618.26,True,bronze
-491,Maryam,Silva,maryam.silva491@mail.com,+706640751351,68,DE,Germany,city26,2025-02-15,243.4,True,platinum
-136,NADIA,Karimi,nadia.karimi136@mail.com,+771202309500,32,IR,Iran,City16,2026-01-29,124.99,True,gold
-668,Nadia,Kowalski,nadia.kowalski668@company.net,+513612922902,25,FR,France,City45,2024-07-12,601.44,True,silver
-714,Fatima,Smith,fatima.smith714@company.net,+874758399242,42,TR,Turkey,City12,2025-06-21,413.31,True,bronze
-666,Leila,Novak,leila.novak666@test.org,+452645645239,66,IR,Iran,City11,2025-09-22,239.48,True,gold
-567,Elena,Ahmadi,elena.ahmadi567@company.net,+746384029569,36,FR,France,CITY6,2024-04-17,713.75,True,silver
-685,Anna,Wang,double@@mail.com,+928728492870,49,TR,Turkey,City19,2026-03-14,246.14,False,gold
-588,Ivan,Johnson,ivan.johnson588@test.org,+543571238479,70,DE,Germany,City10,2026-01-30,547.67,True,gold
-110,John,Petrov,john.petrov110@company.net,+591872766936,55,AE,United Arab Emirates,City43,2026-03-11,1223.1,True,gold
-739,Lucas,Rezaei,lucas.rezaei739@company.net,+793325569807,46,IR,Iran,City14,0000-00-00,803.7,True,gold
-704,Maryam,Johnson,maryam.johnson704@example.com,+287478785605,26,FR,France,city32,2025-05-03,829.74,True,bronze
-651,Chen,Silva,chen.silva651@mail.com,+997608018764,39,AE,United Arab Emirates,City56,2024-02-28,473.78,True,silver
-371,maryam,,maryam.kowalski371@test.org,+369254433072,70,FR,France,City26,2025-06-02,2276.37,True,platinum
-511,Fatima,Johnson,fatima.johnson511@company.net,+58255429874,52,BR,Brazil,CITY27,2025-05-14,183.36,True,platinum
-133,Elena,Petrov,elena.petrov133@mail.com,+261148250627,70,TR,Turkey,City34,2026-01-08,237.48,True,bronze
-686,Ali,Wang,ali.wang686@test.org,+771909464831,25,TR,Turkey,City29,2025-06-27,233.58,True,bronze
-729,Emma,Rezaei,emma.rezaei729@example.com,+102240115046,40,AE,United Arab Emirates,City45,2025-01-31,75.57,False,silver
-129,Lucas,Ibrahim,lucas.ibrahim129@mail.com,+317097670392,66,BR,Brazil,City3,2025-12-05,140.59,True,platinum
-27,Reza,Garcia,reza.garcia27@mail.com,+577298967534,57,US,United States,City1,2026-03-16,341.95,True,bronze
-1,Anna,JOHNSON,anna.johnson1@mail.com,+937435155431,44,BR,Brazil,City34,2024-07-22,1136.7,True,bronze
-560,Yuki,Novak,yuki.novak560@example.com,+482963965016,29,DE,Germany,City2,2025-11-21,605.39,True,silver
-682,Ivan,Wang,ivan.wang682@test.org,+685417102847,41,JP,Japan,City16,2026-02-16,1786.48,False,platinum
-527,Maryam,Johnson,maryam.johnson527@example.com,+641160622915,44,US,United States,City53,2026-06-01,83.23,True,silver
-402,yuki,Silva,yuki.silva402@company.net,+352653059130,49,TR,Turkey,City35,2026-02-14,839.55,True,gold
-472,Leila,Rezaei,leila.rezaei472@mail.com,+962276504936,68,FR,France,City51,2025-08-19,61.53,True,gold
-610,Anna,Muller,anna.muller610@mail.com,+706755887582,67,DE,Germany,City18,2025-04-02,302.46,True,silver
-734,Anna,Ahmadi,anna.ahmadi734@example.com,+843357581233,54,BR,Brazil,City40,2024-03-13,1990.94,False,platinum
-545,John,Muller,john.muller545@test.org,+769299426182,65,JP,Japan,  City33 ,2024-12-03,1025.85,True,silver
-180,Nadia,Petrov,nadia.petrov180@example.com,+996844821362,54,JP,Japan,City2,2024-12-12,516.55,False,gold
-268,Omar,Smith,omar.smith268@company.net,+643858108647,73,JP,Japan,City27,2026-04-30,1293.22,True,gold
-505,Elena,Smith,elena.smith505@test.org,+372036484367,65,JP,Japan,City30,2025-08-23,298.21,True,gold
-194,Fatima,Muller,fatima.muller194@company.net,+546694994252,50,AE,United Arab Emirates,City13,2026-06-26,469.12,True,gold
-285,David,Silva, ,+919263255842,73,FR,France,City7,2025-07-17,200.64,True,gold
-746,Omar,Rezaei,omar.rezaei746@company.net,+184021386944,76,JP,Japan,City24,2024-08-20,367.88,False,platinum
-640,Nadia,Rossi,@nodomain.com,+354008311249,62,AE,United Arab Emirates,City54,2025-05-07,144.2,True,silver
-606,Sofia,Muller,sofia.muller606@mail.com,+367747972655,52,DE,Germany,City39,2025-05-19,628.08,True,gold
-790,ivan,Smith,ivan.smith790@company.net,+896955354028,77,,Germany,City14,2024-05-20,1142.35,False,silver
-669,Ivan,karimi,ivan.karimi669@mail.com,+958138226997,19,US,United States,City23,2024-06-21,743831.983177112,True,gold
-166,Ali,Johnson,ali.johnson166@company.net,+947469450673,42,IR,Iran,City47,2025-04-09,582.07,True,silver
-465,Elena,Ibrahim,elena.ibrahim465@example.com,+932928946994,58,AE,United Arab Emirates,City11,2024-10-04,643.86,True,silver
-32,maryam,Wang,maryam.wang32@company.net,+645797417327,58,TR,Turkey,City56,2025-02-05,379.85,True,gold
-235,Nadia,Kowalski,nadia.kowalski235@mail.com,+601924012299,59,JP,Japan,City47,2025-10-16,36.49,True,bronze
-58,Omar,Muller,omar.muller58@test.org,+659269816661,43,IR,Iran,City47,2026-07-16,322.69,True,platinum
-464,Chen,Novak,chen.novak464@company.net,+799062572433,71,DE,Germany,CITY9,2025-08-24,530.94,False,gold
-542,Elena,Wang,elena.wang542@mail.com,+286040906488,59,BR,Brazil,City35,,963.82,True,bronze
-178,Reza,Ahmadi, ,+412095818541,48,AE,United Arab Emirates,City15,2026-04-12,146.07,True,platinum
-490,Nadia,Rossi,nadia.rossi490@test.org,+599228979380,60,JP,Japan,City55,2026-02-04,2010.76,True,bronze
-448,Sofia,Novak,sofia.novak448@test.org,+114015958863,27,JP,Japan,City45,2024-10-26,437.59,True,silver
-417,Hassan,Novak,hassan.novak417@company.net,+122637648793,43,DE,Germany,City58,2025-10-24,246.81,False,bronze
-103,Yuki,Garcia,yuki.garcia103@example.com,+886673701593,23,US,United States,City5,2025-05-23,272.68,False,gold
-207,Leila,Muller,leila.muller207@example.com,+167683876494,37,TR,Turkey,City36,2025-11-25,400.77,True,silver
-566,Reza,Smith,reza.smith566@test.org,+698148145699,55,FR,France,City22,2026-02-04,1177.17,True,platinum
-384,Yuki,Ahmadi,yuki.ahmadi384@company.net,+727146905733,76,US,United States,City32,2026-02-24,747.87,False,gold
-430,Hassan,Smith,hassan.smith430@mail.com,+114067709933,38,AE,United Arab Emirates,City57,2026-05-05,1116.58,True,gold
-341,Maryam,Novak,maryam.novak341@company.net,+241628220520,67,TR,Turkey,City32,2026-05-27,320.53,True,bronze
-42,Emma,Johnson,emma.johnson42@mail.com,+297275939205,51,BR,,City59,2024-08-22,353.98,True,bronze
-18,Fatima,Silva,fatima.silva18@test.org,+583737856686,43,BR,Brazil,City26,2024-06-19,224.25,False,gold
-358,Omar,  Rezaei ,omar.rezaei358@company.net,+742173105514,68,JP,Japan,City28,2026-05-02,134.7,True,bronze
-794,Lucas,Karimi,lucas.karimi794@company.net,+593808457230,70,AE,United Arab Emirates,City13,2024-06-14,1387.61,True,platinum
-440,Mateo,Johnson,mateo.johnson440@company.net,+108973078826,41,FR,France,City33,2024-10-19,149.31,True,silver
-256,John,Petrov,john.petrov256@test.org,+379828700839,36,BR,Brazil,City3,2025-11-02,1082.46,True,gold
-85,Elena,Rezaei,elena.rezaei85@example.com,+664493319912,32,US,United States,City25,2026-02-24,508.81,True,gold
-318,Hassan,Ahmadi,hassan.ahmadi318@test.org,+339787018453,41,JP,Japan,City5,2024-02-29,40.92,True,silver
-619,YUKI,Garcia,yuki.garcia619@company.net,+502418989415,28,DE,Germany,,2024-10-03,413.55,True,platinum
-107,Ali,Kowalski,ali.kowalski107@test.org,+676989541130,25,US,United States,City42,0000-00-00,111.19,True,bronze
-74,,Rossi,hassan.rossi74@company.net,+473453736434,37,IR,Iran,City4,2024-12-15,898.34,True,silver
-454,Chen,Johnson,chen.johnson454@mail.com,+846820045689,75,IR,Iran,City53,2024-02-19,128.07,True,gold
-719,Chen,Karimi,chen.karimi719@mail.com,+279353817743,47,FR,France,City22,2026-08-05,689.0,,gold
-759,  Yuki ,Tanaka,yuki.tanaka759@mail.com,+199578599541,70,TR,Turkey,City59,2025-04-14,78.34,False,platinum
-206,Elena,Tanaka,elena.tanaka206@test.org,+19668820276,41,BR,Brazil,City9,2025-08-18,209.16,True,silver
-145,Maryam,  Silva ,maryam.silva145@mail.com,+534828447353,,AE,United Arab Emirates,City6,2026-06-11,448.34,True,silver
-83,Hassan,Rezaei,hassan.rezaei83@test.org,+61494302776,67,JP,Japan,City48,0000-00-00,291.04,True,bronze
-328,Yuki,Muller,yuki.muller328@company.net,+562821761595,71,US,United States,City48,2026-08-04,786.54,False,silver
-636,Omar,Johnson,,+933807935096,78,AE,United Arab Emirates,City60,2024-11-21,523.41,True,platinum
-101,Reza,  Petrov ,reza.petrov101@test.org,+301331017946,66,IR,Iran,City29,2026-06-19,1451.66,False,platinum
-633,Ali,Wang,ali.wang633@mail.com,+508980981569,61,FR,France,,2025-10-27,74.67,True,gold
-84,Maryam,,maryam.tanaka84@test.org,+624888255542,53,BR,Brazil,City49,2025-10-04,512.3,False,silver
-700,Nadia,Ahmadi,nadia.ahmadi700@mail.com,+471186982409,68,BR,Brazil,City12,2024-07-13,-191.34,True,gold
-470,Nadia,Ahmadi,nadia.ahmadi470@company.net,+422879380243,29,JP,Japan,City59,2025-03-08,500.62,True,silver
-631,Reza,Wang,reza.wang631@company.net,+936098117553,63,JP,Japan,City20,2025-12-12,1551.97,False,silver
-576,Yuki,Silva,yuki.silva576@company.net,+837954656441,64,BR,Brazil,City13,2024-04-17,1546.87,False,gold
-552,Sara,Smith,sara.smith552@test.org,+578601119584,26,BR,Brazil,City15,2025-01-19,47.03,True,silver
-51,Ali,Rossi,ali.rossi51@mail.com,+647540336663,21,DE,Germany,City36,2024-05-13,354.84,True,bronze
-88,Mateo,Rezaei,mateo.rezaei88@mail.com,+532239392538,39,FR,France,City21,2026-04-23,443.78,True,silver
-422,Ali,Wang,ali.wang422@mail.com,+267828390754,66,US,United States,City12,2024-10-15,614.65,False,gold
-270,Fatima,Kowalski,fatima.kowalski270@test.org,+112627402242,,BR,Brazil,City24,2026-04-15,2296.16,False,gold
-369,Ivan,Garcia,ivan.garcia369@mail.com,+683772555864,63,BR,Brazil,City17,2026-07-23,912.37,False,silver
-482,Leila,SMITH,leila.smith482@test.org,+448633398208,28,DE,Germany,City44,2025-11-19,,True,gold
-776,Chen,Johnson,chen.johnson776@test.org,+442555405953,71,DE,Germany,City45,2024-08-19,1253.52,True,bronze
-176,Ali,Muller,ali.muller176@test.org,+925821693618,29,IR,Iran,City58,2026-06-19,2421.87,,platinum
-350,Sofia,Hosseini,sofia.hosseini350@company.net,+137044298949,68,US,United States,City49,2025-11-20,273.78,False,platinum
-301,  John ,Petrov,john.petrov301@test.org,+366602076986,72,JP,Japan,,2025-02-18,1058.12,False,platinum
-205,REZA,Silva,reza.silva205@company.net,+224467800454,57,DE,Germany,City36,2026-05-23,402.69,False,platinum
-498,Ivan,Novak,ivan.novak498@example.com,+19134555336,43,IR,Iran,City59,2026-03-04,332.18,True,gold
-49,Elena,Kowalski,elena.kowalski49@company.net,+229025471813,66,US,United States,City14,2026-03-26,534.79,False,bronze
-443,Fatima,Karimi,fatima.karimi443@mail.com,+513094414510,71,US,United States,City15,2024-09-25,128.96,True,platinum
-727,Sofia,Rossi,sofia.rossi727@example.com,+11181196349,26,US,United States,City20,2026-05-15,180.86,True,gold
-19,Nadia,Wang,nadia.wang19@test.org,+376127679153,59,TR,Turkey,City35,2026-06-13,237.81,True,silver
-657,Fatima,Johnson,,+352335033450,51,AE,United Arab Emirates,City45,2024-06-16,370.51,False,silver
-282,David,Smith,david.smith282@mail.com,+543255215128,23,AE,United Arab Emirates,City14,2025-08-31,471.84,False,gold
-149,John,Kowalski,john.kowalski149@company.net,+406224540291,21,IR,Iran,City45,2024-06-12,618.24,True,bronze
-550,OMAR,Hosseini,omar.hosseini550@test.org,+214907838298,76,AE,United Arab Emirates,city52,2024-10-03,612.33,False,platinum
-730,,Novak,chen.novak730@test.org,+53374080752,76,IR,Iran,City44,2026-02-07,197.35,True,gold
-400,Ivan,Smith,ivan.smith400@mail.com,+999097255397,75,BR,Brazil,City3,2025-02-02,105.43,True,bronze
-538,Sara,Hosseini,sara.hosseini538@test.org,+189040670982,57,BR,Brazil,City10,2026-02-14,278.81,False,gold
-741,Chen,Smith,chen.smith741@company.net,+365619930034,48,TR,Turkey,City59,2024-05-06,949.85,True,silver
-423,Sofia,Garcia,sofia.garcia423@mail.com,+187692645368,35,FR,France,CITY33,2025-12-23,489.66,False,silver
-712,Chen,Smith,chen.smith712@mail.com,+288724150516,32,IR,Iran,City49,2026-07-19,350.61,True,bronze
-117,Elena,Smith,elena.smith117@company.net,+753418792598,67,FR,France,City59,2024-11-11,395.58,False,bronze
-60,John,Muller,john.muller60@mail.com,+293741492916,66,TR,Turkey,City55,2026-08-03,232.83,True,platinum
-106,  Maryam ,Novak,maryam.novak106@test.org,+679210700758,74,DE,Germany,City10,2026-08-03,538.16,True,silver
-556,David,Hosseini,david.hosseini556@example.com,+501388032501,,DE,Germany,City39,2026-06-13,-421.49,True,silver
+783,IVAN,Rossi,ivan.rossi783@mail.example,+16935550108,21,TR,Turkey,City18,2024-07-08,289.24,False,platinum
+252,,Tanaka,john.tanaka252@mail.example,+447700900840,69,BR,Brazil,City5,2025-10-12,176.46,True,bronze
+595,Maryam,Hosseini,maryam.hosseini595@example.com,+15165550138,28,TR,Turkey,City32,2025-06-24,224.73,False,platinum
+411,Sara,Novak,sara.novak411@example.com,+447700900896,24,FR,France,City51,2025-01-26,738.49,True,silver
+264,Omar,Ibrahim,omar.ibrahim264@example.org,+16555550132,67,IR,Iran,City12,2025-02-15,105.97,False,gold
+16,John,Rossi,john.rossi16@example.net,+15325550133,54,DE,Germany,City38,2026-04-19,,True,platinum
+789,sara,Johnson,sara.johnson789@mail.example,+17845550178,27,JP,Japan,City1,2025-06-29,536.95,False,silver
+126,Nadia,REZAEI,nadia.rezaei126@example.net,+12245550122,51,AE,United Arab Emirates,City60,2024-04-07,214.84,True,gold
+134,Elena,Muller,elena.muller134@example.com,+447700900846,70,JP,Japan,City15,2025-06-07,1079.97,True,platinum
+223,Hassan,Hosseini,hassan.hosseini223@example.net,+15355550127,43,TR,Turkey,City8,,273.74,True,silver
+22,David,Muller,david.muller22@example.org,+447700900687,70,AE,United Arab Emirates,City18,2026-05-29,96.92,False,platinum
+59,Sara,Karimi,sara.karimi59@example.net,+447700900663,46,BR,Brazil,City2,2026-04-01,763.73,False,platinum
+601,Elena,Smith,elena.smith601@example.net,+18485550127,26,AE,United Arab Emirates,City26,2024-06-03,1417.91,,bronze
+554,Ivan,Hosseini,ivan.hosseini554@example.com,+447700900090,39,IR,Iran,City57,2025-12-27,775.94,True,gold
+201,Anna,Muller,anna.muller201@example.net,+19005550112,25,DE,Germany,City45,2026-03-25,199.62,True,gold
+218,Anna,Garcia,,+15495550137,42,DE,Germany,City20,2025-06-23,99.62,True,platinum
+188,chen,Garcia,chen.garcia188@example.org,+13705550175,33,IR,Iran,City40,2025-05-22,242.76,False,gold
+68,Mateo,Ahmadi,mateo.ahmadi68@example.net,+15925550169,62,JP,Japan,City14,2025-03-28,unknown,False,silver
+334,Sofia,Ahmadi,sofia.ahmadi334@example.org,+14225550133,43,AE,United Arab Emirates,City57,2025-01-03,654.06,False,silver
+158,Sofia,Rezaei,sofia.rezaei158@mail.example,+19985550196,40,JP,Japan,City50,2024-03-24,185.23,False,silver
+710,John,Silva,john.silva710@example.net,+14735550159,77,DE,Germany,City13,2024-12-12,552.76,True,gold
+799,Fatima,Rossi,fatima.rossi799@example.net,+447700900454,49,BR,Brazil,city26,2026-04-19,364.77,False,gold
+232,Sofia,Johnson,sofia.johnson232@example.org,+447700900858,51,JP,Japan,,2026-07-05,449.22,False,gold
+116,John,Rezaei,not-an-email,+12215550158,70,US,United States,City25,2026-04-19,220.12,True,bronze
+721,Mateo,Wang,mateo.wang721@example.org,+447700900648,67,BR,Brazil,City39,2024-05-23,253.96,True,silver
+589,Reza,Rezaei,reza.rezaei589@mail.example,+19325550188,27,DE,Germany,City35,2025-11-04,402.82,False,gold
+261,Sofia,Ahmadi,sofia.ahmadi261@example.net,+19775550163,25,AE,United Arab Emirates,City27,2025-11-17,568.04,True,gold
+382,Emma,Kowalski,emma.kowalski382@example.com,+15515550117,49,BR,Brazil,City34,2026-07-06,618.26,True,bronze
+491,Maryam,Silva,maryam.silva491@example.org,+13515550151,68,DE,Germany,city26,2025-02-15,243.4,True,platinum
+136,NADIA,Karimi,nadia.karimi136@example.org,+447700900500,32,IR,Iran,City16,2026-01-29,124.99,True,gold
+668,Nadia,Kowalski,nadia.kowalski668@mail.example,+447700900902,25,FR,France,City45,2024-07-12,601.44,True,silver
+714,Fatima,Smith,fatima.smith714@mail.example,+447700900242,42,TR,Turkey,City12,2025-06-21,413.31,True,bronze
+666,Leila,Novak,leila.novak666@example.net,+447700900239,66,IR,Iran,City11,2025-09-22,239.48,True,gold
+567,Elena,Ahmadi,elena.ahmadi567@mail.example,+19695550129,36,FR,France,CITY6,2024-04-17,713.75,True,silver
+685,Anna,Wang,double@@example.org,+12705550192,49,TR,Turkey,City19,2026-03-14,246.14,False,gold
+588,Ivan,Johnson,ivan.johnson588@example.net,+12795550138,70,DE,Germany,City10,2026-01-30,547.67,True,gold
+110,John,Petrov,john.petrov110@mail.example,+447700900936,55,AE,United Arab Emirates,City43,2026-03-11,1223.1,True,gold
+739,Lucas,Rezaei,lucas.rezaei739@mail.example,+447700900807,46,IR,Iran,City14,0000-00-00,803.7,True,gold
+704,Maryam,Johnson,maryam.johnson704@example.com,+12055550185,26,FR,France,city32,2025-05-03,829.74,True,bronze
+651,Chen,Silva,chen.silva651@example.org,+447700900764,39,AE,United Arab Emirates,City56,2024-02-28,473.78,True,silver
+371,maryam,,maryam.kowalski371@example.net,+14725550133,70,FR,France,City26,2025-06-02,2276.37,True,platinum
+511,Fatima,Johnson,fatima.johnson511@mail.example,+447700900874,52,BR,Brazil,CITY27,2025-05-14,183.36,True,platinum
+133,Elena,Petrov,elena.petrov133@example.org,+14275550150,70,TR,Turkey,City34,2026-01-08,237.48,True,bronze
+686,Ali,Wang,ali.wang686@example.net,+447700900831,25,TR,Turkey,City29,2025-06-27,233.58,True,bronze
+729,Emma,Rezaei,emma.rezaei729@example.com,+18465550115,40,AE,United Arab Emirates,City45,2025-01-31,75.57,False,silver
+129,Lucas,Ibrahim,lucas.ibrahim129@example.org,+447700900392,66,BR,Brazil,City3,2025-12-05,140.59,True,platinum
+27,Reza,Garcia,reza.garcia27@example.org,+447700900534,57,US,United States,City1,2026-03-16,341.95,True,bronze
+1,Anna,JOHNSON,anna.johnson1@example.org,+447700900431,44,BR,Brazil,City34,2024-07-22,1136.7,True,bronze
+560,Yuki,Novak,yuki.novak560@example.com,+14165550165,29,DE,Germany,City2,2025-11-21,605.39,True,silver
+682,Ivan,Wang,ivan.wang682@example.net,+16475550102,41,JP,Japan,City16,2026-02-16,1786.48,False,platinum
+527,Maryam,Johnson,maryam.johnson527@example.com,+17155550122,44,US,United States,City53,2026-06-01,83.23,True,silver
+402,yuki,Silva,yuki.silva402@mail.example,+447700900130,49,TR,Turkey,City35,2026-02-14,839.55,True,gold
+472,Leila,Rezaei,leila.rezaei472@example.org,+13365550104,68,FR,France,City51,2025-08-19,61.53,True,gold
+610,Anna,Muller,anna.muller610@example.org,+15825550187,67,DE,Germany,City18,2025-04-02,302.46,True,silver
+734,Anna,Ahmadi,anna.ahmadi734@example.com,+16335550181,54,BR,Brazil,City40,2024-03-13,1990.94,False,platinum
+545,John,Muller,john.muller545@example.net,+17825550126,65,JP,Japan,  City33 ,2024-12-03,1025.85,True,silver
+180,Nadia,Petrov,nadia.petrov180@example.com,+447700900362,54,JP,Japan,City2,2024-12-12,516.55,False,gold
+268,Omar,Smith,omar.smith268@mail.example,+18475550108,73,JP,Japan,City27,2026-04-30,1293.22,True,gold
+505,Elena,Smith,elena.smith505@example.net,+447700900367,65,JP,Japan,City30,2025-08-23,298.21,True,gold
+194,Fatima,Muller,fatima.muller194@mail.example,+18525550194,50,AE,United Arab Emirates,City13,2026-06-26,469.12,True,gold
+285,David,Silva, ,+447700900842,73,FR,France,City7,2025-07-17,200.64,True,gold
+746,Omar,Rezaei,omar.rezaei746@mail.example,+17445550186,76,JP,Japan,City24,2024-08-20,367.88,False,platinum
+640,Nadia,Rossi,@example.com,+447700900249,62,AE,United Arab Emirates,City54,2025-05-07,144.2,True,silver
+606,Sofia,Muller,sofia.muller606@example.org,+18555550172,52,DE,Germany,City39,2025-05-19,628.08,True,gold
+790,ivan,Smith,ivan.smith790@mail.example,+447700900028,77,,Germany,City14,2024-05-20,1142.35,False,silver
+669,Ivan,karimi,ivan.karimi669@example.org,+447700900997,19,US,United States,City23,2024-06-21,743831.983177112,True,gold
+166,Ali,Johnson,ali.johnson166@mail.example,+14735550150,42,IR,Iran,City47,2025-04-09,582.07,True,silver
+465,Elena,Ibrahim,elena.ibrahim465@example.com,+447700900994,58,AE,United Arab Emirates,City11,2024-10-04,643.86,True,silver
+32,maryam,Wang,maryam.wang32@mail.example,+17275550117,58,TR,Turkey,City56,2025-02-05,379.85,True,gold
+235,Nadia,Kowalski,nadia.kowalski235@example.org,+14995550112,59,JP,Japan,City47,2025-10-16,36.49,True,bronze
+58,Omar,Muller,omar.muller58@example.net,+447700900661,43,IR,Iran,City47,2026-07-16,322.69,True,platinum
+464,Chen,Novak,chen.novak464@mail.example,+447700900433,71,DE,Germany,CITY9,2025-08-24,530.94,False,gold
+542,Elena,Wang,elena.wang542@example.org,+12885550106,59,BR,Brazil,City35,,963.82,True,bronze
+178,Reza,Ahmadi, ,+447700900541,48,AE,United Arab Emirates,City15,2026-04-12,146.07,True,platinum
+490,Nadia,Rossi,nadia.rossi490@example.net,+447700900380,60,JP,Japan,City55,2026-02-04,2010.76,True,bronze
+448,Sofia,Novak,sofia.novak448@example.net,+447700900863,27,JP,Japan,City45,2024-10-26,437.59,True,silver
+417,Hassan,Novak,hassan.novak417@mail.example,+19935550148,43,DE,Germany,City58,2025-10-24,246.81,False,bronze
+103,Yuki,Garcia,yuki.garcia103@example.com,+19935550101,23,US,United States,City5,2025-05-23,272.68,False,gold
+207,Leila,Muller,leila.muller207@example.com,+16945550176,37,TR,Turkey,City36,2025-11-25,400.77,True,silver
+566,Reza,Smith,reza.smith566@example.net,+447700900699,55,FR,France,City22,2026-02-04,1177.17,True,platinum
+384,Yuki,Ahmadi,yuki.ahmadi384@mail.example,+13335550105,76,US,United States,City32,2026-02-24,747.87,False,gold
+430,Hassan,Smith,hassan.smith430@example.org,+447700900933,38,AE,United Arab Emirates,City57,2026-05-05,1116.58,True,gold
+341,Maryam,Novak,maryam.novak341@mail.example,+17205550120,67,TR,Turkey,City32,2026-05-27,320.53,True,bronze
+42,Emma,Johnson,emma.johnson42@example.org,+447700900205,51,BR,,City59,2024-08-22,353.98,True,bronze
+18,Fatima,Silva,fatima.silva18@example.net,+18865550156,43,BR,Brazil,City26,2024-06-19,224.25,False,gold
+358,Omar,  Rezaei ,omar.rezaei358@mail.example,+19145550105,68,JP,Japan,City28,2026-05-02,134.7,True,bronze
+794,Lucas,Karimi,lucas.karimi794@mail.example,+447700900230,70,AE,United Arab Emirates,City13,2024-06-14,1387.61,True,platinum
+440,Mateo,Johnson,mateo.johnson440@mail.example,+16265550178,41,FR,France,City33,2024-10-19,149.31,True,silver
+256,John,Petrov,john.petrov256@example.net,+447700900839,36,BR,Brazil,City3,2025-11-02,1082.46,True,gold
+85,Elena,Rezaei,elena.rezaei85@example.com,+19125550119,32,US,United States,City25,2026-02-24,508.81,True,gold
+318,Hassan,Ahmadi,hassan.ahmadi318@example.net,+447700900453,41,JP,Japan,City5,2024-02-29,40.92,True,silver
+619,YUKI,Garcia,yuki.garcia619@mail.example,+18155550189,28,DE,Germany,,2024-10-03,413.55,True,platinum
+107,Ali,Kowalski,ali.kowalski107@example.net,+447700900130,25,US,United States,City42,0000-00-00,111.19,True,bronze
+74,,Rossi,hassan.rossi74@mail.example,+447700900434,37,IR,Iran,City4,2024-12-15,898.34,True,silver
+454,Chen,Johnson,chen.johnson454@example.org,+12895550145,75,IR,Iran,City53,2024-02-19,128.07,True,gold
+719,Chen,Karimi,chen.karimi719@example.org,+447700900743,47,FR,France,City22,2026-08-05,689.0,,gold
+759,  Yuki ,Tanaka,yuki.tanaka759@example.org,+447700900541,70,TR,Turkey,City59,2025-04-14,78.34,False,platinum
+206,Elena,Tanaka,elena.tanaka206@example.net,+447700900276,41,BR,Brazil,City9,2025-08-18,209.16,True,silver
+145,Maryam,  Silva ,maryam.silva145@example.org,+447700900353,,AE,United Arab Emirates,City6,2026-06-11,448.34,True,silver
+83,Hassan,Rezaei,hassan.rezaei83@example.net,+15765550102,67,JP,Japan,City48,0000-00-00,291.04,True,bronze
+328,Yuki,Muller,yuki.muller328@mail.example,+19955550161,71,US,United States,City48,2026-08-04,786.54,False,silver
+636,Omar,Johnson,,+447700900096,78,AE,United Arab Emirates,City60,2024-11-21,523.41,True,platinum
+101,Reza,  Petrov ,reza.petrov101@example.net,+15465550117,66,IR,Iran,City29,2026-06-19,1451.66,False,platinum
+633,Ali,Wang,ali.wang633@example.org,+19695550181,61,FR,France,,2025-10-27,74.67,True,gold
+84,Maryam,,maryam.tanaka84@example.net,+15425550155,53,BR,Brazil,City49,2025-10-04,512.3,False,silver
+700,Nadia,Ahmadi,nadia.ahmadi700@example.org,+447700900409,68,BR,Brazil,City12,2024-07-13,-191.34,True,gold
+470,Nadia,Ahmadi,nadia.ahmadi470@mail.example,+14435550180,29,JP,Japan,City59,2025-03-08,500.62,True,silver
+631,Reza,Wang,reza.wang631@mail.example,+447700900553,63,JP,Japan,City20,2025-12-12,1551.97,False,silver
+576,Yuki,Silva,yuki.silva576@mail.example,+447700900441,64,BR,Brazil,City13,2024-04-17,1546.87,False,gold
+552,Sara,Smith,sara.smith552@example.net,+447700900584,26,BR,Brazil,City15,2025-01-19,47.03,True,silver
+51,Ali,Rossi,ali.rossi51@example.org,+18635550136,21,DE,Germany,City36,2024-05-13,354.84,True,bronze
+88,Mateo,Rezaei,mateo.rezaei88@example.org,+447700900538,39,FR,France,City21,2026-04-23,443.78,True,silver
+422,Ali,Wang,ali.wang422@example.org,+15545550190,66,US,United States,City12,2024-10-15,614.65,False,gold
+270,Fatima,Kowalski,fatima.kowalski270@example.net,+447700900242,,BR,Brazil,City24,2026-04-15,2296.16,False,gold
+369,Ivan,Garcia,ivan.garcia369@example.org,+18645550155,63,BR,Brazil,City17,2026-07-23,912.37,False,silver
+482,Leila,SMITH,leila.smith482@example.net,+18085550198,28,DE,Germany,City44,2025-11-19,,True,gold
+776,Chen,Johnson,chen.johnson776@example.net,+15535550105,71,DE,Germany,City45,2024-08-19,1253.52,True,bronze
+176,Ali,Muller,ali.muller176@example.net,+12185550193,29,IR,Iran,City58,2026-06-19,2421.87,,platinum
+350,Sofia,Hosseini,sofia.hosseini350@mail.example,+447700900949,68,US,United States,City49,2025-11-20,273.78,False,platinum
+301,  John ,Petrov,john.petrov301@example.net,+13865550176,72,JP,Japan,,2025-02-18,1058.12,False,platinum
+205,REZA,Silva,reza.silva205@mail.example,+16545550100,57,DE,Germany,City36,2026-05-23,402.69,False,platinum
+498,Ivan,Novak,ivan.novak498@example.com,+447700900336,43,IR,Iran,City59,2026-03-04,332.18,True,gold
+49,Elena,Kowalski,elena.kowalski49@mail.example,+18135550171,66,US,United States,City14,2026-03-26,534.79,False,bronze
+443,Fatima,Karimi,fatima.karimi443@example.org,+447700900510,71,US,United States,City15,2024-09-25,128.96,True,platinum
+727,Sofia,Rossi,sofia.rossi727@example.com,+447700900349,26,US,United States,City20,2026-05-15,180.86,True,gold
+19,Nadia,Wang,nadia.wang19@example.net,+447700900153,59,TR,Turkey,City35,2026-06-13,237.81,True,silver
+657,Fatima,Johnson,,+447700900450,51,AE,United Arab Emirates,City45,2024-06-16,370.51,False,silver
+282,David,Smith,david.smith282@example.org,+19285550115,23,AE,United Arab Emirates,City14,2025-08-31,471.84,False,gold
+149,John,Kowalski,john.kowalski149@mail.example,+14915550140,21,IR,Iran,City45,2024-06-12,618.24,True,bronze
+550,OMAR,Hosseini,omar.hosseini550@example.net,+447700900298,76,AE,United Arab Emirates,city52,2024-10-03,612.33,False,platinum
+730,,Novak,chen.novak730@example.net,+447700900752,76,IR,Iran,City44,2026-02-07,197.35,True,gold
+400,Ivan,Smith,ivan.smith400@example.org,+447700900397,75,BR,Brazil,City3,2025-02-02,105.43,True,bronze
+538,Sara,Hosseini,sara.hosseini538@example.net,+17825550170,57,BR,Brazil,City10,2026-02-14,278.81,False,gold
+741,Chen,Smith,chen.smith741@mail.example,+16345550130,48,TR,Turkey,City59,2024-05-06,949.85,True,silver
+423,Sofia,Garcia,sofia.garcia423@example.org,+17685550145,35,FR,France,CITY33,2025-12-23,489.66,False,silver
+712,Chen,Smith,chen.smith712@example.org,+13165550150,32,IR,Iran,City49,2026-07-19,350.61,True,bronze
+117,Elena,Smith,elena.smith117@mail.example,+447700900598,67,FR,France,City59,2024-11-11,395.58,False,bronze
+60,John,Muller,john.muller60@example.org,+447700900916,66,TR,Turkey,City55,2026-08-03,232.83,True,platinum
+106,  Maryam ,Novak,maryam.novak106@example.net,+447700900758,74,DE,Germany,City10,2026-08-03,538.16,True,silver
+556,David,Hosseini,david.hosseini556@example.com,+17015550132,,DE,Germany,City39,2026-06-13,-421.49,True,silver
 768,Leila,  Kowalski ,leila.kowalski768@example.com,,68,AE,United Arab Emirates,City39,2025-07-05,110.74,True,bronze
-696,Hassan,Kowalski,hassan.kowalski696@example.com,+772606872988,60,JP,Japan,City11,2025-06-16,145.01,False,platinum
-650,FATIMA,Garcia,fatima.garcia650@company.net,+358908861865,75,JP,Japan,City52,2025-02-15,147.21,True,platinum
-208,Ivan,Rossi,ivan.rossi208@company.net,+526300426384,28,BR,Brazil,,2025-11-12,211.08,True,platinum
-772,John,Karimi,john.karimi772@company.net,+976683970805,74,TR,Turkey,City33,2026-05-05,209.7,True,silver
-348,Omar,Ahmadi,omar.ahmadi348@company.net,+986867356030,28,US,United States,City5,2026-04-16,799.95,True,platinum
-242,REZA,Kowalski,reza.kowalski242@example.com,+789901733623,28,US,United States,City49,2025-05-12,1484.65,True,silver
-658,  Mateo ,Rossi,mateo.rossi658@company.net,+479534923217,34,US,United States,City31,2025-06-03,204.36,True,gold
-31,Nadia,Rezaei,nadia.rezaei31@company.net,+429619778172,61,JP,Japan,City39,2024-04-09,282.34,True,silver
-694,Nadia,Rezaei,nadia.rezaei694@company.net,+983332950756,18,AE,United Arab Emirates,City9,2023-13-45,unknown,False,gold
-410,Ali,Silva,ali.silva410@test.org,+704921872574,45,BR,Brazil,City5,2025-04-10,227.01,True,platinum
-704,Maryam,Johnson,maryam.johnson704@example.com,+287478785605,26,FR,France,city32,2025-05-03,829.74,True,bronze
-562,Hassan,Rezaei,hassan.rezaei562@company.net,+674010478336,47,FR,France,City30,2025-04-17,263.71,True,bronze
-11,Yuki,  Johnson ,yuki.johnson11@test.org,+358441451653,58,TR,Turkey,City29,2024-04-05,126.99,True,silver
-537,Yuki,Kowalski,yuki.kowalski537@mail.com,+928614779560,51,BR,Brazil,City28,2024-02-19,267.79,True,platinum
-41,Yuki,Petrov,yuki.petrov41@test.org,+793250982380,71,JP,Japan,  City12 ,2025-12-22,104.35,True,bronze
-24,Ali,Garcia,ali.garcia24@mail.com,+732148196692,50,AE,United Arab Emirates,City52,2025-11-17,1478.83,True,silver
-163,Omar,Karimi,omar.karimi163@test.org,+966023147218,76,US,United States,City6,2026-02-04,324.5,True,silver
-563,Reza,Muller,reza.muller563@mail.com,+487051215052,75,BR,Brazil,City33,2025-09-02,345.89,False,platinum
-667,Ali,Garcia,ali.garcia667@test.org,+126757922473,62,US,United States,City19,2025-11-22,1342.31,True,platinum
-744,Sofia,Kowalski,sofia.kowalski744@company.net,+463248315445,31,TR,Turkey,City33,2025-04-19,451.16,True,silver
-674,Anna,Smith,anna.smith674@company.net,+322238133543,35,DE,Germany,City10,2024-02-25,1788.75,True,platinum
-590,Lucas,Kowalski,lucas.kowalski590@company.net,+383505677174,67,JP,Japan,City11,2023-13-45,194.88,True,gold
-539,John,Petrov,john.petrov539@mail.com,+63667559799,73,US,United States,City5,31/02/2023,185.56,True,gold
-353,Reza,Silva,reza.silva353@test.org,+347655093062,60,US,United States,City60,2025-12-18,784.24,False,silver
-409,Ali,Smith,ali.smith409@company.net,+36773268425,69,IR,Iran,City37,2024-10-23,185.35,False,bronze
-412,Hassan,Kowalski,hassan.kowalski412@company.net,+134553845030,36,JP,Japan,City59,2026-02-27,117.3,True,platinum
-565,Ali,Kowalski,ali.kowalski565@mail.com,+354160137309,60,US,United States,City9,2025-07-03,2922.48,False,platinum
-466,Maryam,Ahmadi,maryam.ahmadi466@test.org,+676375965518,58,,Germany,  City5 ,2026-03-13,383.42,False,gold
-740,Ivan,Tanaka,ivan.tanaka740@example.com,+647099316560,68,AE,,City56,2025-11-26,362.45,True,platinum
-263,Omar,Tanaka,omar.tanaka263@example.com,+129441405600,51,AE,United Arab Emirates,City24,2024-04-01,515.26,True,bronze
-250,Maryam,Karimi,maryam.karimi250@mail.com,+853812699112,64,JP,Japan,City35,2025-02-04,139.48,False,bronze
-221,Elena,Garcia,elena.garcia221@mail.com,+954051087853,30,TR,Turkey,City24,2026-03-13,825.51,True,bronze
-693,Leila,Karimi,leila.karimi693@test.org,+158534936782,37,AE,United Arab Emirates,City51,2025-08-18,393.81,True,platinum
-26,Emma,Petrov,emma.petrov26@example.com,+889213464954,29,TR,Turkey,City25,2024-10-10,619.1,True,silver
-697,Mateo,Tanaka,mateo.tanaka697@example.com,+153412847049,77,TR,Turkey,City13,2026-02-19,487.6,,gold
-5,Leila,Smith,leila.smith5@mail.com,+753948809547,24,JP,Japan,City54,2026-02-11,1210.55,False,silver
-571,Chen,Johnson,chen.johnson571@mail.com,+896923865701,20,IR,Iran,City47,2025-02-23,426.77,True,platinum
-119,Fatima,Silva,fatima.silva119@company.net,+774362226868,38,DE,Germany,CITY60,2026-05-20,152.5,True,silver
-372,Yuki,Wang,yuki.wang372@test.org,,67,DE,Germany,City15,2025-12-15,1557.0,True,gold
-69,Elena,Silva,elena.silva69@test.org,+608376611818,,BR,Brazil,City43,2026-02-27,423.1,True,platinum
-61,Nadia,Johnson,nadia.johnson61@company.net,+777167241583,21,BR,Brazil,City52,2024-08-30,487.99,True,bronze
-191,,Johnson,maryam.johnson191@mail.com,+866908196474,72,BR,,City49,2024-07-31,560.79,True,bronze
-15,Anna,Novak,anna.novak15@example.com,+991522198545,41,FR,France,City28,2024-10-25,407.07,True,bronze
-533,Fatima,Novak,fatima.novak533@mail.com,+107994104051,51,US,United States,City42,2025-06-15,3076.93,True,silver
-304,Leila,Kowalski,leila.kowalski304@test.org,+557439144197,49,IR,Iran,City48,2024-04-19,1518.58,True,platinum
-508,Reza,Johnson,reza.johnson508@mail.com,+491476544003,66,FR,France,City39,2024-05-04,431.63,True,silver
-373,Elena,Ahmadi,elena.ahmadi373@mail.com,+978074955440,40,US,United States,City19,2025-07-19,335.56,,silver
-676,Nadia,Silva, ,+369823962924,45,JP,Japan,City20,2026-04-02,125.77,True,platinum
-308,Mateo,Rossi,mateo.rossi308@mail.com,+613323473644,22,TR,Turkey,City7,2024-03-28,96.78,False,platinum
-652,  Yuki ,Rezaei,yuki.rezaei652@example.com,+608790953969,50,AE,United Arab Emirates,City58,2025-10-14,369.45,True,gold
-414,Leila,Smith,leila.smith414@example.com,+555832877450,33,AE,United Arab Emirates,City60,2024-12-27,922.24,True,bronze
-147,Nadia,Rossi,nadia.rossi147@test.org,+591950194711,30,BR,Brazil,City7,2024-06-15,526.89,True,silver
-212,Ali,Tanaka,ali.tanaka212@example.com,+765230358860,75,US,United States,City60,2026-07-17,261.23,True,platinum
-742,Fatima,Rezaei,missing@,+365226162654,71,US,United States,City30,2025-12-28,159.63,True,bronze
-267,Sofia,Johnson,sofia.johnson267@test.org,+593318869829,26,JP,Japan,City30,2024-05-07,583.41,False,bronze
-216,John,Rossi,john.rossi216@example.com,+406679001955,59,BR,Brazil,City13,2026-02-01,106.28,False,gold
-331,Chen,Rezaei,chen.rezaei331@example.com,+209000743049,75,IR,Iran,City20,2026-05-29,257.4,True,bronze
-401,Sofia,Ahmadi,sofia.ahmadi401@test.org,+43690663315,52,,Brazil,City53,2025-07-24,,True,gold
-13,Sara,Muller,sara.muller13@company.net,+714460994187,45,TR,,  City22 ,2026-07-28,1001.09,True,silver
-721,Mateo,Wang,mateo.wang721@mail.com,+438638239648,67,BR,Brazil,City39,2024-05-23,253.96,True,silver
-544,Elena,  Ahmadi ,elena.ahmadi544@mail.com,+602539572444,77,JP,Japan,City14,2026-05-16,215.25,True,gold
-200,Mateo,Tanaka,mateo.tanaka200@example.com,+753044078677,42,DE,Germany,City29,2024-11-24,119.93,True,gold
-7,David,rezaei,david.rezaei7@mail.com,+268663583314,29,TR,,City33,2024-03-20,132.62,True,bronze
-238,Nadia,Ibrahim,nadia.ibrahim238@example.com,+393233181630,57,JP,Japan,City60,2025-04-30,3218.21,True,bronze
-460,Emma,Hosseini,emma.hosseini460@test.org,+896049086641,33,AE,United Arab Emirates,City2,2025-11-15,505.0,True,silver
-161,Hassan,Petrov,hassan.petrov161@example.com,+634522613758,58,DE,Germany,City17,2026-03-06,210.23,True,platinum
-363,Nadia,Petrov,nadia.petrov363@test.org,+352724094401,,BR,Brazil,City25,2026-05-09,505.77,True,platinum
-427,Elena,Tanaka,elena.tanaka427@example.com,+424526405622,63,US,United States,  City17 ,2025-08-25,225.16,True,platinum
-728,Lucas,Kowalski,lucas.kowalski728@company.net,+103716874698,60,TR,Turkey,City57,2024-07-17,1166.19,True,bronze
-394,Leila,Muller,leila.muller394@company.net,+786882548461,42,IR,Iran,City28,2025-05-14,582.87,True,gold
-596,Chen,Petrov,chen.petrov596@example.com,+502697304607,31,US,United States,City23,2024-09-26,373.0,True,bronze
-225,Hassan,Novak,hassan.novak225@company.net,+113374271064,27,BR,Brazil,City52,2025-05-04,,True,silver
-611,Mateo,Karimi,mateo.karimi611@test.org,,26,DE,Germany,City21,2026-07-07,260.81,True,bronze
-496,Sofia,Ibrahim,sofia.ibrahim496@example.com,+737874815105,72,BR,Brazil,City1,2026-08-02,351.07,True,bronze
-66,Ali,Wang,ali.wang66@example.com,+857162228799,38,TR,Turkey,City47,2024-05-27,549.35,False,bronze
-52,Reza,Johnson,,+986878999899,78,JP,Japan,City15,2026-07-21,776.06,True,bronze
-433,Reza,Ibrahim,reza.ibrahim433@example.com,+674765966150,,BR,Brazil,City56,2026-04-27,565.78,True,platinum
-326,Maryam,Muller,maryam.muller326@test.org,+264435467133,48,US,United States,City41,2025-10-17,1126.52,True,bronze
-603,Hassan,Ibrahim,hassan.ibrahim603@mail.com,+216205388949,22,TR,Turkey,City56,2026-01-09,295.99,True,gold
-213,Chen,SILVA,chen.silva213@company.net,+252910264613,45,FR,France,City37,2025-05-24,1145.61,True,platinum
-12,Omar,Johnson,omar.johnson12@company.net,+264232511644,40,BR,Brazil,City30,2024-09-03,66.21,True,platinum
-683,Ali,Novak,ali.novak683@mail.com,+16372952406,36,AE,United Arab Emirates,CITY3,2025-11-22,877.23,True,bronze
-4,Nadia,,nadia.ibrahim4@mail.com,+266878861718,56,JP,Japan,City54,2024-11-02,151.92,True,platinum
-124,Leila,Garcia,leila.garcia124@mail.com,+198122913965,71,BR,Brazil,City38,2025-06-04,88.38,False,bronze
-192,  Fatima ,Kowalski,fatima.kowalski192@test.org,+653018747675,21,DE,Germany,City12,2024-09-04,101.8,True,silver
-279,Nadia,Karimi,nadia.karimi279@mail.com,+719879475024,48,FR,France,City46,2025-04-08,674.63,False,bronze
-245,Maryam,Ahmadi,maryam.ahmadi245@mail.com,+747548005343,76,IR,Iran,City22,2024-02-18,2056.52,True,silver
-361,David,Tanaka,david.tanaka361@test.org,+574831196710,20,IR,Iran,City37,2024-10-24,465.89,True,platinum
-618,Elena,Kowalski,elena.kowalski618@test.org,+306423575578,39,BR,Brazil,City50,2024-08-15,92.43,True,bronze
-661,Reza,  Ahmadi ,reza.ahmadi661@company.net,+85938654746,38,BR,Brazil,City26,2026-01-17,910.63,True,silver
-600,Chen,Smith,chen.smith600@example.com,+358228383023,35,US,United States,City24,2025-08-25,332.63,False,bronze
-375,Fatima,Ibrahim,fatima.ibrahim375@company.net,+763261027417,77,DE,Germany,City43,2024-04-11,665.96,False,silver
-131,Hassan,Hosseini,hassan.hosseini131@company.net,+941869246995,67,TR,,City29,2025-05-12,585.5,True,bronze
-526,Maryam,Ibrahim, ,+233017066380,68,TR,Turkey,City25,2026-01-31,185.96,False,gold
-572,Lucas,Novak,lucas.novak572@test.org,+218854913963,25,BR,Brazil,City43,2026-07-02,609.42,False,silver
-575,Nadia,Petrov,nadia.petrov575@test.org,+971919687262,56,DE,Germany,City19,2025-10-22,382.56,True,silver
-379,Sofia,  Johnson ,sofia.johnson379@example.com,+574360458537,46,BR,Brazil,City58,2024-05-01,193.9,True,gold
-253,Yuki,Hosseini,yuki.hosseini253@company.net,+417785278896,72,DE,Germany,City14,31/02/2023,N/A,True,gold
-732,David,Johnson,david.johnson732@example.com,+654766615517,78,US,United States,City13,2024-03-10,272.58,True,silver
-691,Ali,Petrov,ali.petrov691@test.org,+261056926765,28,US,United States,City10,2024-05-03,64.86,True,platinum
-652,  Yuki ,Rezaei,yuki.rezaei652@example.com,+608790953969,50,AE,United Arab Emirates,City58,2025-10-14,369.45,True,gold
-179,Reza,Ibrahim,reza.ibrahim179@mail.com,+447452090626,30,BR,Brazil,City20,2025-08-29,212.69,False,bronze
-8,Ivan,Tanaka,ivan.tanaka8@example.com,+309829449488,26,DE,Germany,City54,2026-01-03,490.08,True,silver
-774,David,Silva,david.silva774@mail.com,+991823386280,53,AE,United Arab Emirates,City53,2025-06-15,104.72,True,platinum
-397,David,Silva,david.silva397@company.net,+662343037296,39,AE,United Arab Emirates,City20,2025-12-15,798.41,True,bronze
-65,Maryam,Ahmadi,maryam.ahmadi65@example.com,+941308430847,67,IR,Iran,City24,2026-07-07,74.48,True,gold
-182,Sara,Muller,sara.muller182@example.com,+564847839478,,TR,Turkey,City24,2024-09-19,229.88,True,platinum
-418,LUCAS,Smith,lucas.smith418@example.com,+623416471103,48,FR,France,City20,2025-03-06,N/A,True,gold
-642,Chen,Garcia,chen.garcia642@example.com,+189810717411,20,BR,Brazil,City47,2025-08-16,457.38,True,gold
-9,Anna,  Johnson ,anna.johnson9@example.com,+173653375295,69,FR,France,City39,2025-01-08,666.36,True,gold
-322,Ali,Ibrahim,ali.ibrahim322@company.net,+227121619801,64,IR,Iran,City19,2025-02-18,2819.11,False,gold
-364,Chen,Ahmadi, ,+739166806309,28,IR,Iran,City50,2026-03-08,357.01,False,bronze
-46,Nadia,Tanaka,nadia.tanaka46@example.com,+661186215434,44,TR,Turkey,City19,2026-02-15,6891.51,True,silver
-701,John,Kowalski,john.kowalski701@mail.com,+155780702032,67,BR,Brazil,City34,2025-11-26,494.93,False,silver
-233,Chen,Rezaei,chen.rezaei233@example.com,+557284707456,55,FR,France,,2024-05-06,401.93,True,platinum
-561,Yuki,petrov,yuki.petrov561@example.com,+456399924892,50,IR,Iran,city12,2026-01-05,253.62,,bronze
-255,Sofia,Hosseini,sofia.hosseini255@example.com,+18098707570,77,AE,United Arab Emirates,City10,2026-05-15,770.28,True,silver
-23,Ivan,Rezaei,ivan.rezaei23@mail.com,+224853655923,70,US,United States,City45,2024-05-02,278.29,True,silver
-30,Leila,Silva,leila.silva30@example.com,+216426286380,21,TR,Turkey,  City27 ,2026-01-14,165.74,True,platinum
-769,Hassan,Kowalski,hassan.kowalski769@mail.com,+542308730310,75,AE,United Arab Emirates,City39,2025-10-26,2053.31,True,platinum
-360,Anna,Kowalski,anna.kowalski360@mail.com,+993148514486,44,AE,United Arab Emirates,City3,2025-04-15,260.61,False,silver
-320,Fatima,Smith,fatima.smith320@test.org,+408346114444,37,US,United States,City17,2024-07-18,220.5,True,
-305,Nadia,Tanaka,nadia.tanaka305@mail.com,+354123357553,68,TR,Turkey,  City6 ,2025-03-02,151.62,True,bronze
-140,Maryam,Karimi,maryam.karimi140@company.net,+552457154174,62,JP,Japan,City46,2024-06-16,54.42,False,silver
-359,Yuki,  Garcia ,yuki.garcia359@test.org,+944377234740,21,TR,Turkey,City16,2024-03-07,696.63,True,silver
-535,Leila,Petrov,leila.petrov535@example.com,+782738219452,64,FR,France,City1,2024-11-30,137.73,True,gold
-198,Ali,Johnson,ali.johnson198@company.net,+822978759691,22,AE,United Arab Emirates,City43,2025-02-23,,False,bronze
-462,Reza,Karimi,reza.karimi462@company.net,+653636660200,45,TR,Turkey,City33,2025-03-08,N/A,False,silver
-44,Reza,Smith,reza.smith44@example.com,+703362632587,55,US,United States,City44,2025-03-16,44.29,True,silver
-385,Anna,Petrov,anna.petrov385@mail.com,+818085318068,44,AE,United Arab Emirates,City10,2025-05-03,-896.19,True,silver
-97,reza,Rezaei,reza.rezaei97@mail.com,+733413395564,64,AE,United Arab Emirates,city26,2024-06-24,346.78,True,platinum
-607,Anna,Novak,anna.novak607@test.org,+289576237179,42,AE,United Arab Emirates,City10,2024-06-09,321.79,True,bronze
-438,Elena,Garcia,elena.garcia438@company.net,+252224747532,60,AE,United Arab Emirates,,2024-07-21,170.64,True,platinum
-745,Chen,Karimi,chen.karimi745@example.com,+239225327371,42,FR,France,City57,2026-03-09,821.71,False,platinum
-689,Hassan,Rezaei,hassan.rezaei689@company.net,+444852191146,29,FR,France,City35,2026-04-04,136.54,True,bronze
-392,Reza,Garcia,reza.garcia392@company.net,+61791134402,77,JP,Japan,City52,2025-03-25,876.93,True,platinum
-791,Nadia,  Kowalski ,nadia.kowalski791@mail.com,+169087665634,62,DE,Germany,City57,2024-07-13,153.18,True,gold
-137,Nadia,Novak,nadia.novak137@example.com,+289302677618,63,US,United States,City43,2025-07-15,unknown,True,platinum
-383,Elena,Karimi,elena.karimi383@example.com,+256722457276,66,BR,Brazil,  City55 ,2024-05-10,120.08,True,gold
-405,Sara,Karimi,sara.karimi405@mail.com,+163800256580,75,TR,Turkey,City56,2025-10-15,505.46,False,platinum
-785,Fatima,Rezaei,fatima.rezaei785@test.org,+869420044888,71,IR,Iran,City27,2024-10-24,1493.87,False,platinum
-599,Sara,Kowalski,sara.kowalski599@test.org,+988082345260,64,BR,Brazil,City5,2026-03-19,892.52,True,bronze
-570,Omar,Karimi,omar.karimi570@mail.com,+288982992192,26,BR,Brazil,City60,2026-04-07,574.55,True,bronze
-311,Nadia,Wang,nadia.wang311@mail.com,+206032774509,18,BR,Brazil,City53,2025-07-19,182.67,True,silver
-574,Mateo,Ibrahim,mateo.ibrahim574@test.org,+175169810413,68,FR,France,City51,2025-09-23,3594.68,True,platinum
-670,Maryam,Johnson,maryam.johnson670@example.com,+413543898749,36,FR,France,City6,,95.88,False,platinum
-582,John,Tanaka,john.tanaka582@test.org,+698399733762,20,FR,France,City14,2025-07-23,153.34,True,bronze
-632,Leila,Petrov,leila.petrov632@example.com,+641174756817,31,IR,Iran,City59,2025-12-29,176.83,True,bronze
-151,LUCAS,Rossi,lucas.rossi151@test.org,+405553654705,57,BR,Brazil,,2025-01-13,399.24,True,gold
-98,Maryam,Smith,maryam.smith98@test.org,+802264257442,51,TR,Turkey,City46,2024-08-07,39.71,True,platinum
-555,Anna,Smith,anna.smith555@mail.com,+773970260616,57,DE,Germany,City46,2025-03-25,581.79,False,platinum
-757,David,Ahmadi,david.ahmadi757@company.net,+157564571859,43,FR,France,City13,2026-04-09,705.99,True,platinum
-731,  Fatima ,Rezaei,fatima.rezaei731@company.net,+269992188023,35,BR,Brazil,City14,2026-08-03,,False,bronze
-725,Maryam,Johnson,maryam.johnson725@example.com,+51440165864,51,BR,Brazil,CITY43,2026-07-02,235.23,True,bronze
-115,Leila,Smith,leila.smith115@mail.com,+68165466434,59,AE,United Arab Emirates,City7,2024-06-11,864.73,True,gold
-55,Reza,Rezaei,reza.rezaei55@example.com,+634022573640,69,IR,Iran,city39,2024-03-02,3509.97,True,bronze
-40,Reza,Kowalski,reza.kowalski40@example.com,+751823053183,51,TR,,City9,2024-05-03,86.2,True,platinum
-92,Maryam,Ibrahim,maryam.ibrahim92@company.net,+818951095867,46,FR,France,  City42 ,2024-04-22,491.19,True,silver
-797,Emma,Novak,emma.novak797@company.net,+496316486434,37,FR,France,City3,2025-10-19,194.66,False,platinum
-524,Fatima,Muller,fatima.muller524@company.net,+511876038435,37,JP,Japan,City58,2026-05-19,2911.76,True,bronze
-477,Chen,Silva,chen.silva477@company.net,+618562651240,25,TR,Turkey,City42,2025-03-10,299.48,True,bronze
-352,Fatima,Johnson,fatima.johnson352@example.com,+359750100357,60,JP,Japan,City14,2025-07-19,500.03,True,silver
-623,Leila,Kowalski,leila.kowalski623@company.net,+419647210603,40,BR,Brazil,City20,2024-06-25,1402.55,False,silver
-203,David,Kowalski,david.kowalski203@test.org,+911635434104,70,DE,Germany,City47,2026-07-21,461.4,False,silver
-248,Lucas,Petrov,lucas.petrov248@example.com,+964666668571,46,AE,United Arab Emirates,City8,2024-08-01,307.08,False,silver
-368,Mateo,Smith,mateo.smith368@test.org,+973093520152,31,US,United States,City28,2026-02-15,238.52,False,bronze
-159,Hassan,Rossi,hassan.rossi159@example.com,+716500421355,75,IR,Iran,City11,2024-04-12,369.53,True,gold
-509,Mateo,Kowalski,mateo.kowalski509@test.org,+903825433419,60,BR,Brazil,City22,2025-03-07,217.89,True,platinum
-481,lucas,Smith,lucas.smith481@test.org,+804674488357,53,JP,Japan,City42,31/02/2023,972.23,False,platinum
-323,Fatima,Muller,fatima.muller323@test.org,+293069366155,61,,Japan,City20,2024-10-05,258.51,True,platinum
-75,Lucas,Kowalski,lucas.kowalski75@mail.com,+613530286599,23,US,United States,City39,2026-04-25,71.62,True,platinum
-228,Maryam,Rezaei,maryam.rezaei228@example.com,+42610169362,46,FR,France,City56,2025-02-06,478.9,True,bronze
-317,Sara,Johnson,sara.johnson317@example.com,+439751976995,62,DE,Germany,City18,2025-01-03,837.98,False,gold
-128,Reza,Muller,reza.muller128@mail.com,+729102230644,19,AE,United Arab Emirates,city18,2025-08-28,847.77,True,silver
-629,David,Rossi,david.rossi629@test.org,+532366172791,71,AE,United Arab Emirates,City46,2024-12-22,498.9,True,gold
-184,Lucas,Ahmadi,lucas.ahmadi184@company.net,+501478746127,44,DE,Germany,City45,2024-07-22,35.16,True,silver
-447,Ivan,Smith,ivan.smith447@mail.com,+536062988028,69,AE,United Arab Emirates,City31,2025-03-07,552140.8750955557,True,silver
-549,Lucas,Karimi,lucas.karimi549@company.net,+19802395701,60,DE,Germany,City18,2025-07-29,1506.14,True,platinum
-540,Sara,MULLER,sara.muller540@example.com,+757900728706,,JP,Japan,City24,2025-12-10,805.14,True,platinum
-641,Emma,Novak,emma.novak641@test.org,+87863208751,60,IR,Iran,City10,2025-12-22,-1949.68,True,platinum
-609,Lucas,Garcia,lucas.garcia609@mail.com,+331946207909,41,BR,Brazil,City8,2025-07-13,316.66,True,bronze
-507,Emma,Rossi,emma.rossi507@example.com,+644861756739,26,FR,France,City19,2025-10-03,162.61,False,bronze
-649,Hassan,Hosseini,hassan.hosseini649@company.net,+874469887046,64,JP,Japan,City48,2025-03-09,156.27,False,gold
+696,Hassan,Kowalski,hassan.kowalski696@example.com,+447700900988,60,JP,Japan,City11,2025-06-16,145.01,False,platinum
+650,FATIMA,Garcia,fatima.garcia650@mail.example,+447700900865,75,JP,Japan,City52,2025-02-15,147.21,True,platinum
+208,Ivan,Rossi,ivan.rossi208@mail.example,+19845550126,28,BR,Brazil,,2025-11-12,211.08,True,platinum
+772,John,Karimi,john.karimi772@mail.example,+447700900805,74,TR,Turkey,City33,2026-05-05,209.7,True,silver
+348,Omar,Ahmadi,omar.ahmadi348@mail.example,+12305550156,28,US,United States,City5,2026-04-16,799.95,True,platinum
+242,REZA,Kowalski,reza.kowalski242@example.com,+12235550133,28,US,United States,City49,2025-05-12,1484.65,True,silver
+658,  Mateo ,Rossi,mateo.rossi658@mail.example,+447700900217,34,US,United States,City31,2025-06-03,204.36,True,gold
+31,Nadia,Rezaei,nadia.rezaei31@mail.example,+17725550178,61,JP,Japan,City39,2024-04-09,282.34,True,silver
+694,Nadia,Rezaei,nadia.rezaei694@mail.example,+15565550150,18,AE,United Arab Emirates,City9,2023-13-45,unknown,False,gold
+410,Ali,Silva,ali.silva410@example.net,+17745550172,45,BR,Brazil,City5,2025-04-10,227.01,True,platinum
+704,Maryam,Johnson,maryam.johnson704@example.com,+12055550185,26,FR,France,city32,2025-05-03,829.74,True,bronze
+562,Hassan,Rezaei,hassan.rezaei562@mail.example,+447700900336,47,FR,France,City30,2025-04-17,263.71,True,bronze
+11,Yuki,  Johnson ,yuki.johnson11@example.net,+447700900653,58,TR,Turkey,City29,2024-04-05,126.99,True,silver
+537,Yuki,Kowalski,yuki.kowalski537@example.org,+15605550179,51,BR,Brazil,City28,2024-02-19,267.79,True,platinum
+41,Yuki,Petrov,yuki.petrov41@example.net,+447700900380,71,JP,Japan,  City12 ,2025-12-22,104.35,True,bronze
+24,Ali,Garcia,ali.garcia24@example.org,+447700900692,50,AE,United Arab Emirates,City52,2025-11-17,1478.83,True,silver
+163,Omar,Karimi,omar.karimi163@example.net,+12185550147,76,US,United States,City6,2026-02-04,324.5,True,silver
+563,Reza,Muller,reza.muller563@example.org,+18525550115,75,BR,Brazil,City33,2025-09-02,345.89,False,platinum
+667,Ali,Garcia,ali.garcia667@example.net,+12735550122,62,US,United States,City19,2025-11-22,1342.31,True,platinum
+744,Sofia,Kowalski,sofia.kowalski744@mail.example,+14455550115,31,TR,Turkey,City33,2025-04-19,451.16,True,silver
+674,Anna,Smith,anna.smith674@mail.example,+19435550133,35,DE,Germany,City10,2024-02-25,1788.75,True,platinum
+590,Lucas,Kowalski,lucas.kowalski590@mail.example,+15745550177,67,JP,Japan,City11,2023-13-45,194.88,True,gold
+539,John,Petrov,john.petrov539@example.org,+17995550159,73,US,United States,City5,31/02/2023,185.56,True,gold
+353,Reza,Silva,reza.silva353@example.net,+14625550193,60,US,United States,City60,2025-12-18,784.24,False,silver
+409,Ali,Smith,ali.smith409@mail.example,+447700900425,69,IR,Iran,City37,2024-10-23,185.35,False,bronze
+412,Hassan,Kowalski,hassan.kowalski412@mail.example,+447700900030,36,JP,Japan,City59,2026-02-27,117.3,True,platinum
+565,Ali,Kowalski,ali.kowalski565@example.org,+447700900309,60,US,United States,City9,2025-07-03,2922.48,False,platinum
+466,Maryam,Ahmadi,maryam.ahmadi466@example.net,+447700900518,58,,Germany,  City5 ,2026-03-13,383.42,False,gold
+740,Ivan,Tanaka,ivan.tanaka740@example.com,+17605550116,68,AE,,City56,2025-11-26,362.45,True,platinum
+263,Omar,Tanaka,omar.tanaka263@example.com,+12005550105,51,AE,United Arab Emirates,City24,2024-04-01,515.26,True,bronze
+250,Maryam,Karimi,maryam.karimi250@example.org,+447700900112,64,JP,Japan,City35,2025-02-04,139.48,False,bronze
+221,Elena,Garcia,elena.garcia221@example.org,+447700900853,30,TR,Turkey,City24,2026-03-13,825.51,True,bronze
+693,Leila,Karimi,leila.karimi693@example.net,+447700900782,37,AE,United Arab Emirates,City51,2025-08-18,393.81,True,platinum
+26,Emma,Petrov,emma.petrov26@example.com,+13545550164,29,TR,Turkey,City25,2024-10-10,619.1,True,silver
+697,Mateo,Tanaka,mateo.tanaka697@example.com,+447700900049,77,TR,Turkey,City13,2026-02-19,487.6,,gold
+5,Leila,Smith,leila.smith5@example.org,+447700900547,24,JP,Japan,City54,2026-02-11,1210.55,False,silver
+571,Chen,Johnson,chen.johnson571@example.org,+447700900701,20,IR,Iran,City47,2025-02-23,426.77,True,platinum
+119,Fatima,Silva,fatima.silva119@mail.example,+447700900868,38,DE,Germany,CITY60,2026-05-20,152.5,True,silver
+372,Yuki,Wang,yuki.wang372@example.net,,67,DE,Germany,City15,2025-12-15,1557.0,True,gold
+69,Elena,Silva,elena.silva69@example.net,+18185550111,,BR,Brazil,City43,2026-02-27,423.1,True,platinum
+61,Nadia,Johnson,nadia.johnson61@mail.example,+447700900583,21,BR,Brazil,City52,2024-08-30,487.99,True,bronze
+191,,Johnson,maryam.johnson191@example.org,+16745550196,72,BR,,City49,2024-07-31,560.79,True,bronze
+15,Anna,Novak,anna.novak15@example.com,+447700900545,41,FR,France,City28,2024-10-25,407.07,True,bronze
+533,Fatima,Novak,fatima.novak533@example.org,+12515550104,51,US,United States,City42,2025-06-15,3076.93,True,silver
+304,Leila,Kowalski,leila.kowalski304@example.net,+447700900197,49,IR,Iran,City48,2024-04-19,1518.58,True,platinum
+508,Reza,Johnson,reza.johnson508@example.org,+447700900003,66,FR,France,City39,2024-05-04,431.63,True,silver
+373,Elena,Ahmadi,elena.ahmadi373@example.org,+447700900440,40,US,United States,City19,2025-07-19,335.56,,silver
+676,Nadia,Silva, ,+17245550162,45,JP,Japan,City20,2026-04-02,125.77,True,platinum
+308,Mateo,Rossi,mateo.rossi308@example.org,+447700900644,22,TR,Turkey,City7,2024-03-28,96.78,False,platinum
+652,  Yuki ,Rezaei,yuki.rezaei652@example.com,+15695550153,50,AE,United Arab Emirates,City58,2025-10-14,369.45,True,gold
+414,Leila,Smith,leila.smith414@example.com,+447700900450,33,AE,United Arab Emirates,City60,2024-12-27,922.24,True,bronze
+147,Nadia,Rossi,nadia.rossi147@example.net,+447700900711,30,BR,Brazil,City7,2024-06-15,526.89,True,silver
+212,Ali,Tanaka,ali.tanaka212@example.com,+16605550158,75,US,United States,City60,2026-07-17,261.23,True,platinum
+742,Fatima,Rezaei,missing@,+14545550162,71,US,United States,City30,2025-12-28,159.63,True,bronze
+267,Sofia,Johnson,sofia.johnson267@example.net,+447700900829,26,JP,Japan,City30,2024-05-07,583.41,False,bronze
+216,John,Rossi,john.rossi216@example.com,+15555550101,59,BR,Brazil,City13,2026-02-01,106.28,False,gold
+331,Chen,Rezaei,chen.rezaei331@example.com,+18495550143,75,IR,Iran,City20,2026-05-29,257.4,True,bronze
+401,Sofia,Ahmadi,sofia.ahmadi401@example.net,+13155550163,52,,Brazil,City53,2025-07-24,,True,gold
+13,Sara,Muller,sara.muller13@mail.example,+447700900187,45,TR,,  City22 ,2026-07-28,1001.09,True,silver
+721,Mateo,Wang,mateo.wang721@example.org,+447700900648,67,BR,Brazil,City39,2024-05-23,253.96,True,silver
+544,Elena,  Ahmadi ,elena.ahmadi544@example.org,+16445550172,77,JP,Japan,City14,2026-05-16,215.25,True,gold
+200,Mateo,Tanaka,mateo.tanaka200@example.com,+447700900677,42,DE,Germany,City29,2024-11-24,119.93,True,gold
+7,David,rezaei,david.rezaei7@example.org,+13145550183,29,TR,,City33,2024-03-20,132.62,True,bronze
+238,Nadia,Ibrahim,nadia.ibrahim238@example.com,+447700900630,57,JP,Japan,City60,2025-04-30,3218.21,True,bronze
+460,Emma,Hosseini,emma.hosseini460@example.net,+447700900641,33,AE,United Arab Emirates,City2,2025-11-15,505.0,True,silver
+161,Hassan,Petrov,hassan.petrov161@example.com,+447700900758,58,DE,Germany,City17,2026-03-06,210.23,True,platinum
+363,Nadia,Petrov,nadia.petrov363@example.net,+447700900401,,BR,Brazil,City25,2026-05-09,505.77,True,platinum
+427,Elena,Tanaka,elena.tanaka427@example.com,+12225550105,63,US,United States,  City17 ,2025-08-25,225.16,True,platinum
+728,Lucas,Kowalski,lucas.kowalski728@mail.example,+14985550174,60,TR,Turkey,City57,2024-07-17,1166.19,True,bronze
+394,Leila,Muller,leila.muller394@mail.example,+16615550148,42,IR,Iran,City28,2025-05-14,582.87,True,gold
+596,Chen,Petrov,chen.petrov596@example.com,+18075550104,31,US,United States,City23,2024-09-26,373.0,True,bronze
+225,Hassan,Novak,hassan.novak225@mail.example,+447700900064,27,BR,Brazil,City52,2025-05-04,,True,silver
+611,Mateo,Karimi,mateo.karimi611@example.net,,26,DE,Germany,City21,2026-07-07,260.81,True,bronze
+496,Sofia,Ibrahim,sofia.ibrahim496@example.com,+447700900105,72,BR,Brazil,City1,2026-08-02,351.07,True,bronze
+66,Ali,Wang,ali.wang66@example.com,+447700900799,38,TR,Turkey,City47,2024-05-27,549.35,False,bronze
+52,Reza,Johnson,,+18995550199,78,JP,Japan,City15,2026-07-21,776.06,True,bronze
+433,Reza,Ibrahim,reza.ibrahim433@example.com,+447700900150,,BR,Brazil,City56,2026-04-27,565.78,True,platinum
+326,Maryam,Muller,maryam.muller326@example.net,+19335550167,48,US,United States,City41,2025-10-17,1126.52,True,bronze
+603,Hassan,Ibrahim,hassan.ibrahim603@example.org,+447700900949,22,TR,Turkey,City56,2026-01-09,295.99,True,gold
+213,Chen,SILVA,chen.silva213@mail.example,+447700900613,45,FR,France,City37,2025-05-24,1145.61,True,platinum
+12,Omar,Johnson,omar.johnson12@mail.example,+16445550111,40,BR,Brazil,City30,2024-09-03,66.21,True,platinum
+683,Ali,Novak,ali.novak683@example.org,+447700900406,36,AE,United Arab Emirates,CITY3,2025-11-22,877.23,True,bronze
+4,Nadia,,nadia.ibrahim4@example.org,+13185550161,56,JP,Japan,City54,2024-11-02,151.92,True,platinum
+124,Leila,Garcia,leila.garcia124@example.org,+447700900965,71,BR,Brazil,City38,2025-06-04,88.38,False,bronze
+192,  Fatima ,Kowalski,fatima.kowalski192@example.net,+447700900675,21,DE,Germany,City12,2024-09-04,101.8,True,silver
+279,Nadia,Karimi,nadia.karimi279@example.org,+447700900024,48,FR,France,City46,2025-04-08,674.63,False,bronze
+245,Maryam,Ahmadi,maryam.ahmadi245@example.org,+17435550105,76,IR,Iran,City22,2024-02-18,2056.52,True,silver
+361,David,Tanaka,david.tanaka361@example.net,+447700900710,20,IR,Iran,City37,2024-10-24,465.89,True,platinum
+618,Elena,Kowalski,elena.kowalski618@example.net,+15785550175,39,BR,Brazil,City50,2024-08-15,92.43,True,bronze
+661,Reza,  Ahmadi ,reza.ahmadi661@mail.example,+15465550154,38,BR,Brazil,City26,2026-01-17,910.63,True,silver
+600,Chen,Smith,chen.smith600@example.com,+447700900023,35,US,United States,City24,2025-08-25,332.63,False,bronze
+375,Fatima,Ibrahim,fatima.ibrahim375@mail.example,+14175550127,77,DE,Germany,City43,2024-04-11,665.96,False,silver
+131,Hassan,Hosseini,hassan.hosseini131@mail.example,+17955550146,67,TR,,City29,2025-05-12,585.5,True,bronze
+526,Maryam,Ibrahim, ,+447700900380,68,TR,Turkey,City25,2026-01-31,185.96,False,gold
+572,Lucas,Novak,lucas.novak572@example.net,+447700900963,25,BR,Brazil,City43,2026-07-02,609.42,False,silver
+575,Nadia,Petrov,nadia.petrov575@example.net,+447700900262,56,DE,Germany,City19,2025-10-22,382.56,True,silver
+379,Sofia,  Johnson ,sofia.johnson379@example.com,+447700900537,46,BR,Brazil,City58,2024-05-01,193.9,True,gold
+253,Yuki,Hosseini,yuki.hosseini253@mail.example,+447700900896,72,DE,Germany,City14,31/02/2023,N/A,True,gold
+732,David,Johnson,david.johnson732@example.com,+447700900517,78,US,United States,City13,2024-03-10,272.58,True,silver
+691,Ali,Petrov,ali.petrov691@example.net,+15655550126,28,US,United States,City10,2024-05-03,64.86,True,platinum
+652,  Yuki ,Rezaei,yuki.rezaei652@example.com,+15695550153,50,AE,United Arab Emirates,City58,2025-10-14,369.45,True,gold
+179,Reza,Ibrahim,reza.ibrahim179@example.org,+14265550190,30,BR,Brazil,City20,2025-08-29,212.69,False,bronze
+8,Ivan,Tanaka,ivan.tanaka8@example.com,+18885550149,26,DE,Germany,City54,2026-01-03,490.08,True,silver
+774,David,Silva,david.silva774@example.org,+447700900280,53,AE,United Arab Emirates,City53,2025-06-15,104.72,True,platinum
+397,David,Silva,david.silva397@mail.example,+16965550137,39,AE,United Arab Emirates,City20,2025-12-15,798.41,True,bronze
+65,Maryam,Ahmadi,maryam.ahmadi65@example.com,+16475550130,67,IR,Iran,City24,2026-07-07,74.48,True,gold
+182,Sara,Muller,sara.muller182@example.com,+14785550139,,TR,Turkey,City24,2024-09-19,229.88,True,platinum
+418,LUCAS,Smith,lucas.smith418@example.com,+19035550171,48,FR,France,City20,2025-03-06,N/A,True,gold
+642,Chen,Garcia,chen.garcia642@example.com,+18115550117,20,BR,Brazil,City47,2025-08-16,457.38,True,gold
+9,Anna,  Johnson ,anna.johnson9@example.com,+447700900295,69,FR,France,City39,2025-01-08,666.36,True,gold
+322,Ali,Ibrahim,ali.ibrahim322@mail.example,+18015550119,64,IR,Iran,City19,2025-02-18,2819.11,False,gold
+364,Chen,Ahmadi, ,+447700900309,28,IR,Iran,City50,2026-03-08,357.01,False,bronze
+46,Nadia,Tanaka,nadia.tanaka46@example.com,+14345550115,44,TR,Turkey,City19,2026-02-15,6891.51,True,silver
+701,John,Kowalski,john.kowalski701@example.org,+447700900032,67,BR,Brazil,City34,2025-11-26,494.93,False,silver
+233,Chen,Rezaei,chen.rezaei233@example.com,+447700900456,55,FR,France,,2024-05-06,401.93,True,platinum
+561,Yuki,petrov,yuki.petrov561@example.com,+447700900892,50,IR,Iran,city12,2026-01-05,253.62,,bronze
+255,Sofia,Hosseini,sofia.hosseini255@example.com,+447700900570,77,AE,United Arab Emirates,City10,2026-05-15,770.28,True,silver
+23,Ivan,Rezaei,ivan.rezaei23@example.org,+19235550155,70,US,United States,City45,2024-05-02,278.29,True,silver
+30,Leila,Silva,leila.silva30@example.com,+447700900380,21,TR,Turkey,  City27 ,2026-01-14,165.74,True,platinum
+769,Hassan,Kowalski,hassan.kowalski769@example.org,+19105550130,75,AE,United Arab Emirates,City39,2025-10-26,2053.31,True,platinum
+360,Anna,Kowalski,anna.kowalski360@example.org,+447700900486,44,AE,United Arab Emirates,City3,2025-04-15,260.61,False,silver
+320,Fatima,Smith,fatima.smith320@example.net,+12445550114,37,US,United States,City17,2024-07-18,220.5,True,
+305,Nadia,Tanaka,nadia.tanaka305@example.org,+447700900553,68,TR,Turkey,  City6 ,2025-03-02,151.62,True,bronze
+140,Maryam,Karimi,maryam.karimi140@mail.example,+447700900174,62,JP,Japan,City46,2024-06-16,54.42,False,silver
+359,Yuki,  Garcia ,yuki.garcia359@example.net,+15405550134,21,TR,Turkey,City16,2024-03-07,696.63,True,silver
+535,Leila,Petrov,leila.petrov535@example.com,+14525550119,64,FR,France,City1,2024-11-30,137.73,True,gold
+198,Ali,Johnson,ali.johnson198@mail.example,+16915550159,22,AE,United Arab Emirates,City43,2025-02-23,,False,bronze
+462,Reza,Karimi,reza.karimi462@mail.example,+447700900200,45,TR,Turkey,City33,2025-03-08,N/A,False,silver
+44,Reza,Smith,reza.smith44@example.com,+17875550132,55,US,United States,City44,2025-03-16,44.29,True,silver
+385,Anna,Petrov,anna.petrov385@example.org,+447700900068,44,AE,United Arab Emirates,City10,2025-05-03,-896.19,True,silver
+97,reza,Rezaei,reza.rezaei97@example.org,+447700900564,64,AE,United Arab Emirates,city26,2024-06-24,346.78,True,platinum
+607,Anna,Novak,anna.novak607@example.net,+15795550137,42,AE,United Arab Emirates,City10,2024-06-09,321.79,True,bronze
+438,Elena,Garcia,elena.garcia438@mail.example,+447700900532,60,AE,United Arab Emirates,,2024-07-21,170.64,True,platinum
+745,Chen,Karimi,chen.karimi745@example.com,+447700900371,42,FR,France,City57,2026-03-09,821.71,False,platinum
+689,Hassan,Rezaei,hassan.rezaei689@mail.example,+19465550191,29,FR,France,City35,2026-04-04,136.54,True,bronze
+392,Reza,Garcia,reza.garcia392@mail.example,+12025550134,77,JP,Japan,City52,2025-03-25,876.93,True,platinum
+791,Nadia,  Kowalski ,nadia.kowalski791@example.org,+12345550165,62,DE,Germany,City57,2024-07-13,153.18,True,gold
+137,Nadia,Novak,nadia.novak137@example.com,+12185550177,63,US,United States,City43,2025-07-15,unknown,True,platinum
+383,Elena,Karimi,elena.karimi383@example.com,+447700900276,66,BR,Brazil,  City55 ,2024-05-10,120.08,True,gold
+405,Sara,Karimi,sara.karimi405@example.org,+17805550156,75,TR,Turkey,City56,2025-10-15,505.46,False,platinum
+785,Fatima,Rezaei,fatima.rezaei785@example.net,+12885550144,71,IR,Iran,City27,2024-10-24,1493.87,False,platinum
+599,Sara,Kowalski,sara.kowalski599@example.net,+16605550145,64,BR,Brazil,City5,2026-03-19,892.52,True,bronze
+570,Omar,Karimi,omar.karimi570@example.org,+13925550192,26,BR,Brazil,City60,2026-04-07,574.55,True,bronze
+311,Nadia,Wang,nadia.wang311@example.org,+13095550174,18,BR,Brazil,City53,2025-07-19,182.67,True,silver
+574,Mateo,Ibrahim,mateo.ibrahim574@example.net,+447700900413,68,FR,France,City51,2025-09-23,3594.68,True,platinum
+670,Maryam,Johnson,maryam.johnson670@example.com,+447700900749,36,FR,France,City6,,95.88,False,platinum
+582,John,Tanaka,john.tanaka582@example.net,+447700900762,20,FR,France,City14,2025-07-23,153.34,True,bronze
+632,Leila,Petrov,leila.petrov632@example.com,+12175550156,31,IR,Iran,City59,2025-12-29,176.83,True,bronze
+151,LUCAS,Rossi,lucas.rossi151@example.net,+15055550154,57,BR,Brazil,,2025-01-13,399.24,True,gold
+98,Maryam,Smith,maryam.smith98@example.net,+18425550157,51,TR,Turkey,City46,2024-08-07,39.71,True,platinum
+555,Anna,Smith,anna.smith555@example.org,+447700900616,57,DE,Germany,City46,2025-03-25,581.79,False,platinum
+757,David,Ahmadi,david.ahmadi757@mail.example,+447700900859,43,FR,France,City13,2026-04-09,705.99,True,platinum
+731,  Fatima ,Rezaei,fatima.rezaei731@mail.example,+12235550188,35,BR,Brazil,City14,2026-08-03,,False,bronze
+725,Maryam,Johnson,maryam.johnson725@example.com,+447700900864,51,BR,Brazil,CITY43,2026-07-02,235.23,True,bronze
+115,Leila,Smith,leila.smith115@example.org,+12345550166,59,AE,United Arab Emirates,City7,2024-06-11,864.73,True,gold
+55,Reza,Rezaei,reza.rezaei55@example.com,+447700900640,69,IR,Iran,city39,2024-03-02,3509.97,True,bronze
+40,Reza,Kowalski,reza.kowalski40@example.com,+447700900183,51,TR,,City9,2024-05-03,86.2,True,platinum
+92,Maryam,Ibrahim,maryam.ibrahim92@mail.example,+447700900867,46,FR,France,  City42 ,2024-04-22,491.19,True,silver
+797,Emma,Novak,emma.novak797@mail.example,+447700900434,37,FR,France,City3,2025-10-19,194.66,False,platinum
+524,Fatima,Muller,fatima.muller524@mail.example,+447700900435,37,JP,Japan,City58,2026-05-19,2911.76,True,bronze
+477,Chen,Silva,chen.silva477@mail.example,+447700900240,25,TR,Turkey,City42,2025-03-10,299.48,True,bronze
+352,Fatima,Johnson,fatima.johnson352@example.com,+447700900357,60,JP,Japan,City14,2025-07-19,500.03,True,silver
+623,Leila,Kowalski,leila.kowalski623@mail.example,+447700900603,40,BR,Brazil,City20,2024-06-25,1402.55,False,silver
+203,David,Kowalski,david.kowalski203@example.net,+447700900104,70,DE,Germany,City47,2026-07-21,461.4,False,silver
+248,Lucas,Petrov,lucas.petrov248@example.com,+17715550168,46,AE,United Arab Emirates,City8,2024-08-01,307.08,False,silver
+368,Mateo,Smith,mateo.smith368@example.net,+447700900152,31,US,United States,City28,2026-02-15,238.52,False,bronze
+159,Hassan,Rossi,hassan.rossi159@example.com,+447700900355,75,IR,Iran,City11,2024-04-12,369.53,True,gold
+509,Mateo,Kowalski,mateo.kowalski509@example.net,+18195550133,60,BR,Brazil,City22,2025-03-07,217.89,True,platinum
+481,lucas,Smith,lucas.smith481@example.net,+15575550188,53,JP,Japan,City42,31/02/2023,972.23,False,platinum
+323,Fatima,Muller,fatima.muller323@example.net,+447700900155,61,,Japan,City20,2024-10-05,258.51,True,platinum
+75,Lucas,Kowalski,lucas.kowalski75@example.org,+447700900599,23,US,United States,City39,2026-04-25,71.62,True,platinum
+228,Maryam,Rezaei,maryam.rezaei228@example.com,+17625550169,46,FR,France,City56,2025-02-06,478.9,True,bronze
+317,Sara,Johnson,sara.johnson317@example.com,+447700900995,62,DE,Germany,City18,2025-01-03,837.98,False,gold
+128,Reza,Muller,reza.muller128@example.org,+14445550130,19,AE,United Arab Emirates,city18,2025-08-28,847.77,True,silver
+629,David,Rossi,david.rossi629@example.net,+447700900791,71,AE,United Arab Emirates,City46,2024-12-22,498.9,True,gold
+184,Lucas,Ahmadi,lucas.ahmadi184@mail.example,+17275550146,44,DE,Germany,City45,2024-07-22,35.16,True,silver
+447,Ivan,Smith,ivan.smith447@example.org,+447700900028,69,AE,United Arab Emirates,City31,2025-03-07,552140.8750955557,True,silver
+549,Lucas,Karimi,lucas.karimi549@mail.example,+447700900701,60,DE,Germany,City18,2025-07-29,1506.14,True,platinum
+540,Sara,MULLER,sara.muller540@example.com,+447700900706,,JP,Japan,City24,2025-12-10,805.14,True,platinum
+641,Emma,Novak,emma.novak641@example.net,+19515550108,60,IR,Iran,City10,2025-12-22,-1949.68,True,platinum
+609,Lucas,Garcia,lucas.garcia609@example.org,+447700900909,41,BR,Brazil,City8,2025-07-13,316.66,True,bronze
+507,Emma,Rossi,emma.rossi507@example.com,+19395550156,26,FR,France,City19,2025-10-03,162.61,False,bronze
+649,Hassan,Hosseini,hassan.hosseini649@mail.example,+447700900046,64,JP,Japan,City48,2025-03-09,156.27,False,gold
